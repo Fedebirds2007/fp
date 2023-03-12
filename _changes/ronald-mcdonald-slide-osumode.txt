@@ -1,0 +1,11 @@
+mods/data/ronald-mcdonald-slide/events.json
+mods/data/ronald-mcdonald-slide/mod.txt
+mods/data/ronald-mcdonald-slide/ronald-mcdonald-slide-easy.json
+mods/data/ronald-mcdonald-slide/ronald-mcdonald-slide-hard.json
+mods/data/ronald-mcdonald-slide/ronald-mcdonald-slide.json
+mods/B.B EX/stages/stupid-dumb.json
+mods/B.B EX/stages/stupid-dumb.lua
+mods/songs/ronald-mcdonald-slide/Voices.ogg
+mods/songs/ronald-mcdonald-slide/voices.ogg
+mods/songs/ronald-mcdonald-slide/Inst.ogg
+mods/songs/ronald-mcdonald-slide/inst.ogg

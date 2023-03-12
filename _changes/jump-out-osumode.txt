@@ -1,0 +1,11 @@
+mods/data/jump-out/events.json
+mods/data/jump-out/jump-out-easy.json
+mods/data/jump-out/jump-out-hard.json
+mods/data/jump-out/jump-out.json
+mods/data/jump-out/mod.txt
+mods/B.B EX/stages/happy.json
+mods/B.B EX/stages/happy.lua
+mods/songs/jump-out/Voices.ogg
+mods/songs/jump-out/voices.ogg
+mods/songs/jump-out/Inst.ogg
+mods/songs/jump-out/inst.ogg

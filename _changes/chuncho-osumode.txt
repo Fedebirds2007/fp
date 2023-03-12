@@ -1,0 +1,11 @@
+mods/data/chuncho/chuncho-pulenta.json
+mods/data/chuncho/chuncho.json
+mods/data/chuncho/mod.txt
+mods/VN Webiando/stages/bgnoche.json
+mods/VN Webiando/custom_events/lyrics.lua
+mods/VN Webiando/custom_events/Set Camera Zoom.lua
+mods/VN Webiando/scripts/camaraFluida.lua
+mods/songs/chuncho/Voices.ogg
+mods/songs/chuncho/voices.ogg
+mods/songs/chuncho/Inst.ogg
+mods/songs/chuncho/inst.ogg

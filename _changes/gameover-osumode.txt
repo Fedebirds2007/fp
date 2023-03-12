@@ -1,0 +1,8 @@
+mods/data/gameover/gameover-easy.json
+mods/data/gameover/gameover-hard.json
+mods/data/gameover/gameover.json
+mods/data/gameover/mod.txt
+mods/songs/gameover/Voices.ogg
+mods/songs/gameover/voices.ogg
+mods/songs/gameover/Inst.ogg
+mods/songs/gameover/inst.ogg

@@ -1,0 +1,11 @@
+mods/data/groovy-brass-ex/events.json
+mods/data/groovy-brass-ex/groovy-brass-ex-easy.json
+mods/data/groovy-brass-ex/groovy-brass-ex-hard.json
+mods/data/groovy-brass-ex/groovy-brass-ex.json
+mods/data/groovy-brass-ex/mod.txt
+mods/B.B EX/stages/stage.json
+mods/B.B EX/stages/stage.lua
+mods/songs/groovy-brass-ex/Voices.ogg
+mods/songs/groovy-brass-ex/voices.ogg
+mods/songs/groovy-brass-ex/Inst.ogg
+mods/songs/groovy-brass-ex/inst.ogg

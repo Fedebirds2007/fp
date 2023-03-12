@@ -1,0 +1,10 @@
+mods/data/swing-ex/mod.txt
+mods/data/swing-ex/swing-ex-easy.json
+mods/data/swing-ex/swing-ex-hard.json
+mods/data/swing-ex/swing-ex.json
+mods/B.B EX/stages/bosipex.json
+mods/B.B EX/stages/bosipex.lua
+mods/songs/swing-ex/Voices.ogg
+mods/songs/swing-ex/voices.ogg
+mods/songs/swing-ex/Inst.ogg
+mods/songs/swing-ex/inst.ogg

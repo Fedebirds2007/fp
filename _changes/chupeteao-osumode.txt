@@ -1,0 +1,10 @@
+mods/data/chupeteao/chupeteao-pulenta.json
+mods/data/chupeteao/chupeteao.json
+mods/data/chupeteao/events.json
+mods/data/chupeteao/mod.txt
+mods/VN Webiando/stages/bgnoche.json
+mods/VN Webiando/scripts/camaraFluida.lua
+mods/songs/chupeteao/Voices.ogg
+mods/songs/chupeteao/voices.ogg
+mods/songs/chupeteao/Inst.ogg
+mods/songs/chupeteao/inst.ogg

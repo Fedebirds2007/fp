@@ -1,0 +1,9 @@
+mods/data/golazo/events.json
+mods/data/golazo/golazo.json
+mods/data/golazo/mod.txt
+mods/VN Webiando/stages/unimarc.json
+mods/VN Webiando/scripts/camaraFluida.lua
+mods/songs/golazo/Voices.ogg
+mods/songs/golazo/voices.ogg
+mods/songs/golazo/Inst.ogg
+mods/songs/golazo/inst.ogg

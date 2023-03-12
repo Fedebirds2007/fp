@@ -1,0 +1,18 @@
+mods/data/screwy/mod.txt
+mods/data/screwy/screwy-pulenta.json
+mods/data/screwy/screwy.json
+mods/VN Webiando/characters/bf.json
+mods/VN Webiando/characters/SCREWYCOLO.json
+mods/VN Webiando/characters/gffonda.json
+mods/VN Webiando/stages/bgdia.json
+mods/VN Webiando/images/characters/BOYFRIEND.png
+mods/VN Webiando/images/characters/BOYFRIEND.xml
+mods/VN Webiando/images/characters/Screwycolo.png
+mods/VN Webiando/images/characters/Screwycolo.xml
+mods/VN Webiando/images/characters/GF_assets.png
+mods/VN Webiando/images/characters/GF_assets.xml
+mods/VN Webiando/scripts/camaraFluida.lua
+mods/songs/screwy/Voices.ogg
+mods/songs/screwy/voices.ogg
+mods/songs/screwy/Inst.ogg
+mods/songs/screwy/inst.ogg

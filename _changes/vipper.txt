@@ -1,0 +1,6 @@
+mods/data/vipper/vipper-pulenta.json
+mods/data/vipper/vipper.json
+mods/songs/vipper/Voices.ogg
+mods/songs/vipper/voices.ogg
+mods/songs/vipper/Inst.ogg
+mods/songs/vipper/inst.ogg

@@ -1,0 +1,14 @@
+mods/data/fandomania/events.json
+mods/data/fandomania/fandomania.json
+mods/data/fandomania/mod.txt
+mods/data/fandomania/script.lua
+mods/Hotline 024/stages/hallway.json
+mods/Hotline 024/stages/hallway.lua
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/fandomania/Voices.ogg
+mods/songs/fandomania/voices.ogg
+mods/songs/fandomania/Inst.ogg
+mods/songs/fandomania/inst.ogg

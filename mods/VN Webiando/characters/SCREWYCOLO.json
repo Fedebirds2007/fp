@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				-45
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "screwy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				-60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				-99
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				-48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-123
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Screwycolo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "e",
+	"flip_x": false,
+	"healthbar_colors": [
+		134,
+		86,
+		122
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,8 @@
+mods/data/ow/mod.txt
+mods/data/ow/ow-hard.json
+mods/Impostor/stages/kills.json
+mods/Impostor/stages/kills.lua
+mods/songs/ow/Voices.ogg
+mods/songs/ow/voices.ogg
+mods/songs/ow/Inst.ogg
+mods/songs/ow/inst.ogg

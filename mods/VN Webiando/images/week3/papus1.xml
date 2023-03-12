@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="papus1.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="derecha0000" x="10" y="10" width="530" height="404"/>
+	<SubTexture name="derecha0001" x="550" y="10" width="530" height="404"/>
+	<SubTexture name="derecha0002" x="1090" y="10" width="530" height="404"/>
+	<SubTexture name="derecha0003" x="10" y="424" width="530" height="404"/>
+	<SubTexture name="derecha0004" x="550" y="424" width="530" height="404"/>
+	<SubTexture name="derecha0005" x="1090" y="424" width="530" height="404"/>
+	<SubTexture name="derecha0006" x="10" y="838" width="530" height="404"/>
+	<SubTexture name="derecha0007" x="550" y="838" width="530" height="404"/>
+	<SubTexture name="derecha0008" x="1090" y="838" width="530" height="404"/>
+	<SubTexture name="derecha0009" x="1090" y="838" width="530" height="404"/>
+	<SubTexture name="derecha0010" x="10" y="1252" width="530" height="404"/>
+	<SubTexture name="derecha0011" x="10" y="1252" width="530" height="404"/>
+	<SubTexture name="derecha0012" x="10" y="1252" width="530" height="404"/>
+	<SubTexture name="derecha0013" x="10" y="1252" width="530" height="404"/>
+</TextureAtlas>

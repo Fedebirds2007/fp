@@ -1,0 +1,20 @@
+mods/data/split-ex/mod.txt
+mods/data/split-ex/split-ex-easy.json
+mods/data/split-ex/split-ex-hard.json
+mods/data/split-ex/split-ex.json
+mods/B.B EX/characters/bf-ex-night.json
+mods/B.B EX/characters/amorex.json
+mods/B.B EX/characters/mydad.json
+mods/B.B EX/stages/night-ex.json
+mods/B.B EX/stages/night-ex.lua
+mods/B.B EX/images/characters/BoyFriend_Assets_EX_night.png
+mods/B.B EX/images/characters/BoyFriend_Assets_EX_night.xml
+mods/B.B EX/images/characters/amorex.png
+mods/B.B EX/images/characters/amorex.xml
+mods/B.B EX/images/characters/mydad.png
+mods/B.B EX/images/characters/mydad.xml
+mods/B.B EX/images/BG1_night-ex.png
+mods/songs/split-ex/Voices.ogg
+mods/songs/split-ex/voices.ogg
+mods/songs/split-ex/Inst.ogg
+mods/songs/split-ex/inst.ogg

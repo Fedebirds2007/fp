@@ -1,0 +1,20 @@
+mods/data/piantes/events.json
+mods/VN Webiando/characters/barry-cam.json
+mods/VN Webiando/images/characters/Barry.png
+mods/VN Webiando/images/characters/Barry.xml
+mods/VN Webiando/characters/barry.json
+mods/data/piantes/mod.txt
+mods/data/piantes/piantes-pulenta.json
+mods/data/piantes/piantes.json
+mods/VN Webiando/characters/bfPulento.json
+mods/VN Webiando/characters/walala.json
+mods/VN Webiando/stages/pulentos.json
+mods/VN Webiando/images/characters/bfpul.png
+mods/VN Webiando/images/characters/bfpul.xml
+mods/VN Webiando/images/characters/waaalalla.png
+mods/VN Webiando/images/characters/waaalalla.xml
+mods/VN Webiando/scripts/camaraFluida.lua
+mods/songs/piantes/Voices.ogg
+mods/songs/piantes/voices.ogg
+mods/songs/piantes/Inst.ogg
+mods/songs/piantes/inst.ogg

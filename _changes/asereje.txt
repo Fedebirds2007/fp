@@ -1,0 +1,19 @@
+mods/data/asereje/asereje-hard.json
+mods/data/asereje/asereje-pulenta.json
+mods/data/asereje/asereje.json
+mods/data/asereje/events.json
+mods/data/asereje/mod.txt
+mods/VN Webiando/characters/bf.json
+mods/VN Webiando/characters/miku.json
+mods/VN Webiando/characters/gf.json
+mods/VN Webiando/images/characters/BOYFRIEND.png
+mods/VN Webiando/images/characters/BOYFRIEND.xml
+mods/VN Webiando/images/characters/mikuChilean.png
+mods/VN Webiando/images/characters/mikuChilean.xml
+mods/VN Webiando/images/characters/GF_assets.png
+mods/VN Webiando/images/characters/GF_assets.xml
+mods/VN Webiando/scripts/camaraFluida.lua
+mods/songs/asereje/Voices.ogg
+mods/songs/asereje/voices.ogg
+mods/songs/asereje/Inst.ogg
+mods/songs/asereje/inst.ogg

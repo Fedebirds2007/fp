@@ -1,0 +1,21 @@
+mods/data/split/events.json
+mods/data/split/mod.txt
+mods/data/split/split-easy.json
+mods/data/split/split-hard.json
+mods/data/split/split.json
+mods/B.B EX/characters/bf-night.json
+mods/B.B EX/characters/amor.json
+mods/B.B EX/characters/nothing.json
+mods/B.B EX/stages/night.json
+mods/B.B EX/stages/night.lua
+mods/B.B EX/images/characters/BoyFriend_night.png
+mods/B.B EX/images/characters/BoyFriend_night.xml
+mods/B.B EX/images/characters/amor_assets.png
+mods/B.B EX/images/characters/amor_assets.xml
+mods/B.B EX/images/characters/nothing.png
+mods/B.B EX/images/characters/nothing.xml
+mods/B.B EX/images/BG_night.png
+mods/songs/split/Voices.ogg
+mods/songs/split/voices.ogg
+mods/songs/split/Inst.ogg
+mods/songs/split/inst.ogg

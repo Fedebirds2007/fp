@@ -1,0 +1,10 @@
+mods/data/jump-in-ex/jump-in-ex-easy.json
+mods/data/jump-in-ex/jump-in-ex-hard.json
+mods/data/jump-in-ex/jump-in-ex.json
+mods/data/jump-in-ex/mod.txt
+mods/B.B EX/stages/bobex.json
+mods/B.B EX/stages/bobex.lua
+mods/songs/jump-in-ex/Voices.ogg
+mods/songs/jump-in-ex/voices.ogg
+mods/songs/jump-in-ex/Inst.ogg
+mods/songs/jump-in-ex/inst.ogg

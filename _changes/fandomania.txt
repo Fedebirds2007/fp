@@ -1,0 +1,29 @@
+mods/data/fandomania/events.json
+mods/data/fandomania/fandomania.json
+mods/data/fandomania/mod.txt
+mods/data/fandomania/script.lua
+mods/Hotline 024/characters/bf.json
+mods/Hotline 024/characters/nikku.json
+mods/Hotline 024/characters/gf.json
+mods/Hotline 024/stages/hallway.json
+mods/Hotline 024/stages/hallway.lua
+mods/Hotline 024/images/characters/BOYFRIENDTWO.png
+mods/Hotline 024/images/characters/BOYFRIENDTWO.xml
+mods/Hotline 024/images/characters/NikkuAssets.png
+mods/Hotline 024/images/characters/NikkuAssets.xml
+mods/Hotline 024/images/characters/GF_assets.png
+mods/Hotline 024/images/characters/GF_assets.xml
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/images/hallway/cutscene1/spritemap.png
+mods/Hotline 024/images/hallway/bg.png
+mods/Hotline 024/images/hallway/fg.png
+mods/Hotline 024/images/hallway/grad.png
+mods/Hotline 024/images/characters/MATZURETRY.png
+mods/Hotline 024/images/barText.png
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/fandomania/Voices.ogg
+mods/songs/fandomania/voices.ogg
+mods/songs/fandomania/Inst.ogg
+mods/songs/fandomania/inst.ogg

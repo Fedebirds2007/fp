@@ -1,0 +1,15 @@
+mods/data/groovy-brass/events.json
+mods/data/groovy-brass/groovy-brass-easy.json
+mods/data/groovy-brass/groovy-brass-hard.json
+mods/data/groovy-brass/groovy-brass.json
+mods/data/groovy-brass/mod.txt
+mods/B.B EX/characters/bluskys.json
+mods/B.B EX/stages/Bluskys.json
+mods/B.B EX/stages/Bluskys.lua
+mods/B.B EX/images/characters/Bluskys.png
+mods/B.B EX/images/characters/Bluskys.xml
+mods/B.B EX/images/BG_bluskys.png
+mods/songs/groovy-brass/Voices.ogg
+mods/songs/groovy-brass/voices.ogg
+mods/songs/groovy-brass/Inst.ogg
+mods/songs/groovy-brass/inst.ogg

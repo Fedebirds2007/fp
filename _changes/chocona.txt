@@ -1,0 +1,6 @@
+mods/data/chocona/chocona-pulenta.json
+mods/data/chocona/chocona.json
+mods/songs/chocona/Voices.ogg
+mods/songs/chocona/voices.ogg
+mods/songs/chocona/Inst.ogg
+mods/songs/chocona/inst.ogg

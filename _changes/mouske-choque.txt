@@ -1,0 +1,20 @@
+mods/data/mouske-choque/mod.txt
+mods/data/mouske-choque/mouske-choque-pulento.json
+mods/data/mouske-choque/mouske-choque.json
+mods/VN Webiando/characters/bf.json
+mods/VN Webiando/characters/dad.json
+mods/VN Webiando/characters/gf.json
+mods/VN Webiando/stages/stage.json
+mods/VN Webiando/images/characters/BOYFRIEND.png
+mods/VN Webiando/images/characters/BOYFRIEND.xml
+mods/VN Webiando/images/characters/DADDY_DEAREST.png
+mods/VN Webiando/images/characters/DADDY_DEAREST.xml
+mods/VN Webiando/images/characters/GF_assets.png
+mods/VN Webiando/images/characters/GF_assets.xml
+mods/VN Webiando/characters/minnieputa.json
+mods/VN Webiando/stages/minnie.json
+mods/VN Webiando/scripts/camaraFluida.lua
+mods/songs/mouske-choque/Voices.ogg
+mods/songs/mouske-choque/voices.ogg
+mods/songs/mouske-choque/Inst.ogg
+mods/songs/mouske-choque/inst.ogg

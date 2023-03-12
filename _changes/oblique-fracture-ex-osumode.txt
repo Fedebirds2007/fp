@@ -1,0 +1,10 @@
+mods/data/oblique-fracture-ex/mod.txt
+mods/data/oblique-fracture-ex/oblique-fracture-ex-easy.json
+mods/data/oblique-fracture-ex/oblique-fracture-ex-hard.json
+mods/data/oblique-fracture-ex/oblique-fracture-ex.json
+mods/B.B EX/stages/sans-ex.json
+mods/B.B EX/stages/sans-ex.lua
+mods/songs/oblique-fracture-ex/Voices.ogg
+mods/songs/oblique-fracture-ex/voices.ogg
+mods/songs/oblique-fracture-ex/Inst.ogg
+mods/songs/oblique-fracture-ex/inst.ogg

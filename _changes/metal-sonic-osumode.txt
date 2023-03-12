@@ -1,0 +1,12 @@
+mods/data/metal-sonic/events.json
+mods/data/metal-sonic/metal-sonic-pulenta.json
+mods/data/metal-sonic/metal-sonic.json
+mods/data/metal-sonic/mod.txt
+mods/VN Webiando/stages/bgdia-metal.json
+mods/VN Webiando/custom_events/Set Camera Zoom.lua
+mods/VN Webiando/custom_events/lyrics.lua
+mods/VN Webiando/scripts/camaraFluida.lua
+mods/songs/metal-sonic/Voices.ogg
+mods/songs/metal-sonic/voices.ogg
+mods/songs/metal-sonic/Inst.ogg
+mods/songs/metal-sonic/inst.ogg

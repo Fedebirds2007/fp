@@ -1,0 +1,34 @@
+mods/data/jump-out-ex/events.json
+mods/B.B EX/characters/littleman.json
+mods/B.B EX/images/characters/Small_Guy.png
+mods/B.B EX/images/characters/Small_Guy.xml
+mods/B.B EX/characters/bf-ex.json
+mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
+mods/B.B EX/images/characters/BoyFriend_Assets_EX.xml
+mods/B.B EX/characters/bob_tricky.json
+mods/B.B EX/images/characters/Bob_expurgation.png
+mods/B.B EX/images/characters/Bob_expurgation.xml
+mods/B.B EX/characters/bo-ex.json
+mods/B.B EX/images/characters/bo.png
+mods/B.B EX/images/characters/bo.xml
+mods/B.B EX/characters/elpepe.json
+mods/B.B EX/images/characters/ElPepe.png
+mods/B.B EX/images/characters/ElPepe.xml
+mods/B.B EX/characters/gf-ex.json
+mods/B.B EX/images/characters/GF_ass_sets_outfit.png
+mods/B.B EX/images/characters/GF_ass_sets_outfit.xml
+mods/B.B EX/characters/mydad.json
+mods/B.B EX/images/characters/mydad.png
+mods/B.B EX/images/characters/mydad.xml
+mods/data/jump-out-ex/jump-out-ex-easy.json
+mods/data/jump-out-ex/jump-out-ex-hard.json
+mods/data/jump-out-ex/jump-out-ex.json
+mods/data/jump-out-ex/mod.txt
+mods/B.B EX/stages/bobsway.json
+mods/B.B EX/stages/bobsway.lua
+mods/B.B EX/images/stageback5.png
+mods/B.B EX/images/stagecurtains.png
+mods/songs/jump-out-ex/Voices.ogg
+mods/songs/jump-out-ex/voices.ogg
+mods/songs/jump-out-ex/Inst.ogg
+mods/songs/jump-out-ex/inst.ogg

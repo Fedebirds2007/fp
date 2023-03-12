@@ -1,0 +1,14 @@
+mods/data/wocky/camerastuff.lua
+mods/data/wocky/dialogsauce.lua
+mods/data/wocky/mod.txt
+mods/data/wocky/script.lua
+mods/data/wocky/wocky-easy.json
+mods/data/wocky/wocky-hard.json
+mods/data/wocky/wocky.json
+mods/ArcadeShowdown/stages/stageback.json
+mods/ArcadeShowdown/stages/stageback.lua
+mods/ArcadeShowdown/scripts/poison.lua
+mods/songs/wocky/Voices.ogg
+mods/songs/wocky/voices.ogg
+mods/songs/wocky/Inst.ogg
+mods/songs/wocky/inst.ogg

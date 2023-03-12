@@ -1,0 +1,9 @@
+mods/data/no-more-cueca/mod.txt
+mods/data/no-more-cueca/no-more-cueca-pulenta.json
+mods/data/no-more-cueca/no-more-cueca.json
+mods/VN Webiando/stages/bgdia.json
+mods/VN Webiando/scripts/camaraFluida.lua
+mods/songs/no-more-cueca/Voices.ogg
+mods/songs/no-more-cueca/voices.ogg
+mods/songs/no-more-cueca/Inst.ogg
+mods/songs/no-more-cueca/inst.ogg

@@ -1,0 +1,17 @@
+mods/data/swing/mod.txt
+mods/data/swing/swing-easy.json
+mods/data/swing/swing-hard.json
+mods/data/swing/swing.json
+mods/B.B EX/characters/bosip.json
+mods/B.B EX/stages/sunset.json
+mods/B.B EX/stages/sunset.lua
+mods/B.B EX/images/characters/bosip_assets.png
+mods/B.B EX/images/characters/bosip_assets.xml
+mods/B.B EX/characters/bob-gf.json
+mods/B.B EX/images/characters/bob_gf.png
+mods/B.B EX/images/characters/bob_gf.xml
+mods/B.B EX/images/BG_sunset.png
+mods/songs/swing/Voices.ogg
+mods/songs/swing/voices.ogg
+mods/songs/swing/Inst.ogg
+mods/songs/swing/inst.ogg

@@ -1,0 +1,10 @@
+mods/data/conscience/conscience-easy.json
+mods/data/conscience/conscience-hard.json
+mods/data/conscience/conscience.json
+mods/data/conscience/mod.txt
+mods/B.B EX/stages/minishoey.json
+mods/B.B EX/stages/minishoey.lua
+mods/songs/conscience/Voices.ogg
+mods/songs/conscience/voices.ogg
+mods/songs/conscience/Inst.ogg
+mods/songs/conscience/inst.ogg

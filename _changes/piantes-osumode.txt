@@ -1,0 +1,10 @@
+mods/data/piantes/events.json
+mods/data/piantes/mod.txt
+mods/data/piantes/piantes-pulenta.json
+mods/data/piantes/piantes.json
+mods/VN Webiando/stages/pulentos.json
+mods/VN Webiando/scripts/camaraFluida.lua
+mods/songs/piantes/Voices.ogg
+mods/songs/piantes/voices.ogg
+mods/songs/piantes/Inst.ogg
+mods/songs/piantes/inst.ogg
