@@ -14,9 +14,23 @@ mods/B.B EX/images/characters/nothing.png
 mods/B.B EX/images/characters/nothing.xml
 mods/B.B EX/characters/gf-night.json
 mods/B.B EX/stages/amorstage.json
+mods/B.B EX/stages/amorstage.lua
 mods/B.B EX/images/characters/extra/GFnight_assets.png
 mods/B.B EX/images/characters/extra/GFnight_assets.xml
 mods/B.B EX/custom_events/ARE YOU READY.lua
+mods/B.B EX/images/BG/week1/Amor/BG1.png
+mods/B.B EX/images/BG/week1/Amor/BG2.png
+mods/B.B EX/images/BG/week1/Amor/BG3.png
+mods/B.B EX/images/BG/week1/Amor/bobsip.png
+mods/B.B EX/images/BG/week1/Amor/bobsip.xml
+mods/B.B EX/images/BG/week1/Amor/BG4.png
+mods/B.B EX/images/BG/week1/amor/pixelthing.png
+mods/B.B EX/images/BG/week1/amor/pixelthing.xml
+mods/B.B EX/images/BG/week1/amor/pc.png
+mods/B.B EX/images/BG/week1/amor/pc.xml
+mods/B.B EX/images/BG/week1/Amor/ARE.png
+mods/B.B EX/images/BG/week1/Amor/YOU.png
+mods/B.B EX/images/BG/week1/Amor/READY.png
 mods/songs/split/Voices.ogg
 mods/songs/split/voices.ogg
 mods/songs/split/Inst.ogg

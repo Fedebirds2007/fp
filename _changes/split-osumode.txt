@@ -4,6 +4,7 @@ mods/data/split/split-easy.json
 mods/data/split/split-hard.json
 mods/data/split/split.json
 mods/B.B EX/stages/amorstage.json
+mods/B.B EX/stages/amorstage.lua
 mods/B.B EX/custom_events/ARE YOU READY.lua
 mods/songs/split/Voices.ogg
 mods/songs/split/voices.ogg
