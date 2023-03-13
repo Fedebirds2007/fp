@@ -13,6 +13,7 @@ mods/B.B EX/images/characters/CerbEX.png
 mods/B.B EX/images/characters/CerbEX.xml
 mods/B.B EX/images/characters/ASHEX.png
 mods/B.B EX/images/characters/ASHEX.xml
+mods/B.B EX/custom_notetypes/duet.lua
 mods/B.B EX/images/stageback3.png
 mods/songs/intertwined-ex/Voices.ogg
 mods/songs/intertwined-ex/voices.ogg

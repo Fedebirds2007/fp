@@ -24,6 +24,7 @@ mods/ArcadeShowdown/images/upperBop.xml
 mods/ArcadeShowdown/images/lights.png
 mods/ArcadeShowdown/images/lights.xml
 mods/ArcadeShowdown/images/bgFreaks.png
+mods/ArcadeShowdown/images/bgFreaks.xml
 mods/songs/nyaw/Voices.ogg
 mods/songs/nyaw/voices.ogg
 mods/songs/nyaw/Inst.ogg

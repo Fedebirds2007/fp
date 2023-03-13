@@ -4,6 +4,7 @@ mods/data/intertwined/intertwined.json
 mods/data/intertwined/mod.txt
 mods/B.B EX/stages/ashncerb.json
 mods/B.B EX/stages/ashncerb.lua
+mods/B.B EX/custom_notetypes/duet.lua
 mods/songs/intertwined/Voices.ogg
 mods/songs/intertwined/voices.ogg
 mods/songs/intertwined/Inst.ogg
