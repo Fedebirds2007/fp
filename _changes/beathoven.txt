@@ -16,6 +16,7 @@ mods/ArcadeShowdown/images/characters/KAPI.xml
 mods/ArcadeShowdown/images/characters/KAPIGIRLFRIEND.png
 mods/ArcadeShowdown/images/characters/KAPIGIRLFRIEND.xml
 mods/ArcadeShowdown/scripts/poison.lua
+mods/ArcadeShowdown/images/stagebackkapiold.png
 mods/ArcadeShowdown/images/stagefrontkapiold.png
 mods/ArcadeShowdown/images/littleguys.png
 mods/ArcadeShowdown/images/littleguys.xml
