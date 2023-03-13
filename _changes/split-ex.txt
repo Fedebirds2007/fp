@@ -13,17 +13,17 @@ mods/B.B EX/images/characters/amorex.png
 mods/B.B EX/images/characters/amorex.xml
 mods/B.B EX/images/characters/mydad.png
 mods/B.B EX/images/characters/mydad.xml
-mods/B.B EX/images/BG/week1/Amor/BG1.png
-mods/B.B EX/images/BG/week1/Amor/BG2.png
-mods/B.B EX/images/BG/week1/Amor/BG3.png
-mods/B.B EX/images/BG/week1/Amor/BG4.png
-mods/B.B EX/images/BG/week1/amor/pixelthing.png
-mods/B.B EX/images/BG/week1/amor/pixelthing.xml
-mods/B.B EX/images/BG/week1/amor/pc.png
-mods/B.B EX/images/BG/week1/amor/pc.xml
-mods/B.B EX/images/BG/week1/Amor/ARE.png
-mods/B.B EX/images/BG/week1/Amor/YOU.png
-mods/B.B EX/images/BG/week1/Amor/READY.png
+mods/B.B EX/images/Amor_BG1.png
+mods/B.B EX/images/Amor_BG2.png
+mods/B.B EX/images/Amor_BG3.png
+mods/B.B EX/images/Amor_BG4.png
+mods/B.B EX/images/pixelthing.png
+mods/B.B EX/images/pixelthing.xml
+mods/B.B EX/images/pc.png
+mods/B.B EX/images/pc.xml
+mods/B.B EX/images/ARE.png
+mods/B.B EX/images/YOU.png
+mods/B.B EX/images/READY.png
 mods/songs/split-ex/Voices.ogg
 mods/songs/split-ex/voices.ogg
 mods/songs/split-ex/Inst.ogg
