@@ -9,81 +9,70 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Amor idle dance"
+			"name": "Bob Idle"
 		},
 		{
 			"offsets": [
-				-6,
-				43
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "Amor Sing Note UP"
-		},
-		{
-			"offsets": [
-				-14,
-				12
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Amor Sing Note RIGHT"
-		},
-		{
-			"offsets": [
-				26,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Amor Sing Note LEFT"
-		},
-		{
-			"offsets": [
-				-29,
-				-16
+				0,
+				-30
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Amor Sing Note DOWN"
+			"name": "Bob Down0"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				34,
-				149
+				-30,
+				-40
 			],
-			"anim": "drop",
+			"loop": false,
 			"fps": 24,
-			"name": "Amor drop",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bob Left0"
+		},
+		{
+			"offsets": [
+				-22,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bob Up0"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BobRight0"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/extra/amor_assets",
+	"image": "characters/ex/Minecraft_Bob",
 	"position": [
 		0,
-		-90
+		-290
 	],
-	"healthicon": "amor",
-	"flip_x": false,
+	"healthicon": "minebobex",
+	"flip_x": true,
 	"healthbar_colors": [
-		58,
-		104,
-		255
+		243,
+		228,
+		28
 	],
 	"camera_position": [
-		190,
-		-20
+		0,
+		250
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 0.6
 }

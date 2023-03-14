@@ -2,72 +2,72 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
-				-1
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "idle",
-			"loop": false,
-			"name": "Npesta idle dance"
-		},
-		{
-			"offsets": [
-				71,
-				-4
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singUP",
-			"loop": false,
-			"name": "Npesta Sing Note UP"
-		},
-		{
-			"offsets": [
-				87,
-				8
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singLEFT",
-			"loop": false,
-			"name": "Npesta Sing Note LEFT"
-		},
-		{
-			"offsets": [
-				66,
-				-52
+				21,
+				-40
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
 			"loop": false,
-			"name": "Npesta Sing Note DOWN"
+			"name": "BF NOTE DOWN instance 1"
 		},
 		{
 			"offsets": [
-				26,
-				-15
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF idle dance instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF NOTE UP instance 1"
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF NOTE LEFT instance 1"
+		},
+		{
+			"offsets": [
+				42,
+				10
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "Npesta Sing Note RIGHT"
+			"name": "BF NOTE RIGHT instance 1"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/I dont know what this is/npesta",
+	"image": "characters/extra/DEAD_BoyFriend_Ass",
 	"position": [
 		0,
-		0
+		300
 	],
-	"healthicon": "ronex",
+	"healthicon": "bone",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		216,
-		0
+		255,
+		255
 	],
 	"camera_position": [
 		0,

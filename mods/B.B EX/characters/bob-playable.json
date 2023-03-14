@@ -4,147 +4,147 @@
 			"loop": false,
 			"offsets": [
 				-5,
-				-1
+				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF idle dance",
+			"name": "BOB idle dance",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-4,
+				5,
 				-6
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "BF NOTE LEFT0",
+			"name": "BOB Sing Note LEFT",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				-20,
-				-32
+				-51
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BF NOTE DOWN0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-36,
-				27
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "BF NOTE UP0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-38,
-				-7
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF NOTE RIGHT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-33,
-				-1
-			],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "BF NOTE LEFT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-15,
-				-9
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "BF NOTE DOWN MISS",
+			"name": "BOB Sing Note DOWN",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				-26,
-				57
+				47
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BOB Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BOB Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-11
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Bob Miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-59
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Bob Miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				16
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
-			"name": "BF NOTE UP MISS",
+			"name": "Bob Miss up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-23,
-				12
+				-14,
+				-18
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"name": "BF NOTE RIGHT MISS",
+			"name": "Bob Miss right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-24,
-				2
+				66,
+				-49
 			],
 			"anim": "firstDeath",
 			"fps": 24,
-			"name": "BF dies",
+			"name": "bob fucking dies",
 			"indices": []
 		},
 		{
 			"loop": true,
 			"offsets": [
-				-22,
-				-5
+				67,
+				-51
 			],
 			"anim": "deathLoop",
 			"fps": 24,
-			"name": "BF Dead Loop",
+			"name": "bob fucking dies loop",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-30,
-				-10
+				67,
+				-41
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
-			"name": "BF Dead confirm",
+			"name": "bob fucking dies confirm",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/ex/sansEX",
+	"image": "characters/extra/Worriedbob",
 	"position": [
 		0,
-		350
+		0
 	],
-	"healthicon": "sans",
+	"healthicon": "bob",
 	"flip_x": true,
 	"healthbar_colors": [
-		255,
-		255,
-		255
+		243,
+		228,
+		28
 	],
 	"camera_position": [
 		0,

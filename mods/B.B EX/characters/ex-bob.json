@@ -9,80 +9,69 @@
 			"fps": 24,
 			"anim": "idle",
 			"loop": false,
-			"name": "Bluskys idle dance"
+			"name": "Idle"
 		},
 		{
 			"offsets": [
-				-7,
-				-20
+				270,
+				-101
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "Bluskys Sing Note LEFT"
+			"name": "singLEFT"
 		},
 		{
 			"offsets": [
-				-10,
-				-20
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWN",
-			"loop": false,
-			"name": "Bluskys Sing Note DOWN"
-		},
-		{
-			"offsets": [
-				10,
-				40
+				290,
+				100
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
 			"loop": false,
-			"name": "Bluskys Sing Note UP"
+			"name": "singUP"
 		},
 		{
 			"offsets": [
-				-20,
+				-111,
 				-20
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "Bluskys Sing Note RIGHT"
+			"name": "singRIGHT"
 		},
 		{
 			"offsets": [
-				60,
-				100
+				190,
+				-60
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "letsgo",
+			"anim": "singDOWN",
 			"loop": false,
-			"name": "Bluskys Letsgo"
+			"name": "singDOWN"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/extra/Bluskys",
+	"no_antialiasing": false,
+	"image": "characters/ex/Bob_expurgation",
 	"position": [
-		70,
-		50
+		0,
+		0
 	],
-	"healthicon": "bluskys",
+	"healthicon": "nodreamex",
 	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		134,
-		247
+		255,
+		255,
+		255
 	],
 	"camera_position": [
-		40,
-		-40
+		0,
+		0
 	],
 	"sing_duration": 6.1,
 	"scale": 1

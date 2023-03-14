@@ -9,80 +9,80 @@
 			"fps": 24,
 			"anim": "idle",
 			"loop": false,
-			"name": "Bluskys idle dance"
+			"name": "bob_idle"
 		},
 		{
 			"offsets": [
-				-7,
-				-20
+				0,
+				0
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "Bluskys Sing Note LEFT"
+			"name": "bob_left"
 		},
 		{
 			"offsets": [
-				-10,
-				-20
+				0,
+				0
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
 			"loop": false,
-			"name": "Bluskys Sing Note DOWN"
+			"name": "bob_down"
 		},
 		{
 			"offsets": [
-				10,
-				40
+				0,
+				0
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
 			"loop": false,
-			"name": "Bluskys Sing Note UP"
+			"name": "bob_up"
 		},
 		{
 			"offsets": [
-				-20,
-				-20
+				0,
+				0
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "Bluskys Sing Note RIGHT"
+			"name": "bob_right"
 		},
 		{
 			"offsets": [
-				60,
-				100
+				-105,
+				-21
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "letsgo",
+			"anim": "idle-alt",
 			"loop": false,
-			"name": "Bluskys Letsgo"
+			"name": "bobismad"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/extra/Bluskys",
+	"no_antialiasing": false,
+	"image": "characters/extra/STUPID_GLOOP_MAN",
 	"position": [
-		70,
-		50
+		-130,
+		220
 	],
-	"healthicon": "bluskys",
+	"healthicon": "nodream",
 	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		134,
-		247
+		255,
+		255,
+		255
 	],
 	"camera_position": [
-		40,
-		-40
+		0,
+		0
 	],
 	"sing_duration": 6.1,
 	"scale": 1

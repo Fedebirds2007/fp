@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-7,
-				-20
+				80,
+				-10
 			],
 			"indices": [],
 			"fps": 24,
@@ -24,7 +24,7 @@
 		},
 		{
 			"offsets": [
-				-10,
+				60,
 				-20
 			],
 			"indices": [],
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				10,
-				40
+				90,
+				20
 			],
 			"indices": [],
 			"fps": 24,
@@ -46,44 +46,33 @@
 		},
 		{
 			"offsets": [
-				-20,
-				-20
+				-10,
+				-40
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"loop": false,
 			"name": "Bluskys Sing Note RIGHT"
-		},
-		{
-			"offsets": [
-				60,
-				100
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "letsgo",
-			"loop": false,
-			"name": "Bluskys Letsgo"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/extra/Bluskys",
+	"no_antialiasing": false,
+	"image": "characters/ex/BluskysEX",
 	"position": [
-		70,
-		50
+		0,
+		0
 	],
-	"healthicon": "bluskys",
+	"healthicon": "bluskysex",
 	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		134,
-		247
+		25,
+		85,
+		197
 	],
 	"camera_position": [
-		40,
-		-40
+		0,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1.1
 }

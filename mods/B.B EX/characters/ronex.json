@@ -2,6 +2,50 @@
 	"animations": [
 		{
 			"offsets": [
+				281,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "RON_DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "RON_LEFT"
+		},
+		{
+			"offsets": [
+				-40,
+				-51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "RON_UP"
+		},
+		{
+			"offsets": [
+				331,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RON_RIGHT"
+		},
+		{
+			"offsets": [
 				0,
 				0
 			],
@@ -9,80 +53,25 @@
 			"fps": 24,
 			"anim": "idle",
 			"loop": false,
-			"name": "Bluskys idle dance"
-		},
-		{
-			"offsets": [
-				-7,
-				-20
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singLEFT",
-			"loop": false,
-			"name": "Bluskys Sing Note LEFT"
-		},
-		{
-			"offsets": [
-				-10,
-				-20
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWN",
-			"loop": false,
-			"name": "Bluskys Sing Note DOWN"
-		},
-		{
-			"offsets": [
-				10,
-				40
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singUP",
-			"loop": false,
-			"name": "Bluskys Sing Note UP"
-		},
-		{
-			"offsets": [
-				-20,
-				-20
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"loop": false,
-			"name": "Bluskys Sing Note RIGHT"
-		},
-		{
-			"offsets": [
-				60,
-				100
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "letsgo",
-			"loop": false,
-			"name": "Bluskys Letsgo"
+			"name": "RON_IDLE"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/extra/Bluskys",
+	"no_antialiasing": false,
+	"image": "characters/ex/stupid_dumb_ex",
 	"position": [
-		70,
+		0,
 		50
 	],
-	"healthicon": "bluskys",
+	"healthicon": "ronex",
 	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		134,
-		247
+		255,
+		216,
+		0
 	],
 	"camera_position": [
-		40,
-		-40
+		0,
+		0
 	],
 	"sing_duration": 6.1,
 	"scale": 1

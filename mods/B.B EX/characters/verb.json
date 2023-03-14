@@ -3,74 +3,63 @@
 		{
 			"loop": false,
 			"offsets": [
-				80,
-				-70
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Bosip Sing Note DOWN",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				0,
 				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Bosip idle dance",
+			"name": "idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				70,
-				-67
+				200,
+				0
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Bosip Sing Note DOWN",
+			"name": "left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				56,
-				70
+				170,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				140
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Bosip Sing Note UP",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				61,
-				10
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Bosip Sing Note RIGHT",
+			"name": "up",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/ex/bosipex",
+	"image": "characters/I dont know what this is/verbalase",
 	"position": [
-		-10,
-		-80
+		30,
+		310
 	],
-	"healthicon": "bosipex",
+	"healthicon": "verb",
 	"flip_x": false,
 	"healthbar_colors": [
-		69,
-		62,
-		62
+		215,
+		202,
+		69
 	],
 	"camera_position": [
-		120,
+		0,
 		0
 	],
 	"sing_duration": 6.1,

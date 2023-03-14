@@ -3,34 +3,12 @@
 		{
 			"loop": false,
 			"offsets": [
-				-48,
-				12
+				-1,
+				-20
 			],
-			"anim": "woofmiddle",
+			"anim": "idle",
 			"fps": 24,
-			"name": "Cerberus Sing Note DOWN",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-108,
-				13
-			],
-			"anim": "woofleft",
-			"fps": 24,
-			"name": "Cerberus Sing Note LEFT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-122,
-				13
-			],
-			"anim": "woofright",
-			"fps": 24,
-			"name": "Cerberus Sing Note RIGHT",
+			"name": "Jghost idle dance",
 			"indices": []
 		},
 		{
@@ -39,40 +17,62 @@
 				0,
 				0
 			],
-			"anim": "idle",
+			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Cerberus idle dance",
+			"name": "Jghost Sing Note LEFT",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-113,
-				35
+				60,
+				-30
 			],
-			"anim": "woofall",
+			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Cerberus Sing Note UP",
+			"name": "Jghost Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jghost Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Jghost Sing Note RIGHT",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/extra/Cerberus",
+	"image": "characters/ex/JghostEX",
 	"position": [
-		-90,
-		250
+		10,
+		-20
 	],
-	"healthicon": "face",
+	"healthicon": "JandCex",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		167,
+		45,
+		42
 	],
 	"camera_position": [
 		0,
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1.3
+	"scale": 1.2
 }

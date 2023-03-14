@@ -2,6 +2,39 @@
 	"animations": [
 		{
 			"offsets": [
+				-11,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "woofmiddle",
+			"indices": [],
+			"name": "Cerberus Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-38,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "woofleft",
+			"indices": [],
+			"name": "Cerberus Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-19,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "woofright",
+			"indices": [],
+			"name": "Cerberus Sing Note RIGHT"
+		},
+		{
+			"offsets": [
 				0,
 				0
 			],
@@ -9,80 +42,36 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Amor idle dance"
+			"name": "Cerberus idle dance"
 		},
 		{
 			"offsets": [
-				-6,
-				43
+				27,
+				5
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singUP",
+			"anim": "woofall",
 			"indices": [],
-			"name": "Amor Sing Note UP"
-		},
-		{
-			"offsets": [
-				-14,
-				12
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Amor Sing Note RIGHT"
-		},
-		{
-			"offsets": [
-				26,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Amor Sing Note LEFT"
-		},
-		{
-			"offsets": [
-				-29,
-				-16
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Amor Sing Note DOWN"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				34,
-				149
-			],
-			"anim": "drop",
-			"fps": 24,
-			"name": "Amor drop",
-			"indices": []
+			"name": "Cerberus Sing Note UP"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/extra/amor_assets",
+	"image": "characters/ex/CerberusEX",
 	"position": [
-		0,
-		-90
+		-120,
+		120
 	],
-	"healthicon": "amor",
+	"healthicon": "face",
 	"flip_x": false,
 	"healthbar_colors": [
-		58,
-		104,
-		255
+		161,
+		161,
+		161
 	],
 	"camera_position": [
-		190,
-		-20
+		0,
+		0
 	],
 	"sing_duration": 6.1,
 	"scale": 1

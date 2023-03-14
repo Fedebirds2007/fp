@@ -9,80 +9,69 @@
 			"fps": 24,
 			"anim": "idle",
 			"loop": false,
-			"name": "Bluskys idle dance"
+			"name": "Minishoey idle dance"
 		},
 		{
 			"offsets": [
-				-7,
-				-20
+				30,
+				-40
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "Bluskys Sing Note LEFT"
+			"name": "Minishoey Sing Note LEFT"
 		},
 		{
 			"offsets": [
-				-10,
-				-20
+				50,
+				-100
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
 			"loop": false,
-			"name": "Bluskys Sing Note DOWN"
+			"name": "Minishoey Sing Note DOWN"
 		},
 		{
 			"offsets": [
 				10,
-				40
+				0
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
 			"loop": false,
-			"name": "Bluskys Sing Note UP"
+			"name": "Minishoey Sing Note UP"
 		},
 		{
 			"offsets": [
-				-20,
-				-20
+				-30,
+				-30
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "Bluskys Sing Note RIGHT"
-		},
-		{
-			"offsets": [
-				60,
-				100
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "letsgo",
-			"loop": false,
-			"name": "Bluskys Letsgo"
+			"name": "Minishoey Sing Note RIGHT"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/extra/Bluskys",
+	"no_antialiasing": false,
+	"image": "characters/ex/MinishoeyEX",
 	"position": [
-		70,
-		50
-	],
-	"healthicon": "bluskys",
-	"flip_x": false,
-	"healthbar_colors": [
-		49,
-		134,
-		247
-	],
-	"camera_position": [
 		40,
 		-40
+	],
+	"healthicon": "miniex",
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		199,
+		147
+	],
+	"camera_position": [
+		0,
+		0
 	],
 	"sing_duration": 6.1,
 	"scale": 1

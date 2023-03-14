@@ -9,80 +9,69 @@
 			"fps": 24,
 			"anim": "idle",
 			"loop": false,
-			"name": "Bluskys idle dance"
+			"name": "ASH idle"
 		},
 		{
 			"offsets": [
-				-7,
-				-20
+				100,
+				-61
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "Bluskys Sing Note LEFT"
+			"name": "ASH Sing Note LEFT"
 		},
 		{
 			"offsets": [
-				-10,
-				-20
+				-60,
+				-80
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
 			"loop": false,
-			"name": "Bluskys Sing Note DOWN"
+			"name": "ASH Sing Note DOWN"
 		},
 		{
 			"offsets": [
-				10,
-				40
+				80,
+				59
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
 			"loop": false,
-			"name": "Bluskys Sing Note UP"
+			"name": "ASH Sing Note UP"
 		},
 		{
 			"offsets": [
-				-20,
-				-20
+				-90,
+				0
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "Bluskys Sing Note RIGHT"
-		},
-		{
-			"offsets": [
-				60,
-				100
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "letsgo",
-			"loop": false,
-			"name": "Bluskys Letsgo"
+			"name": "ASH Sing Note RIGHT"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/extra/Bluskys",
+	"no_antialiasing": false,
+	"image": "characters/extra/ASH",
 	"position": [
-		70,
-		50
+		0,
+		0
 	],
-	"healthicon": "bluskys",
+	"healthicon": "AandC",
 	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		134,
-		247
+		72,
+		72,
+		72
 	],
 	"camera_position": [
-		40,
-		-40
+		0,
+		0
 	],
 	"sing_duration": 6.1,
 	"scale": 1

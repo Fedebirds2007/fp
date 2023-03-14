@@ -1,78 +1,78 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
-			],
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "Dad idle dance"
-		},
-		{
-			"offsets": [
-				82,
-				12
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Dad Sing Note LEFT"
-		},
-		{
-			"offsets": [
-				21,
-				-19
+				-30,
+				-40
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Dad Sing Note DOWN"
+			"name": "Cerb Sing Note DOWN"
 		},
 		{
 			"offsets": [
-				16,
-				95
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cerb idle dance"
+		},
+		{
+			"offsets": [
+				20,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cerb Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				59
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Dad Sing Note UP"
+			"name": "Cerb Sing Note UP"
 		},
 		{
 			"offsets": [
-				122,
-				30
+				-35,
+				-16
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Dad Sing Note RIGHT"
+			"name": "Cerb Sing Note RIGHT"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/I dont know what this is/anders",
+	"image": "characters/ex/CerbEX",
 	"position": [
-		-20,
-		-20
+		50,
+		360
 	],
-	"healthicon": "anders",
+	"healthicon": "cerbex",
 	"flip_x": false,
 	"healthbar_colors": [
-		70,
-		70,
-		81
+		77,
+		27,
+		86
 	],
 	"camera_position": [
 		0,
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1.1
 }

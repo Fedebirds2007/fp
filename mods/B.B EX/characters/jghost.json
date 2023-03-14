@@ -1,1 +1,78 @@
-{"animations":[{"anim":"idle","fps":24,"indices":[],"loop":false,"name":"Jghost idle dance","offsets":[-1,-100]},{"anim":"singLEFT","fps":24,"indices":[],"loop":false,"name":"Jghost Sing Note LEFT","offsets":[-5,-99]},{"anim":"singRIGHT","fps":24,"indices":[],"loop":false,"name":"Jghost Sing Note RIGHT","offsets":[-39,-99]},{"anim":"singDOWN","fps":24,"indices":[],"loop":false,"name":"Jghost Sing Note DOWN","offsets":[-1,-123]},{"anim":"singUP","fps":24,"indices":[],"loop":false,"name":"Jghost Sing Note UP","offsets":[12,-83]}],"camera_position":[50,260],"flip_x":false,"healthbar_colors":[167,45,42],"healthicon":"jghost","image":"characters/Jghost","no_antialiasing":false,"position":[0,0],"scale":1,"sing_duration":4}
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jghost idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Jghost Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jghost Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jghost Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Jghost Sing Note RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/extra/Jghost",
+	"position": [
+		10,
+		-20
+	],
+	"healthicon": "JandC",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		198,
+		173
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

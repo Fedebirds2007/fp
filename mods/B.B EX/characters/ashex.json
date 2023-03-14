@@ -5,72 +5,72 @@
 				0,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "BOB idle dance"
+			"indices": [],
+			"name": "ASH idle"
 		},
 		{
 			"offsets": [
-				101,
-				-4
+				-110,
+				29
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "BOB Sing Note LEFT"
+			"indices": [],
+			"name": "ASH Sing Note LEFT"
 		},
 		{
 			"offsets": [
-				37,
-				-80
+				-60,
+				-30
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "BOB Sing Note DOWN"
+			"indices": [],
+			"name": "ASH Sing Note DOWN"
 		},
 		{
 			"offsets": [
-				160,
-				60
+				80,
+				49
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "BOB Sing Note UP"
+			"indices": [],
+			"name": "ASH Sing Note UP"
 		},
 		{
 			"offsets": [
-				120,
-				-20
+				-10,
+				-10
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "BOB Sing Note RIGHT"
+			"indices": [],
+			"name": "ASH Sing Note RIGHT"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/ex/bobEX",
+	"image": "characters/ex/ASHEX",
 	"position": [
-		0,
-		0
+		-70,
+		40
 	],
-	"healthicon": "bobex",
+	"healthicon": "ashex",
 	"flip_x": false,
 	"healthbar_colors": [
-		62,
-		63,
-		69
+		77,
+		27,
+		86
 	],
 	"camera_position": [
-		30,
+		0,
 		0
 	],
 	"sing_duration": 6.1,

@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-48,
-				12
+				-30,
+				-30
 			],
-			"anim": "woofmiddle",
+			"anim": "singUP",
 			"fps": 24,
-			"name": "Cerberus Sing Note DOWN",
+			"name": "RON_UP",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-108,
-				13
-			],
-			"anim": "woofleft",
-			"fps": 24,
-			"name": "Cerberus Sing Note LEFT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-122,
-				13
-			],
-			"anim": "woofright",
-			"fps": 24,
-			"name": "Cerberus Sing Note RIGHT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
+				-5,
+				10
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Cerberus idle dance",
+			"name": "RON_IDLE",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-113,
-				35
+				405,
+				275
 			],
-			"anim": "woofall",
+			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Cerberus Sing Note UP",
+			"name": "RON_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				-171
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RON_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RON_RIGHT",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/extra/Cerberus",
+	"image": "characters/extra/kill_yourself",
 	"position": [
-		-90,
-		250
+		0,
+		100
 	],
-	"healthicon": "face",
+	"healthicon": "ron",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		255,
+		216,
+		0
 	],
 	"camera_position": [
 		0,
 		0
 	],
-	"sing_duration": 6.1,
-	"scale": 1.3
+	"sing_duration": 4,
+	"scale": 1
 }
