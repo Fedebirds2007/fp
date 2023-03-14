@@ -17,7 +17,16 @@ mods/B.B EX/images/characters/BluskysEX.png
 mods/B.B EX/images/characters/BluskysEX.xml
 mods/B.B EX/images/characters/GF_ass_sets_outfit.png
 mods/B.B EX/images/characters/GF_ass_sets_outfit.xml
-mods/B.B EX/images/stageback.png
+mods/B.B EX/images/Ex-BLU1.png
+mods/B.B EX/images/Ex-BLU1_1.png
+mods/B.B EX/images/Ex-BLU1_2.png
+mods/B.B EX/images/Ex-BLU2.png
+mods/B.B EX/images/Ex-BLU3.png
+mods/B.B EX/images/Ex-BLU5.png
+mods/B.B EX/images/Ex-light0.png
+mods/B.B EX/images/Ex-light1.png
+mods/B.B EX/images/Ex-light2.png
+mods/B.B EX/images/Ex-BLU4.png
 mods/songs/groovy-brass-ex/Voices.ogg
 mods/songs/groovy-brass-ex/voices.ogg
 mods/songs/groovy-brass-ex/Inst.ogg

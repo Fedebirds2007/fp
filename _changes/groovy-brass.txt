@@ -8,7 +8,12 @@ mods/B.B EX/stages/Bluskys.json
 mods/B.B EX/stages/Bluskys.lua
 mods/B.B EX/images/characters/Bluskys.png
 mods/B.B EX/images/characters/Bluskys.xml
-mods/B.B EX/images/BG_bluskys.png
+mods/B.B EX/images/Week2_bg1.png
+mods/B.B EX/images/Week2_bg2.png
+mods/B.B EX/images/Week2_bg3.png
+mods/B.B EX/images/Week2_bg4.png
+mods/B.B EX/images/Week2_bg5.png
+mods/B.B EX/images/Week2_bg6.png
 mods/songs/groovy-brass/Voices.ogg
 mods/songs/groovy-brass/voices.ogg
 mods/songs/groovy-brass/Inst.ogg

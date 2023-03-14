@@ -12,6 +12,15 @@
 	<SubTexture name="Bosip Dance instance 10007" x="2057" y="10" width="672" height="1169" frameX="-8" frameY="-11" frameWidth="721" frameHeight="1180"/>
 	<SubTexture name="Bosip Dance instance 10008" x="2739" y="10" width="671" height="1167" frameX="-8" frameY="-13" frameWidth="721" frameHeight="1180"/>
 	<SubTexture name="Bosip Dance instance 10009" x="2739" y="10" width="671" height="1167" frameX="-8" frameY="-13" frameWidth="721" frameHeight="1180"/>
+	<SubTexture name="Bosip Dance instance 10010" x="3420" y="10" width="671" height="1166" frameX="-8" frameY="-14" frameWidth="721" frameHeight="1180"/>
+	<SubTexture name="Bosip Dance instance 10011" x="3420" y="10" width="671" height="1166" frameX="-8" frameY="-14" frameWidth="721" frameHeight="1180"/>
+	<SubTexture name="Bosip Dance instance 10012" x="4101" y="10" width="671" height="1168" frameX="-8" frameY="-12" frameWidth="721" frameHeight="1180"/>
+	<SubTexture name="Bosip Dance instance 10013" x="4782" y="10" width="671" height="1168" frameX="-8" frameY="-12" frameWidth="721" frameHeight="1180"/>
+	<SubTexture name="Bosip Dance instance 10014" x="5463" y="10" width="671" height="1172" frameX="-8" frameY="-8" frameWidth="721" frameHeight="1180"/>
+	<SubTexture name="Bosip Dance instance 10015" x="6144" y="10" width="705" height="1180" frameX="-8" frameY="0" frameWidth="721" frameHeight="1180"/>
+	<SubTexture name="Bosip Dance instance 10016" x="6144" y="10" width="705" height="1180" frameX="-8" frameY="0" frameWidth="721" frameHeight="1180"/>
+	<SubTexture name="Bosip Dance instance 10017" x="6859" y="10" width="713" height="1180" frameX="-8" frameY="0" frameWidth="721" frameHeight="1180"/>
+	<SubTexture name="Bosip Dance instance 10018" x="6859" y="10" width="713" height="1180" frameX="-8" frameY="0" frameWidth="721" frameHeight="1180"/>
 	<SubTexture name="Bosip Dance instance 10019" x="10" y="1200" width="688" height="1175" frameX="-8" frameY="-5" frameWidth="721" frameHeight="1180"/>
 	<SubTexture name="Bosip Dance instance 10020" x="10" y="1200" width="688" height="1175" frameX="-8" frameY="-5" frameWidth="721" frameHeight="1180"/>
 	<SubTexture name="Bosip Dance instance 10021" x="708" y="1200" width="677" height="1169" frameX="-8" frameY="-11" frameWidth="721" frameHeight="1180"/>
@@ -22,4 +31,5 @@
 	<SubTexture name="Bosip Dance instance 10026" x="2076" y="1200" width="671" height="1164" frameX="-8" frameY="-16" frameWidth="721" frameHeight="1180"/>
 	<SubTexture name="Bosip Dance instance 10027" x="2757" y="1200" width="671" height="1163" frameX="-8" frameY="-17" frameWidth="721" frameHeight="1180"/>
 	<SubTexture name="Bosip Dance instance 10028" x="2757" y="1200" width="671" height="1163" frameX="-8" frameY="-17" frameWidth="721" frameHeight="1180"/>
+	<SubTexture name="Bosip Dance instance 10029" x="3438" y="1200" width="672" height="1166" frameX="-8" frameY="-14" frameWidth="721" frameHeight="1180"/>
 </TextureAtlas>
