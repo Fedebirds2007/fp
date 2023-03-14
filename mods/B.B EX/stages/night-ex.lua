@@ -48,7 +48,7 @@ function onCreate()
 	scaleObject('YOU', 1.4, 1.4);
 	setProperty('YOU.visible', false)
 	
-	makeLuaSprite('READY', 'READY', -250, -100)
+	makeLuaSprite('READY', 'Amor_READY', -250, -100)
 	addLuaSprite('READY', true)
 	setScrollFactor('READY', 0, 0)
 	scaleObject('READY', 1.4, 1.4);

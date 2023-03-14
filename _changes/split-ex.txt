@@ -23,7 +23,7 @@ mods/B.B EX/images/pc.png
 mods/B.B EX/images/pc.xml
 mods/B.B EX/images/ARE.png
 mods/B.B EX/images/YOU.png
-mods/B.B EX/images/READY.png
+mods/B.B EX/images/Amor_READY.png
 mods/songs/split-ex/Voices.ogg
 mods/songs/split-ex/voices.ogg
 mods/songs/split-ex/Inst.ogg
