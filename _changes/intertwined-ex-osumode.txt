@@ -5,6 +5,14 @@ mods/data/intertwined-ex/mod.txt
 mods/B.B EX/stages/ash.json
 mods/B.B EX/stages/ash.lua
 mods/B.B EX/custom_notetypes/duet.lua
+mods/B.B EX/scripts/bfdie.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/iconforJghost.lua
+mods/B.B EX/scripts/KE UI.lua
+mods/B.B EX/scripts/loading.lua
+mods/B.B EX/scripts/msTiming.lua
+mods/B.B EX/scripts/opponentnotes.lua
+mods/B.B EX/scripts/playernotes.lua
 mods/songs/intertwined-ex/Voices.ogg
 mods/songs/intertwined-ex/voices.ogg
 mods/songs/intertwined-ex/Inst.ogg

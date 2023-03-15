@@ -9,10 +9,16 @@ mods/B.B EX/stages/bosipex.json
 mods/B.B EX/stages/bosipex.lua
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.xml
-mods/B.B EX/images/characters/ex/bosipex.png
-mods/B.B EX/images/characters/ex/bosipex.xml
 mods/B.B EX/images/characters/GF_ass_sets_outfit.png
 mods/B.B EX/images/characters/GF_ass_sets_outfit.xml
+mods/B.B EX/scripts/bfdie.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/iconforJghost.lua
+mods/B.B EX/scripts/KE UI.lua
+mods/B.B EX/scripts/loading.lua
+mods/B.B EX/scripts/msTiming.lua
+mods/B.B EX/scripts/opponentnotes.lua
+mods/B.B EX/scripts/playernotes.lua
 mods/B.B EX/images/BG1_sunset.png
 mods/B.B EX/images/BG2_sunset.png
 mods/B.B EX/images/ex_crowd_sunset.png

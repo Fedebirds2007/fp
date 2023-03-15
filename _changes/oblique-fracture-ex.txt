@@ -7,12 +7,18 @@ mods/B.B EX/characters/amorex.json
 mods/B.B EX/characters/mydad.json
 mods/B.B EX/stages/sans-ex.json
 mods/B.B EX/stages/sans-ex.lua
-mods/B.B EX/images/characters/ex/sansEX.png
-mods/B.B EX/images/characters/ex/sansEX.xml
-mods/B.B EX/images/characters/ex/amorex.png
-mods/B.B EX/images/characters/ex/amorex.xml
+mods/B.B EX/images/characters/amorex.png
+mods/B.B EX/images/characters/amorex.xml
 mods/B.B EX/images/characters/mydad.png
 mods/B.B EX/images/characters/mydad.xml
+mods/B.B EX/scripts/bfdie.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/iconforJghost.lua
+mods/B.B EX/scripts/KE UI.lua
+mods/B.B EX/scripts/loading.lua
+mods/B.B EX/scripts/msTiming.lua
+mods/B.B EX/scripts/opponentnotes.lua
+mods/B.B EX/scripts/playernotes.lua
 mods/B.B EX/images/BG_sans-ex.png
 mods/songs/oblique-fracture-ex/Voices.ogg
 mods/songs/oblique-fracture-ex/voices.ogg

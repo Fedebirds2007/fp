@@ -4,6 +4,14 @@ mods/data/copy-cat/copy-cat.json
 mods/data/copy-cat/mod.txt
 mods/B.B EX/stages/day.json
 mods/B.B EX/stages/day.lua
+mods/B.B EX/scripts/bfdie.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/iconforJghost.lua
+mods/B.B EX/scripts/KE UI.lua
+mods/B.B EX/scripts/loading.lua
+mods/B.B EX/scripts/msTiming.lua
+mods/B.B EX/scripts/opponentnotes.lua
+mods/B.B EX/scripts/playernotes.lua
 mods/songs/copy-cat/Voices.ogg
 mods/songs/copy-cat/voices.ogg
 mods/songs/copy-cat/Inst.ogg

@@ -1,9 +1,20 @@
+mods/data/split-ex/amor-countdown.lua
 mods/data/split-ex/mod.txt
 mods/data/split-ex/split-ex-easy.json
+mods/data/split-ex/split-ex-ex.json
 mods/data/split-ex/split-ex-hard.json
 mods/data/split-ex/split-ex.json
 mods/B.B EX/stages/night-ex.json
 mods/B.B EX/stages/night-ex.lua
+mods/B.B EX/custom_events/ARE YOU READY.lua
+mods/B.B EX/scripts/bfdie.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/iconforJghost.lua
+mods/B.B EX/scripts/KE UI.lua
+mods/B.B EX/scripts/loading.lua
+mods/B.B EX/scripts/msTiming.lua
+mods/B.B EX/scripts/opponentnotes.lua
+mods/B.B EX/scripts/playernotes.lua
 mods/songs/split-ex/Voices.ogg
 mods/songs/split-ex/voices.ogg
 mods/songs/split-ex/Inst.ogg

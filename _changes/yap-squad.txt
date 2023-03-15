@@ -10,11 +10,19 @@ mods/B.B EX/stages/cerberus.json
 mods/B.B EX/stages/cerberus.lua
 mods/B.B EX/images/characters/BOYFRIEND.png
 mods/B.B EX/images/characters/BOYFRIEND.xml
-mods/B.B EX/images/characters/extra/Jghost.png
-mods/B.B EX/images/characters/extra/Jghost.xml
-mods/B.B EX/images/characters/extra/Cerberus.png
-mods/B.B EX/images/characters/extra/Cerberus.xml
+mods/B.B EX/images/characters/Jghost.png
+mods/B.B EX/images/characters/Jghost.xml
+mods/B.B EX/images/characters/Cerberus.png
+mods/B.B EX/images/characters/Cerberus.xml
 mods/B.B EX/custom_events/HealthDrain.lua
+mods/B.B EX/scripts/bfdie.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/iconforJghost.lua
+mods/B.B EX/scripts/KE UI.lua
+mods/B.B EX/scripts/loading.lua
+mods/B.B EX/scripts/msTiming.lua
+mods/B.B EX/scripts/opponentnotes.lua
+mods/B.B EX/scripts/playernotes.lua
 mods/B.B EX/images/Week2_bg1.png
 mods/B.B EX/images/Week2_bg2.png
 mods/B.B EX/images/Week2_bg3.png

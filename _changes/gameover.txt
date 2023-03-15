@@ -11,6 +11,14 @@ mods/B.B EX/images/characters/DEAD_Boyfriend_Ass.png
 mods/B.B EX/images/characters/DEAD_Boyfriend_Ass.xml
 mods/B.B EX/images/characters/mydad.png
 mods/B.B EX/images/characters/mydad.xml
+mods/B.B EX/scripts/bfdie.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/iconforJghost.lua
+mods/B.B EX/scripts/KE UI.lua
+mods/B.B EX/scripts/loading.lua
+mods/B.B EX/scripts/msTiming.lua
+mods/B.B EX/scripts/opponentnotes.lua
+mods/B.B EX/scripts/playernotes.lua
 mods/songs/gameover/Voices.ogg
 mods/songs/gameover/voices.ogg
 mods/songs/gameover/Inst.ogg

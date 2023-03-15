@@ -1,7 +1,5 @@
 mods/data/jump-out-ex/events.json
 mods/B.B EX/characters/littleman.json
-mods/B.B EX/images/characters/extra/Small_Guy.png
-mods/B.B EX/images/characters/extra/Small_Guy.xml
 mods/B.B EX/characters/bf-ex.json
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.xml
@@ -26,6 +24,14 @@ mods/data/jump-out-ex/jump-out-ex.json
 mods/data/jump-out-ex/mod.txt
 mods/B.B EX/stages/bobsway.json
 mods/B.B EX/stages/bobsway.lua
+mods/B.B EX/scripts/bfdie.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/iconforJghost.lua
+mods/B.B EX/scripts/KE UI.lua
+mods/B.B EX/scripts/loading.lua
+mods/B.B EX/scripts/msTiming.lua
+mods/B.B EX/scripts/opponentnotes.lua
+mods/B.B EX/scripts/playernotes.lua
 mods/B.B EX/images/stageback5.png
 mods/B.B EX/images/stagecurtains.png
 mods/songs/jump-out-ex/Voices.ogg
