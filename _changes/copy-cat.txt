@@ -13,14 +13,7 @@ mods/B.B EX/images/characters/bob_asset.png
 mods/B.B EX/images/characters/bob_asset.xml
 mods/B.B EX/images/characters/Worriedbosip.png
 mods/B.B EX/images/characters/Worriedbosip.xml
-mods/B.B EX/scripts/bfdie.lua
 mods/B.B EX/scripts/camera follow.lua
-mods/B.B EX/scripts/iconforJghost.lua
-mods/B.B EX/scripts/KE UI.lua
-mods/B.B EX/scripts/loading.lua
-mods/B.B EX/scripts/msTiming.lua
-mods/B.B EX/scripts/opponentnotes.lua
-mods/B.B EX/scripts/playernotes.lua
 mods/B.B EX/images/BG_day.png
 mods/songs/copy-cat/Voices.ogg
 mods/songs/copy-cat/voices.ogg

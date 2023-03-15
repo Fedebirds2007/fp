@@ -12,14 +12,7 @@ mods/B.B EX/images/characters/BOYFRIEND.xml
 mods/B.B EX/characters/bob-gf.json
 mods/B.B EX/images/characters/bob_gf.png
 mods/B.B EX/images/characters/bob_gf.xml
-mods/B.B EX/scripts/bfdie.lua
 mods/B.B EX/scripts/camera follow.lua
-mods/B.B EX/scripts/iconforJghost.lua
-mods/B.B EX/scripts/KE UI.lua
-mods/B.B EX/scripts/loading.lua
-mods/B.B EX/scripts/msTiming.lua
-mods/B.B EX/scripts/opponentnotes.lua
-mods/B.B EX/scripts/playernotes.lua
 mods/B.B EX/images/BG_sunset.png
 mods/songs/swing/Voices.ogg
 mods/songs/swing/voices.ogg

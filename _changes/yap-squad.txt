@@ -15,14 +15,7 @@ mods/B.B EX/images/characters/Jghost.xml
 mods/B.B EX/images/characters/Cerberus.png
 mods/B.B EX/images/characters/Cerberus.xml
 mods/B.B EX/custom_events/HealthDrain.lua
-mods/B.B EX/scripts/bfdie.lua
 mods/B.B EX/scripts/camera follow.lua
-mods/B.B EX/scripts/iconforJghost.lua
-mods/B.B EX/scripts/KE UI.lua
-mods/B.B EX/scripts/loading.lua
-mods/B.B EX/scripts/msTiming.lua
-mods/B.B EX/scripts/opponentnotes.lua
-mods/B.B EX/scripts/playernotes.lua
 mods/B.B EX/images/Week2_bg1.png
 mods/B.B EX/images/Week2_bg2.png
 mods/B.B EX/images/Week2_bg3.png

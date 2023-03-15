@@ -4,14 +4,7 @@ mods/data/swing-ex/swing-ex-hard.json
 mods/data/swing-ex/swing-ex.json
 mods/B.B EX/stages/bosipex.json
 mods/B.B EX/stages/bosipex.lua
-mods/B.B EX/scripts/bfdie.lua
 mods/B.B EX/scripts/camera follow.lua
-mods/B.B EX/scripts/iconforJghost.lua
-mods/B.B EX/scripts/KE UI.lua
-mods/B.B EX/scripts/loading.lua
-mods/B.B EX/scripts/msTiming.lua
-mods/B.B EX/scripts/opponentnotes.lua
-mods/B.B EX/scripts/playernotes.lua
 mods/songs/swing-ex/Voices.ogg
 mods/songs/swing-ex/voices.ogg
 mods/songs/swing-ex/Inst.ogg

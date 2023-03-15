@@ -26,14 +26,7 @@ mods/data/ronald-mcdonald-slide/ronald-mcdonald-slide-hard.json
 mods/data/ronald-mcdonald-slide/ronald-mcdonald-slide.json
 mods/B.B EX/stages/stupid-dumb.json
 mods/B.B EX/stages/stupid-dumb.lua
-mods/B.B EX/scripts/bfdie.lua
 mods/B.B EX/scripts/camera follow.lua
-mods/B.B EX/scripts/iconforJghost.lua
-mods/B.B EX/scripts/KE UI.lua
-mods/B.B EX/scripts/loading.lua
-mods/B.B EX/scripts/msTiming.lua
-mods/B.B EX/scripts/opponentnotes.lua
-mods/B.B EX/scripts/playernotes.lua
 mods/B.B EX/images/BG_ronsip.png
 mods/songs/ronald-mcdonald-slide/Voices.ogg
 mods/songs/ronald-mcdonald-slide/voices.ogg

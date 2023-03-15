@@ -1,6 +1,6 @@
 function onEvent(name, value1, value2)
 	if name == "SSSAAADDD" then
-		makeLuaSprite('baby', 'BG/week3/sad/'..value1, -500, -300);
+		makeLuaSprite('baby', 'sad/'..value1, -500, -300);
 		addLuaSprite('baby', true);
 		doTweenColor('hello', 'baby', 'FFFFFFFF', 0.5, 'quartIn');
 		scaleObject('baby', 2.5, 2.5)
