@@ -33,6 +33,8 @@ mods/B.B EX/images/pc.xml
 mods/B.B EX/images/ARE.png
 mods/B.B EX/images/YOU.png
 mods/B.B EX/images/Amor_READY.png
+mods/B.B EX/images/GF_ass_sets_outfit_with_bb.png
+mods/B.B EX/images/GF_ass_sets_outfit_with_bb.xml
 mods/songs/split-ex/Voices.ogg
 mods/songs/split-ex/voices.ogg
 mods/songs/split-ex/Inst.ogg

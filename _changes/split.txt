@@ -23,12 +23,9 @@ mods/B.B EX/images/characters/GFnight_assets.png
 mods/B.B EX/images/characters/GFnight_assets.xml
 mods/B.B EX/custom_events/ARE YOU READY.lua
 mods/B.B EX/scripts/camera follow.lua
-mods/B.B EX/images/BG_night.png
 mods/B.B EX/images/Amor_BG1.png
 mods/B.B EX/images/Amor_BG2.png
 mods/B.B EX/images/Amor_BG3.png
-mods/B.B EX/images/bobsip.png
-mods/B.B EX/images/bobsip.xml
 mods/B.B EX/images/Amor_BG4.png
 mods/B.B EX/images/pixelthing.png
 mods/B.B EX/images/pixelthing.xml
@@ -37,6 +34,8 @@ mods/B.B EX/images/pc.xml
 mods/B.B EX/images/ARE.png
 mods/B.B EX/images/YOU.png
 mods/B.B EX/images/Amor_READY.png
+mods/B.B EX/images/bobsip.png
+mods/B.B EX/images/bobsip.xml
 mods/songs/split/Voices.ogg
 mods/songs/split/voices.ogg
 mods/songs/split/Inst.ogg

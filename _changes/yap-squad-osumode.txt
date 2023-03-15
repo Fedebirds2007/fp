@@ -5,7 +5,6 @@ mods/data/yap-squad/yap-squad-hard.json
 mods/data/yap-squad/yap-squad.json
 mods/B.B EX/stages/cerberus.json
 mods/B.B EX/stages/cerberus.lua
-mods/B.B EX/custom_events/HealthDrain.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/songs/yap-squad/Voices.ogg
 mods/songs/yap-squad/voices.ogg

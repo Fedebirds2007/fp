@@ -53,6 +53,12 @@ function onCreate()
 	setScrollFactor('READY', 0, 0)
 	scaleObject('READY', 1.4, 1.4);
 	setProperty('READY.visible', false)
+ 
+	makeAnimatedLuaSprite('gf', 'GF_ass_sets_outfit_with_bb', 650, 0)
+	addAnimationByPrefix('gf', 'idle', 'GF Dancing Beat', 24, true)
+	setScrollFactor('gf', 1, 1)
+	addLuaSprite('gf', false)
+	scaleObject('gf', 1, 1);
 end
 
 function onUpdate()

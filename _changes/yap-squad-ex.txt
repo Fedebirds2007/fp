@@ -14,7 +14,6 @@ mods/B.B EX/images/characters/CerberusEX.png
 mods/B.B EX/images/characters/CerberusEX.xml
 mods/B.B EX/images/characters/JghostEX.png
 mods/B.B EX/images/characters/JghostEX.xml
-mods/B.B EX/custom_events/HealthDrain.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/images/stageback2.png
 mods/songs/yap-squad-ex/Voices.ogg
