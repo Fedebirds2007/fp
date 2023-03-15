@@ -9,6 +9,8 @@ mods/B.B EX/stages/sunset.json
 mods/B.B EX/stages/sunset.lua
 mods/B.B EX/images/characters/BOYFRIEND.png
 mods/B.B EX/images/characters/BOYFRIEND.xml
+mods/B.B EX/images/characters/Bob_gf.png
+mods/B.B EX/images/characters/Bob_gf.xml
 mods/B.B EX/characters/bob-gf.json
 mods/B.B EX/images/characters/bob_gf.png
 mods/B.B EX/images/characters/bob_gf.xml

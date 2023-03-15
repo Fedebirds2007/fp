@@ -19,6 +19,8 @@ mods/B.B EX/images/characters/nothing.xml
 mods/B.B EX/characters/gf-night.json
 mods/B.B EX/stages/amorstage.json
 mods/B.B EX/stages/amorstage.lua
+mods/B.B EX/images/characters/GFnight_assets.png
+mods/B.B EX/images/characters/GFnight_assets.xml
 mods/B.B EX/custom_events/ARE YOU READY.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/images/BG_night.png

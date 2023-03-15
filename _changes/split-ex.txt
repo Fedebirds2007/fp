@@ -17,6 +17,8 @@ mods/B.B EX/images/characters/mydad.png
 mods/B.B EX/images/characters/mydad.xml
 mods/B.B EX/characters/bfex-night.json
 mods/B.B EX/characters/gfex-night.json
+mods/B.B EX/images/characters/GF_ass_sets_outfit_with_bb.png
+mods/B.B EX/images/characters/GF_ass_sets_outfit_with_bb.xml
 mods/B.B EX/characters/amor-ea.json
 mods/B.B EX/custom_events/ARE YOU READY.lua
 mods/B.B EX/scripts/camera follow.lua
