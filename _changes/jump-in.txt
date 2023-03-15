@@ -2,10 +2,13 @@ mods/data/jump-in/jump-in-easy.json
 mods/data/jump-in/jump-in-hard.json
 mods/data/jump-in/jump-in.json
 mods/data/jump-in/mod.txt
+mods/B.B EX/characters/bf.json
 mods/B.B EX/characters/realbob.json
 mods/B.B EX/characters/bosip-gf.json
 mods/B.B EX/stages/day.json
 mods/B.B EX/stages/day.lua
+mods/B.B EX/images/characters/BOYFRIEND.png
+mods/B.B EX/images/characters/BOYFRIEND.xml
 mods/B.B EX/images/characters/bob_assets.png
 mods/B.B EX/images/characters/bob_assets.xml
 mods/B.B EX/images/characters/bosip_gf.png

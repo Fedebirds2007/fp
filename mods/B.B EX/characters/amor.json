@@ -68,10 +68,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/extra/amor_assets",
+	"image": "characters/amor_assets",
 	"position": [
-		0,
-		-90
+		-250,
+		50
 	],
 	"healthicon": "amor",
 	"flip_x": false,

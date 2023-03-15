@@ -57,10 +57,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/extra/Jghost",
+	"image": "characters/Jghost",
 	"position": [
-		10,
-		-20
+		40,
+		100
 	],
 	"healthicon": "JandC",
 	"flip_x": false,

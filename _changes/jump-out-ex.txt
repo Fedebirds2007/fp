@@ -1,7 +1,7 @@
 mods/data/jump-out-ex/events.json
 mods/B.B EX/characters/littleman.json
-mods/B.B EX/images/characters/Small_Guy.png
-mods/B.B EX/images/characters/Small_Guy.xml
+mods/B.B EX/images/characters/extra/Small_Guy.png
+mods/B.B EX/images/characters/extra/Small_Guy.xml
 mods/B.B EX/characters/bf-ex.json
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.xml

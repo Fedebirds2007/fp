@@ -7,10 +7,10 @@ mods/B.B EX/characters/amorex.json
 mods/B.B EX/characters/mydad.json
 mods/B.B EX/stages/sans-ex.json
 mods/B.B EX/stages/sans-ex.lua
-mods/B.B EX/images/characters/sansEX.png
-mods/B.B EX/images/characters/sansEX.xml
-mods/B.B EX/images/characters/amorex.png
-mods/B.B EX/images/characters/amorex.xml
+mods/B.B EX/images/characters/ex/sansEX.png
+mods/B.B EX/images/characters/ex/sansEX.xml
+mods/B.B EX/images/characters/ex/amorex.png
+mods/B.B EX/images/characters/ex/amorex.xml
 mods/B.B EX/images/characters/mydad.png
 mods/B.B EX/images/characters/mydad.xml
 mods/B.B EX/images/BG_sans-ex.png

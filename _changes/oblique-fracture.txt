@@ -10,8 +10,8 @@ mods/B.B EX/stages/sans.json
 mods/B.B EX/stages/sans.lua
 mods/B.B EX/images/characters/sansy.png
 mods/B.B EX/images/characters/sansy.xml
-mods/B.B EX/images/characters/amor_assets.png
-mods/B.B EX/images/characters/amor_assets.xml
+mods/B.B EX/images/characters/extra/amor_assets.png
+mods/B.B EX/images/characters/extra/amor_assets.xml
 mods/B.B EX/images/characters/nothing.png
 mods/B.B EX/images/characters/nothing.xml
 mods/B.B EX/images/BG_sans.png

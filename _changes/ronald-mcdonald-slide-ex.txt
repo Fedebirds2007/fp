@@ -1,13 +1,13 @@
 mods/data/ronald-mcdonald-slide-ex/events.json
 mods/B.B EX/characters/heman.json
-mods/B.B EX/images/characters/HE_MAN.png
-mods/B.B EX/images/characters/HE_MAN.xml
+mods/B.B EX/images/characters/I dont know what this is/HE_MAN.png
+mods/B.B EX/images/characters/I dont know what this is/HE_MAN.xml
 mods/B.B EX/characters/ron-ex.json
 mods/B.B EX/images/characters/stupid_dumb_ex.png
 mods/B.B EX/images/characters/stupid_dumb_ex.xml
 mods/B.B EX/characters/sans.json
-mods/B.B EX/images/characters/sans.png
-mods/B.B EX/images/characters/sans.xml
+mods/B.B EX/images/characters/extra/sans.png
+mods/B.B EX/images/characters/extra/sans.xml
 mods/B.B EX/characters/thiccbf.json
 mods/B.B EX/images/characters/omni_bf.png
 mods/B.B EX/images/characters/omni_bf.xml
@@ -18,8 +18,8 @@ mods/B.B EX/characters/rondumpy.json
 mods/B.B EX/images/characters/omni_ron.png
 mods/B.B EX/images/characters/omni_ron.xml
 mods/B.B EX/characters/npesta.json
-mods/B.B EX/images/characters/npesta.png
-mods/B.B EX/images/characters/npesta.xml
+mods/B.B EX/images/characters/I dont know what this is/npesta.png
+mods/B.B EX/images/characters/I dont know what this is/npesta.xml
 mods/data/ronald-mcdonald-slide-ex/mod.txt
 mods/data/ronald-mcdonald-slide-ex/ronald-mcdonald-slide-ex-easy.json
 mods/data/ronald-mcdonald-slide-ex/ronald-mcdonald-slide-ex-hard.json

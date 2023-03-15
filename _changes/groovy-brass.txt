@@ -3,11 +3,17 @@ mods/data/groovy-brass/groovy-brass-easy.json
 mods/data/groovy-brass/groovy-brass-hard.json
 mods/data/groovy-brass/groovy-brass.json
 mods/data/groovy-brass/mod.txt
+mods/B.B EX/characters/bf.json
 mods/B.B EX/characters/bluskys.json
+mods/B.B EX/characters/gf.json
 mods/B.B EX/stages/Bluskys.json
 mods/B.B EX/stages/Bluskys.lua
-mods/B.B EX/images/characters/Bluskys.png
-mods/B.B EX/images/characters/Bluskys.xml
+mods/B.B EX/images/characters/BOYFRIEND.png
+mods/B.B EX/images/characters/BOYFRIEND.xml
+mods/B.B EX/images/characters/extra/Bluskys.png
+mods/B.B EX/images/characters/extra/Bluskys.xml
+mods/B.B EX/images/characters/GF_assets.png
+mods/B.B EX/images/characters/GF_assets.xml
 mods/B.B EX/images/Week2_bg1.png
 mods/B.B EX/images/Week2_bg2.png
 mods/B.B EX/images/Week2_bg3.png

@@ -9,8 +9,8 @@ mods/B.B EX/stages/bosipex.json
 mods/B.B EX/stages/bosipex.lua
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.xml
-mods/B.B EX/images/characters/bosipex.png
-mods/B.B EX/images/characters/bosipex.xml
+mods/B.B EX/images/characters/ex/bosipex.png
+mods/B.B EX/images/characters/ex/bosipex.xml
 mods/B.B EX/images/characters/GF_ass_sets_outfit.png
 mods/B.B EX/images/characters/GF_ass_sets_outfit.xml
 mods/B.B EX/images/BG1_sunset.png

@@ -9,8 +9,8 @@ mods/B.B EX/stages/night-ex.json
 mods/B.B EX/stages/night-ex.lua
 mods/B.B EX/images/characters/BoyFriend_Assets_EX_night.png
 mods/B.B EX/images/characters/BoyFriend_Assets_EX_night.xml
-mods/B.B EX/images/characters/amorex.png
-mods/B.B EX/images/characters/amorex.xml
+mods/B.B EX/images/characters/ex/amorex.png
+mods/B.B EX/images/characters/ex/amorex.xml
 mods/B.B EX/images/characters/mydad.png
 mods/B.B EX/images/characters/mydad.xml
 mods/B.B EX/images/Amor_BG1.png

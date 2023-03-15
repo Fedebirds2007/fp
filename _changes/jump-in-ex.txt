@@ -9,8 +9,8 @@ mods/B.B EX/stages/bobex.json
 mods/B.B EX/stages/bobex.lua
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.xml
-mods/B.B EX/images/characters/bobex.png
-mods/B.B EX/images/characters/bobex.xml
+mods/B.B EX/images/characters/ex/bobEX.png
+mods/B.B EX/images/characters/ex/bobEX.xml
 mods/B.B EX/images/characters/GF_ass_sets_outfit.png
 mods/B.B EX/images/characters/GF_ass_sets_outfit.xml
 mods/B.B EX/images/BG1.png

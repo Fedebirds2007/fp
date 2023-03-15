@@ -8,8 +8,8 @@ mods/B.B EX/characters/amor.json
 mods/B.B EX/characters/nothing.json
 mods/B.B EX/images/characters/extra/BOYFRIENDnight.png
 mods/B.B EX/images/characters/extra/BOYFRIENDnight.xml
-mods/B.B EX/images/characters/amor_assets.png
-mods/B.B EX/images/characters/amor_assets.xml
+mods/B.B EX/images/characters/extra/amor_assets.png
+mods/B.B EX/images/characters/extra/amor_assets.xml
 mods/B.B EX/images/characters/nothing.png
 mods/B.B EX/images/characters/nothing.xml
 mods/B.B EX/characters/gf-night.json

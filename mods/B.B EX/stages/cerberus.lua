@@ -30,7 +30,7 @@ function onCreate()
 	scaleObject('6background', 1.05, 1.05);
 	
 	if not lowQuality then 
-	    makeAnimatedLuaSprite('peoomiddle', 'itb_crowd_back', 50, 50)
+	    makeAnimatedLuaSprite('peoomiddle', 'itb_crowd_back', 50, 100)
         addAnimationByPrefix('peoomiddle', 'idle', 'itb_crowd_back instance 1', 24, true)
 	    setScrollFactor('peoomiddle', 1, 1)
 	    addLuaSprite('peoomiddle', false)
