@@ -16,6 +16,7 @@ mods/B.B EX/images/characters/Cerberus.png
 mods/B.B EX/images/characters/Cerberus.xml
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/screenBeat.lua
 mods/B.B EX/scripts/ThetaUI.lua
 mods/B.B EX/scripts/timeBar.lua
 mods/B.B EX/scripts/titlestuff.lua

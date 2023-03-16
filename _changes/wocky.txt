@@ -18,6 +18,7 @@ mods/ArcadeShowdown/images/characters/KAPIGIRLFRIEND.png
 mods/ArcadeShowdown/images/characters/KAPIGIRLFRIEND.xml
 mods/ArcadeShowdown/custom_events/noteskinchangeBF.lua
 mods/ArcadeShowdown/scripts/accuracy.lua
+mods/ArcadeShowdown/scripts/screenBeat.lua
 mods/ArcadeShowdown/scripts/ThetaUI.lua
 mods/ArcadeShowdown/scripts/timeBar.lua
 mods/ArcadeShowdown/scripts/titlestuff.lua

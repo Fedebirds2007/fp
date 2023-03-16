@@ -14,6 +14,7 @@ mods/Hotline 024/images/characters/GF_assets.png
 mods/Hotline 024/images/characters/GF_assets.xml
 mods/Hotline 024/scripts/accuracy.lua
 mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/screenBeat.lua
 mods/Hotline 024/scripts/ThetaUI.lua
 mods/Hotline 024/scripts/timeBar.lua
 mods/Hotline 024/scripts/titlestuff.lua

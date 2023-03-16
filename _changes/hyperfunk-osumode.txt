@@ -6,6 +6,7 @@ mods/Hotline 024/stages/skatepark.lua
 mods/Hotline 024/custom_notetypes/Swap Note.lua
 mods/Hotline 024/scripts/accuracy.lua
 mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/screenBeat.lua
 mods/Hotline 024/scripts/ThetaUI.lua
 mods/Hotline 024/scripts/timeBar.lua
 mods/Hotline 024/scripts/titlestuff.lua
