@@ -1,0 +1,8 @@
+mods/data/scripts/bfdie.lua
+mods/data/scripts/camera follow.lua
+mods/data/scripts/iconforJghost.lua
+mods/data/scripts/KE UI.lua
+mods/data/scripts/loading.lua
+mods/data/scripts/msTiming.lua
+mods/data/scripts/opponentnotes.lua
+mods/data/scripts/playernotes.lua

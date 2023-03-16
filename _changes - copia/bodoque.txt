@@ -1,0 +1,28 @@
+mods/data/bodoque/bodoque-pulenta.json
+mods/data/bodoque/bodoque.json
+mods/data/bodoque/events.json
+mods/VN Webiando/characters/Bodoque-2.json
+mods/VN Webiando/images/characters/Bodoque.png
+mods/VN Webiando/images/characters/Bodoque.xml
+mods/data/bodoque/mod.txt
+mods/VN Webiando/characters/bf.json
+mods/VN Webiando/characters/Bodoque.json
+mods/VN Webiando/characters/gf.json
+mods/VN Webiando/stages/bgnoche.json
+mods/VN Webiando/images/characters/BOYFRIEND.png
+mods/VN Webiando/images/characters/BOYFRIEND.xml
+mods/VN Webiando/images/characters/GF_assets.png
+mods/VN Webiando/images/characters/GF_assets.xml
+mods/VN Webiando/characters/gffonda.json
+mods/VN Webiando/custom_events/lyrics.lua
+mods/VN Webiando/custom_events/Set Camera Zoom.lua
+mods/VN Webiando/scripts/accuracy.lua
+mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/screenBeat.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
+mods/songs/bodoque/Voices.ogg
+mods/songs/bodoque/voices.ogg
+mods/songs/bodoque/Inst.ogg
+mods/songs/bodoque/inst.ogg

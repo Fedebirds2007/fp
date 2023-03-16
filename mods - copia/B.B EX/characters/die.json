@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "die2",
+			"indices": [],
+			"name": "BF die instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "die3",
+			"indices": [],
+			"name": "BF die not instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "die",
+			"indices": [],
+			"name": "BF die 0 instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				-104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF die 0 instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/extra/Faker_GAMEOVER",
+	"position": [
+		-180,
+		230
+	],
+	"healthicon": "bfex",
+	"flip_x": true,
+	"healthbar_colors": [
+		21,
+		87,
+		173
+	],
+	"camera_position": [
+		840,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

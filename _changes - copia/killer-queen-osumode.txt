@@ -1,0 +1,15 @@
+mods/data/killer-queen/events.json
+mods/data/killer-queen/killer-queen.json
+mods/data/killer-queen/mod.txt
+mods/Hotline 024/stages/jojo.json
+mods/Hotline 024/stages/jojo.lua
+mods/Hotline 024/scripts/accuracy.lua
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/screenBeat.lua
+mods/Hotline 024/scripts/ThetaUI.lua
+mods/Hotline 024/scripts/timeBar.lua
+mods/Hotline 024/scripts/titlestuff.lua
+mods/songs/killer-queen/Voices.ogg
+mods/songs/killer-queen/voices.ogg
+mods/songs/killer-queen/Inst.ogg
+mods/songs/killer-queen/inst.ogg

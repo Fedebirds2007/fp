@@ -1,0 +1,40 @@
+mods/data/yap-squad/events.json
+mods/data/yap-squad/mod.txt
+mods/data/yap-squad/yap-squad-easy.json
+mods/data/yap-squad/yap-squad-hard.json
+mods/data/yap-squad/yap-squad.json
+mods/B.B EX/characters/bf-yapsquad.json
+mods/B.B EX/characters/jghost.json
+mods/B.B EX/characters/cerberus.json
+mods/B.B EX/stages/cerberus.json
+mods/B.B EX/stages/cerberus.lua
+mods/B.B EX/images/characters/BOYFRIEND.png
+mods/B.B EX/images/characters/BOYFRIEND.xml
+mods/B.B EX/images/characters/Jghost.png
+mods/B.B EX/images/characters/Jghost.xml
+mods/B.B EX/images/characters/Cerberus.png
+mods/B.B EX/images/characters/Cerberus.xml
+mods/B.B EX/scripts/accuracy.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/screenBeat.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
+mods/B.B EX/images/Week2_bg1.png
+mods/B.B EX/images/Week2_bg2.png
+mods/B.B EX/images/Week2_bg3.png
+mods/B.B EX/images/Week2_bg4.png
+mods/B.B EX/images/Week2_bg5.png
+mods/B.B EX/images/Week2_bg6.png
+mods/B.B EX/images/itb_crowd_back.png
+mods/B.B EX/images/itb_crowd_back.xml
+mods/B.B EX/images/itb_crowd_middle.png
+mods/B.B EX/images/itb_crowd_middle.xml
+mods/B.B EX/images/week2-2.png
+mods/B.B EX/images/week2-1.png
+mods/B.B EX/images/GF_assets.png
+mods/B.B EX/images/GF_assets.xml
+mods/songs/yap-squad/Voices.ogg
+mods/songs/yap-squad/voices.ogg
+mods/songs/yap-squad/Inst.ogg
+mods/songs/yap-squad/inst.ogg

@@ -1,0 +1,17 @@
+mods/data/jump-out-ex/events.json
+mods/data/jump-out-ex/jump-out-ex-easy.json
+mods/data/jump-out-ex/jump-out-ex-hard.json
+mods/data/jump-out-ex/jump-out-ex.json
+mods/data/jump-out-ex/mod.txt
+mods/B.B EX/stages/bobsway.json
+mods/B.B EX/stages/bobsway.lua
+mods/B.B EX/scripts/accuracy.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/screenBeat.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
+mods/songs/jump-out-ex/Voices.ogg
+mods/songs/jump-out-ex/voices.ogg
+mods/songs/jump-out-ex/Inst.ogg
+mods/songs/jump-out-ex/inst.ogg

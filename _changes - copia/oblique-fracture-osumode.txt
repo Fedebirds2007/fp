@@ -1,0 +1,17 @@
+mods/data/oblique-fracture/events.json
+mods/data/oblique-fracture/mod.txt
+mods/data/oblique-fracture/oblique-fracture-easy.json
+mods/data/oblique-fracture/oblique-fracture-hard.json
+mods/data/oblique-fracture/oblique-fracture.json
+mods/B.B EX/stages/sans.json
+mods/B.B EX/stages/sans.lua
+mods/B.B EX/scripts/accuracy.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/screenBeat.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
+mods/songs/oblique-fracture/Voices.ogg
+mods/songs/oblique-fracture/voices.ogg
+mods/songs/oblique-fracture/Inst.ogg
+mods/songs/oblique-fracture/inst.ogg

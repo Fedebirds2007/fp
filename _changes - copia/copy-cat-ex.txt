@@ -1,0 +1,27 @@
+mods/data/copy-cat-ex/copy-cat-ex-easy.json
+mods/data/copy-cat-ex/copy-cat-ex-hard.json
+mods/data/copy-cat-ex/copy-cat-ex.json
+mods/data/copy-cat-ex/mod.txt
+mods/B.B EX/characters/bnf.json
+mods/B.B EX/characters/mcbo.json
+mods/B.B EX/characters/bosap.json
+mods/B.B EX/stages/smp.json
+mods/B.B EX/stages/smp.lua
+mods/B.B EX/images/characters/Minecraft_Bob.png
+mods/B.B EX/images/characters/Minecraft_Bob.xml
+mods/B.B EX/images/characters/dreamlol_derp.png
+mods/B.B EX/images/characters/dreamlol_derp.xml
+mods/B.B EX/images/characters/Bosip_Dance.png
+mods/B.B EX/images/characters/Bosip_Dance.xml
+mods/B.B EX/scripts/accuracy.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/screenBeat.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
+mods/B.B EX/images/stageback4.png
+mods/B.B EX/images/stagecurtains.png
+mods/songs/copy-cat-ex/Voices.ogg
+mods/songs/copy-cat-ex/voices.ogg
+mods/songs/copy-cat-ex/Inst.ogg
+mods/songs/copy-cat-ex/inst.ogg

@@ -1,0 +1,9 @@
+mods/data/tutorial-ex/mod.txt
+mods/data/tutorial-ex/Normal-countdown.lua
+mods/data/tutorial-ex/opponent only script.lua
+mods/data/tutorial-ex/tutorial-ex-ex.json
+mods/B.B EX/characters/bfex.json
+mods/B.B EX/characters/gfex.json
+mods/B.B EX/images/characters/GF_ass_sets_outfit.png
+mods/B.B EX/images/characters/GF_ass_sets_outfit.xml
+mods/B.B EX/scripts/camera follow.lua

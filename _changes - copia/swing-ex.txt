@@ -1,0 +1,27 @@
+mods/data/swing-ex/mod.txt
+mods/data/swing-ex/swing-ex-easy.json
+mods/data/swing-ex/swing-ex-hard.json
+mods/data/swing-ex/swing-ex.json
+mods/B.B EX/characters/bf-ex.json
+mods/B.B EX/characters/bosipex.json
+mods/B.B EX/characters/gf-ex.json
+mods/B.B EX/stages/bosipex.json
+mods/B.B EX/stages/bosipex.lua
+mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
+mods/B.B EX/images/characters/BoyFriend_Assets_EX.xml
+mods/B.B EX/images/characters/GF_ass_sets_outfit.png
+mods/B.B EX/images/characters/GF_ass_sets_outfit.xml
+mods/B.B EX/scripts/accuracy.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/screenBeat.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
+mods/B.B EX/images/BG1_sunset.png
+mods/B.B EX/images/BG2_sunset.png
+mods/B.B EX/images/ex_crowd_sunset.png
+mods/B.B EX/images/BG3_sunset.png
+mods/songs/swing-ex/Voices.ogg
+mods/songs/swing-ex/voices.ogg
+mods/songs/swing-ex/Inst.ogg
+mods/songs/swing-ex/inst.ogg

@@ -1,0 +1,39 @@
+mods/data/ronald-mcdonald-slide/events.json
+mods/B.B EX/characters/abungus.json
+mods/B.B EX/images/characters/abungus.png
+mods/B.B EX/images/characters/abungus.xml
+mods/B.B EX/characters/ronsip.json
+mods/B.B EX/images/characters/kill_yourself.png
+mods/B.B EX/images/characters/kill_yourself.xml
+mods/B.B EX/characters/bad-quality-ron.json
+mods/B.B EX/images/characters/bad_quality_ron.png
+mods/B.B EX/images/characters/bad_quality_ron.xml
+mods/B.B EX/characters/bad-quality-bf.json
+mods/B.B EX/images/characters/bad_quality_bf.png
+mods/B.B EX/images/characters/bad_quality_bf.xml
+mods/B.B EX/characters/bad-quality-gf.json
+mods/B.B EX/images/characters/bad_quality_gf.png
+mods/B.B EX/images/characters/bad_quality_gf.xml
+mods/B.B EX/characters/gf.json
+mods/B.B EX/images/characters/GF_assets.png
+mods/B.B EX/images/characters/GF_assets.xml
+mods/B.B EX/characters/bf.json
+mods/B.B EX/images/characters/BOYFRIEND.png
+mods/B.B EX/images/characters/BOYFRIEND.xml
+mods/data/ronald-mcdonald-slide/mod.txt
+mods/data/ronald-mcdonald-slide/ronald-mcdonald-slide-easy.json
+mods/data/ronald-mcdonald-slide/ronald-mcdonald-slide-hard.json
+mods/data/ronald-mcdonald-slide/ronald-mcdonald-slide.json
+mods/B.B EX/stages/stupid-dumb.json
+mods/B.B EX/stages/stupid-dumb.lua
+mods/B.B EX/scripts/accuracy.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/screenBeat.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
+mods/B.B EX/images/BG_ronsip.png
+mods/songs/ronald-mcdonald-slide/Voices.ogg
+mods/songs/ronald-mcdonald-slide/voices.ogg
+mods/songs/ronald-mcdonald-slide/Inst.ogg
+mods/songs/ronald-mcdonald-slide/inst.ogg

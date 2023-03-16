@@ -1,0 +1,15 @@
+mods/data/noche-de-fonda/mod.txt
+mods/data/noche-de-fonda/noche-de-fonda-pulenta.json
+mods/data/noche-de-fonda/noche-de-fonda.json
+mods/VN Webiando/stages/bgnoche-maritza.json
+mods/VN Webiando/custom_events/Set Camera Zoom.lua
+mods/VN Webiando/scripts/accuracy.lua
+mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/screenBeat.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
+mods/songs/noche-de-fonda/Voices.ogg
+mods/songs/noche-de-fonda/voices.ogg
+mods/songs/noche-de-fonda/Inst.ogg
+mods/songs/noche-de-fonda/inst.ogg

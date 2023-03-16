@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				51,
+				245
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				704,
+				726
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "Intro"
+		},
+		{
+			"offsets": [
+				108,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Arriba"
+		},
+		{
+			"offsets": [
+				37,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				100,
+				241
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				60,
+				117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Abajo"
+		},
+		{
+			"offsets": [
+				100,
+				250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idlefalso"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Bodoque",
+	"position": [
+		100,
+		420
+	],
+	"healthicon": "bodoque",
+	"flip_x": false,
+	"healthbar_colors": [
+		193,
+		91,
+		78
+	],
+	"camera_position": [
+		-80,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

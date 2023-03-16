@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				12
+			],
+			"anim": "woofmiddle",
+			"fps": 24,
+			"name": "Cerberus Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				13
+			],
+			"anim": "woofleft",
+			"fps": 24,
+			"name": "Cerberus Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-122,
+				13
+			],
+			"anim": "woofright",
+			"fps": 24,
+			"name": "Cerberus Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cerberus idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				35
+			],
+			"anim": "woofall",
+			"fps": 24,
+			"name": "Cerberus Sing Note UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cerberus",
+	"position": [
+		-450,
+		800
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

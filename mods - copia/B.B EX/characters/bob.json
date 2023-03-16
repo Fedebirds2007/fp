@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BOB idle dance"
+		},
+		{
+			"offsets": [
+				37,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BOB Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-14,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BOB Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-20,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BOB Sing Note UP"
+		},
+		{
+			"offsets": [
+				-43,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BOB Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/extra/bob_assets",
+	"position": [
+		40,
+		-10
+	],
+	"healthicon": "bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		228,
+		28
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

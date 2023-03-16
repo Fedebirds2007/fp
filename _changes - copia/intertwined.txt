@@ -1,0 +1,27 @@
+mods/data/intertwined/intertwined-easy.json
+mods/data/intertwined/intertwined-hard.json
+mods/data/intertwined/intertwined.json
+mods/data/intertwined/mod.txt
+mods/B.B EX/characters/bf-interwined.json
+mods/B.B EX/characters/ash_and_cerb.json
+mods/B.B EX/characters/nothing.json
+mods/B.B EX/stages/ashncerb.json
+mods/B.B EX/stages/ashncerb.lua
+mods/B.B EX/images/characters/BOYFRIEND.png
+mods/B.B EX/images/characters/BOYFRIEND.xml
+mods/B.B EX/images/characters/Ash_And_Cerb.png
+mods/B.B EX/images/characters/Ash_And_Cerb.xml
+mods/B.B EX/images/characters/nothing.png
+mods/B.B EX/images/characters/nothing.xml
+mods/B.B EX/custom_notetypes/duet.lua
+mods/B.B EX/scripts/accuracy.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/screenBeat.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
+mods/B.B EX/images/BG_ashncerb.png
+mods/songs/intertwined/Voices.ogg
+mods/songs/intertwined/voices.ogg
+mods/songs/intertwined/Inst.ogg
+mods/songs/intertwined/inst.ogg
