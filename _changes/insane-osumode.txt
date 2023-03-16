@@ -6,5 +6,9 @@ mods/data/insane/mod.txt
 mods/Insane/stages/Alastor.json
 mods/Insane/stages/Alastor.lua
 mods/Insane/custom_events/Flash.lua
+mods/Insane/scripts/accuracy.lua
+mods/Insane/scripts/ThetaUI.lua
+mods/Insane/scripts/timeBar.lua
+mods/Insane/scripts/titlestuff.lua
 mods/songs/insane/Inst.ogg
 mods/songs/insane/inst.ogg

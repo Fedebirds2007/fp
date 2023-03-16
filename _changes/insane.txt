@@ -18,6 +18,10 @@ mods/Insane/images/characters/bf-nothing.xml
 mods/Insane/images/characters/GF_nothing.png
 mods/Insane/images/characters/GF_nothing.xml
 mods/Insane/custom_events/Flash.lua
+mods/Insane/scripts/accuracy.lua
+mods/Insane/scripts/ThetaUI.lua
+mods/Insane/scripts/timeBar.lua
+mods/Insane/scripts/titlestuff.lua
 mods/Insane/images/Alastor.png
 mods/Insane/images/bar 1.png
 mods/Insane/images/white.png
