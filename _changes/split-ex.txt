@@ -1,25 +1,19 @@
-mods/data/split-ex/amor-countdown.lua
 mods/data/split-ex/mod.txt
-mods/data/split-ex/split-ex-easy.json
 mods/data/split-ex/split-ex-ex.json
-mods/data/split-ex/split-ex-hard.json
-mods/data/split-ex/split-ex.json
-mods/B.B EX/characters/bf-ex-night.json
+mods/B.B EX/characters/bfex-night.json
 mods/B.B EX/characters/amorex.json
-mods/B.B EX/characters/mydad.json
-mods/B.B EX/stages/night-ex.json
-mods/B.B EX/stages/night-ex.lua
+mods/B.B EX/characters/gfex-night.json
+mods/B.B EX/stages/amorstageex.json
+mods/B.B EX/stages/amorstageex.lua
 mods/B.B EX/images/characters/BoyFriend_Assets_EX_night.png
 mods/B.B EX/images/characters/BoyFriend_Assets_EX_night.xml
 mods/B.B EX/images/characters/amorex.png
 mods/B.B EX/images/characters/amorex.xml
-mods/B.B EX/images/characters/mydad.png
-mods/B.B EX/images/characters/mydad.xml
-mods/B.B EX/characters/bfex-night.json
-mods/B.B EX/characters/gfex-night.json
 mods/B.B EX/images/characters/GF_ass_sets_outfit_with_bb.png
 mods/B.B EX/images/characters/GF_ass_sets_outfit_with_bb.xml
 mods/B.B EX/characters/amor-ea.json
+mods/B.B EX/images/ea-1.png
+mods/B.B EX/images/ea-1.xml
 mods/B.B EX/custom_events/ARE YOU READY.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/images/Amor_BG1.png
