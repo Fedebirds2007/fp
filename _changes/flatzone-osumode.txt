@@ -6,7 +6,6 @@ mods/data/flatzone/mod.txt
 mods/data/flatzone/script.lua
 mods/ArcadeShowdown/stages/flatfuck.json
 mods/ArcadeShowdown/stages/flatfuck.lua
-mods/ArcadeShowdown/custom_events/noteskinchangeBF.lua
 mods/ArcadeShowdown/scripts/accuracy.lua
 mods/ArcadeShowdown/scripts/screenBeat.lua
 mods/ArcadeShowdown/scripts/ThetaUI.lua

@@ -6,7 +6,6 @@ mods/data/beathoven/mod.txt
 mods/data/beathoven/script.lua
 mods/ArcadeShowdown/stages/stageBop.json
 mods/ArcadeShowdown/stages/stageBop.lua
-mods/ArcadeShowdown/custom_events/noteskinchangeBF.lua
 mods/ArcadeShowdown/scripts/accuracy.lua
 mods/ArcadeShowdown/scripts/screenBeat.lua
 mods/ArcadeShowdown/scripts/ThetaUI.lua

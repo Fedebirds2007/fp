@@ -7,7 +7,6 @@ mods/data/nyaw/script.lua
 mods/ArcadeShowdown/stages/closed.json
 mods/ArcadeShowdown/stages/closed.lua
 mods/ArcadeShowdown/custom_events/imageflash.lua
-mods/ArcadeShowdown/custom_events/noteskinchangeBF.lua
 mods/ArcadeShowdown/scripts/accuracy.lua
 mods/ArcadeShowdown/scripts/screenBeat.lua
 mods/ArcadeShowdown/scripts/ThetaUI.lua
