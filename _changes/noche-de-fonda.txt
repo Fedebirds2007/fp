@@ -15,7 +15,11 @@ mods/VN Webiando/characters/maritza-noche-cam.json
 mods/VN Webiando/characters/gffonda.json
 mods/VN Webiando/characters/bf-cueca.json
 mods/VN Webiando/custom_events/Set Camera Zoom.lua
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/noche-de-fonda/Voices.ogg
 mods/songs/noche-de-fonda/voices.ogg
 mods/songs/noche-de-fonda/Inst.ogg

@@ -3,7 +3,11 @@ mods/data/chupeteao/chupeteao.json
 mods/data/chupeteao/events.json
 mods/data/chupeteao/mod.txt
 mods/VN Webiando/stages/bgnoche.json
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/chupeteao/Voices.ogg
 mods/songs/chupeteao/voices.ogg
 mods/songs/chupeteao/Inst.ogg

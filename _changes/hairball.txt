@@ -17,7 +17,11 @@ mods/ArcadeShowdown/images/characters/KAPI_ANGRY.png
 mods/ArcadeShowdown/images/characters/KAPI_ANGRY.xml
 mods/ArcadeShowdown/images/characters/KAPIGIRLFRIEND.png
 mods/ArcadeShowdown/images/characters/KAPIGIRLFRIEND.xml
-mods/ArcadeShowdown/scripts/poison.lua
+mods/ArcadeShowdown/custom_events/noteskinchangeBF.lua
+mods/ArcadeShowdown/scripts/accuracy.lua
+mods/ArcadeShowdown/scripts/ThetaUI.lua
+mods/ArcadeShowdown/scripts/timeBar.lua
+mods/ArcadeShowdown/scripts/titlestuff.lua
 mods/ArcadeShowdown/images/stagesunset.png
 mods/ArcadeShowdown/images/stagefrontkapiold.png
 mods/ArcadeShowdown/images/upperBop.png

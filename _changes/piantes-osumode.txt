@@ -3,7 +3,11 @@ mods/data/piantes/mod.txt
 mods/data/piantes/piantes-pulenta.json
 mods/data/piantes/piantes.json
 mods/VN Webiando/stages/pulentos.json
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/piantes/Voices.ogg
 mods/songs/piantes/voices.ogg
 mods/songs/piantes/Inst.ogg

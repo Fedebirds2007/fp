@@ -12,9 +12,11 @@ mods/Hotline 024/images/characters/Nikku_Updated.png
 mods/Hotline 024/images/characters/Nikku_Updated.xml
 mods/Hotline 024/images/characters/GF_assets.png
 mods/Hotline 024/images/characters/GF_assets.xml
+mods/Hotline 024/scripts/accuracy.lua
 mods/Hotline 024/scripts/Death.lua
-mods/Hotline 024/scripts/Hotline Bar.lua
-mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/scripts/ThetaUI.lua
+mods/Hotline 024/scripts/timeBar.lua
+mods/Hotline 024/scripts/titlestuff.lua
 mods/Hotline 024/images/jojo/Cutscene/spritemap.png
 mods/Hotline 024/images/jojo/bg.png
 mods/Hotline 024/images/jojo/building.png
@@ -22,8 +24,6 @@ mods/Hotline 024/images/jojo/fg.png
 mods/Hotline 024/images/jojo/floor.png
 mods/Hotline 024/images/jojo/grad.png
 mods/Hotline 024/images/characters/MATZURETRY.png
-mods/Hotline 024/images/barText.png
-mods/Hotline 024/fonts/AbstractGroovy.ttf
 mods/songs/killer-queen/Voices.ogg
 mods/songs/killer-queen/voices.ogg
 mods/songs/killer-queen/Inst.ogg

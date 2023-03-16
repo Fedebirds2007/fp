@@ -6,9 +6,11 @@ mods/data/pyoro/pyoro.json
 mods/ArcadeShowdown/characters/pico.json
 mods/ArcadeShowdown/characters/senpai.json
 mods/ArcadeShowdown/characters/gf-pixel.json
-mods/ArcadeShowdown/stages/school.json
 mods/ArcadeShowdown/custom_events/imageflash.lua
-mods/ArcadeShowdown/scripts/poison.lua
+mods/ArcadeShowdown/scripts/accuracy.lua
+mods/ArcadeShowdown/scripts/ThetaUI.lua
+mods/ArcadeShowdown/scripts/timeBar.lua
+mods/ArcadeShowdown/scripts/titlestuff.lua
 mods/songs/pyoro/Voices.ogg
 mods/songs/pyoro/voices.ogg
 mods/songs/pyoro/Inst.ogg

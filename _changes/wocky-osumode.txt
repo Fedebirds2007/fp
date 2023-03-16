@@ -7,7 +7,11 @@ mods/data/wocky/wocky-hard.json
 mods/data/wocky/wocky.json
 mods/ArcadeShowdown/stages/stageback.json
 mods/ArcadeShowdown/stages/stageback.lua
-mods/ArcadeShowdown/scripts/poison.lua
+mods/ArcadeShowdown/custom_events/noteskinchangeBF.lua
+mods/ArcadeShowdown/scripts/accuracy.lua
+mods/ArcadeShowdown/scripts/ThetaUI.lua
+mods/ArcadeShowdown/scripts/timeBar.lua
+mods/ArcadeShowdown/scripts/titlestuff.lua
 mods/songs/wocky/Voices.ogg
 mods/songs/wocky/voices.ogg
 mods/songs/wocky/Inst.ogg

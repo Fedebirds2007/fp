@@ -13,9 +13,11 @@ mods/Hotline 024/images/characters/NikkuAssets.xml
 mods/Hotline 024/images/characters/GF_assets.png
 mods/Hotline 024/images/characters/GF_assets.xml
 mods/Hotline 024/custom_notetypes/Swap Note.lua
+mods/Hotline 024/scripts/accuracy.lua
 mods/Hotline 024/scripts/Death.lua
-mods/Hotline 024/scripts/Hotline Bar.lua
-mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/scripts/ThetaUI.lua
+mods/Hotline 024/scripts/timeBar.lua
+mods/Hotline 024/scripts/titlestuff.lua
 mods/Hotline 024/images/skatepark/cutscene/background.png
 mods/Hotline 024/images/skatepark/cutscene/exe.png
 mods/Hotline 024/images/skatepark/cutscene/ground.png
@@ -35,8 +37,6 @@ mods/Hotline 024/images/skatepark/light.png
 mods/Hotline 024/images/skatepark/sky.png
 mods/Hotline 024/images/skatepark/trees.png
 mods/Hotline 024/images/characters/MATZURETRY.png
-mods/Hotline 024/images/barText.png
-mods/Hotline 024/fonts/AbstractGroovy.ttf
 mods/songs/hyperfunk/Voices.ogg
 mods/songs/hyperfunk/voices.ogg
 mods/songs/hyperfunk/Inst.ogg

@@ -11,7 +11,11 @@ mods/B.B EX/images/characters/BOYFRIEND.png
 mods/B.B EX/images/characters/BOYFRIEND.xml
 mods/B.B EX/images/characters/GF_assets.png
 mods/B.B EX/images/characters/GF_assets.xml
+mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
 mods/B.B EX/images/BG_mini.png
 mods/songs/conscience/Voices.ogg
 mods/songs/conscience/voices.ogg

@@ -4,7 +4,11 @@ mods/data/condoriku/events.json
 mods/data/condoriku/mod.txt
 mods/VN Webiando/stages/bgcondorito.json
 mods/VN Webiando/custom_events/lyrics.lua
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/condoriku/Voices.ogg
 mods/songs/condoriku/voices.ogg
 mods/songs/condoriku/Inst.ogg

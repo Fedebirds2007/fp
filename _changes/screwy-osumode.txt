@@ -2,7 +2,11 @@ mods/data/screwy/mod.txt
 mods/data/screwy/screwy-pulenta.json
 mods/data/screwy/screwy.json
 mods/VN Webiando/stages/bgdia.json
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/screwy/Voices.ogg
 mods/songs/screwy/voices.ogg
 mods/songs/screwy/Inst.ogg

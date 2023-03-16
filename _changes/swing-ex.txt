@@ -11,7 +11,11 @@ mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.xml
 mods/B.B EX/images/characters/GF_ass_sets_outfit.png
 mods/B.B EX/images/characters/GF_ass_sets_outfit.xml
+mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
 mods/B.B EX/images/BG1_sunset.png
 mods/B.B EX/images/BG2_sunset.png
 mods/B.B EX/images/ex_crowd_sunset.png

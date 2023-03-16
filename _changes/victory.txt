@@ -18,6 +18,10 @@ mods/Impostor/stages/victory.lua
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/custom_events/black.lua
+mods/Impostor/scripts/accuracy.lua
+mods/Impostor/scripts/ThetaUI.lua
+mods/Impostor/scripts/timeBar.lua
+mods/Impostor/scripts/titlestuff.lua
 mods/Impostor/images/victory/fog_back.png
 mods/Impostor/images/victory/victorytext.png
 mods/Impostor/images/victory/victorytext.xml

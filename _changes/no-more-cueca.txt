@@ -8,7 +8,11 @@ mods/VN Webiando/images/characters/BOYFRIEND.png
 mods/VN Webiando/images/characters/BOYFRIEND.xml
 mods/VN Webiando/images/characters/GF_assets.png
 mods/VN Webiando/images/characters/GF_assets.xml
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/no-more-cueca/Voices.ogg
 mods/songs/no-more-cueca/voices.ogg
 mods/songs/no-more-cueca/Inst.ogg

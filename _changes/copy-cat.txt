@@ -13,7 +13,11 @@ mods/B.B EX/images/characters/bob_asset.png
 mods/B.B EX/images/characters/bob_asset.xml
 mods/B.B EX/images/characters/Worriedbosip.png
 mods/B.B EX/images/characters/Worriedbosip.xml
+mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
 mods/B.B EX/images/BG_day.png
 mods/songs/copy-cat/Voices.ogg
 mods/songs/copy-cat/voices.ogg

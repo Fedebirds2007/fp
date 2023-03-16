@@ -13,16 +13,16 @@ mods/Hotline 024/images/characters/NikkuAssets.png
 mods/Hotline 024/images/characters/NikkuAssets.xml
 mods/Hotline 024/images/characters/GF_assets.png
 mods/Hotline 024/images/characters/GF_assets.xml
+mods/Hotline 024/scripts/accuracy.lua
 mods/Hotline 024/scripts/Death.lua
-mods/Hotline 024/scripts/Hotline Bar.lua
-mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/scripts/ThetaUI.lua
+mods/Hotline 024/scripts/timeBar.lua
+mods/Hotline 024/scripts/titlestuff.lua
 mods/Hotline 024/images/hallway/cutscene1/spritemap.png
 mods/Hotline 024/images/hallway/bg.png
 mods/Hotline 024/images/hallway/fg.png
 mods/Hotline 024/images/hallway/grad.png
 mods/Hotline 024/images/characters/MATZURETRY.png
-mods/Hotline 024/images/barText.png
-mods/Hotline 024/fonts/AbstractGroovy.ttf
 mods/songs/fandomania/Voices.ogg
 mods/songs/fandomania/voices.ogg
 mods/songs/fandomania/Inst.ogg

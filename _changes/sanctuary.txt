@@ -10,7 +10,10 @@ mods/ArcadeShowdown/characters/bf-pixel.json
 mods/ArcadeShowdown/characters/parents-christmas.json
 mods/ArcadeShowdown/characters/gf-pixel.json
 mods/ArcadeShowdown/custom_events/imageflash.lua
-mods/ArcadeShowdown/scripts/poison.lua
+mods/ArcadeShowdown/scripts/accuracy.lua
+mods/ArcadeShowdown/scripts/ThetaUI.lua
+mods/ArcadeShowdown/scripts/timeBar.lua
+mods/ArcadeShowdown/scripts/titlestuff.lua
 mods/songs/sanctuary/Voices.ogg
 mods/songs/sanctuary/voices.ogg
 mods/songs/sanctuary/Inst.ogg

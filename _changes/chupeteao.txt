@@ -13,7 +13,11 @@ mods/VN Webiando/images/characters/Mattsinpolera_Assets.xml
 mods/VN Webiando/images/characters/GF_assets.png
 mods/VN Webiando/images/characters/GF_assets.xml
 mods/VN Webiando/characters/gffonda.json
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/chupeteao/Voices.ogg
 mods/songs/chupeteao/voices.ogg
 mods/songs/chupeteao/Inst.ogg

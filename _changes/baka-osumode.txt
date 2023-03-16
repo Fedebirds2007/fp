@@ -5,10 +5,14 @@ mods/DokiTakeover/stages/dokiclubroom.json
 mods/DokiTakeover/stages/dokiclubroom.lua
 mods/DokiTakeover/custom_events/Set Cam Zoom.lua
 mods/DokiTakeover/custom_events/NatCats.lua
+mods/DokiTakeover/scripts/accuracy.lua
 mods/DokiTakeover/scripts/cameraMovement.lua
 mods/DokiTakeover/scripts/changeGameOver.lua
 mods/DokiTakeover/scripts/DisappearTheBigMonika.lua
 mods/DokiTakeover/scripts/screenBeat.lua
+mods/DokiTakeover/scripts/ThetaUI.lua
+mods/DokiTakeover/scripts/timeBar.lua
+mods/DokiTakeover/scripts/titlestuff.lua
 mods/songs/baka/Voices.ogg
 mods/songs/baka/voices.ogg
 mods/songs/baka/Inst.ogg

@@ -5,7 +5,11 @@ mods/data/bodoque/mod.txt
 mods/VN Webiando/stages/bgnoche.json
 mods/VN Webiando/custom_events/lyrics.lua
 mods/VN Webiando/custom_events/Set Camera Zoom.lua
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/bodoque/Voices.ogg
 mods/songs/bodoque/voices.ogg
 mods/songs/bodoque/Inst.ogg

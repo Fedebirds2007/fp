@@ -5,7 +5,11 @@ mods/data/ronald-mcdonald-slide-ex/ronald-mcdonald-slide-ex-hard.json
 mods/data/ronald-mcdonald-slide-ex/ronald-mcdonald-slide-ex.json
 mods/B.B EX/stages/coolway.json
 mods/B.B EX/stages/coolway.lua
+mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
 mods/songs/ronald-mcdonald-slide-ex/Voices.ogg
 mods/songs/ronald-mcdonald-slide-ex/voices.ogg
 mods/songs/ronald-mcdonald-slide-ex/Inst.ogg

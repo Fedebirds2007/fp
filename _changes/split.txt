@@ -22,7 +22,11 @@ mods/B.B EX/stages/amorstage.lua
 mods/B.B EX/images/characters/GFnight_assets.png
 mods/B.B EX/images/characters/GFnight_assets.xml
 mods/B.B EX/custom_events/ARE YOU READY.lua
+mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
 mods/B.B EX/images/Amor_BG1.png
 mods/B.B EX/images/Amor_BG2.png
 mods/B.B EX/images/Amor_BG3.png

@@ -11,6 +11,10 @@ mods/Impostor/images/characters/red.png
 mods/Impostor/images/characters/red.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/scripts/accuracy.lua
+mods/Impostor/scripts/ThetaUI.lua
+mods/Impostor/scripts/timeBar.lua
+mods/Impostor/scripts/titlestuff.lua
 mods/Impostor/images/characters/bluehit.png
 mods/Impostor/images/characters/bluehit.xml
 mods/Impostor/images/stages/kill/killbg.png

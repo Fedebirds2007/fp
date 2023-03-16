@@ -14,7 +14,11 @@ mods/VN Webiando/images/characters/GF_assets.xml
 mods/VN Webiando/characters/bf-cam.json
 mods/VN Webiando/custom_events/lyrics.lua
 mods/VN Webiando/custom_events/Set Camera Zoom.lua
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/chuncho/Voices.ogg
 mods/songs/chuncho/voices.ogg
 mods/songs/chuncho/Inst.ogg

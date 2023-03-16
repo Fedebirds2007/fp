@@ -5,7 +5,11 @@ mods/data/yap-squad/yap-squad-hard.json
 mods/data/yap-squad/yap-squad.json
 mods/B.B EX/stages/cerberus.json
 mods/B.B EX/stages/cerberus.lua
+mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
 mods/songs/yap-squad/Voices.ogg
 mods/songs/yap-squad/voices.ogg
 mods/songs/yap-squad/Inst.ogg

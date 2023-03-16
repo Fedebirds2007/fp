@@ -4,7 +4,11 @@ mods/data/copy-cat-ex/copy-cat-ex.json
 mods/data/copy-cat-ex/mod.txt
 mods/B.B EX/stages/smp.json
 mods/B.B EX/stages/smp.lua
+mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
 mods/songs/copy-cat-ex/Voices.ogg
 mods/songs/copy-cat-ex/voices.ogg
 mods/songs/copy-cat-ex/Inst.ogg

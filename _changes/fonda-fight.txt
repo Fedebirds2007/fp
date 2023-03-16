@@ -19,7 +19,11 @@ mods/VN Webiando/characters/matias.json
 mods/VN Webiando/stages/unimarc.json
 mods/VN Webiando/images/characters/Matt_Assets.png
 mods/VN Webiando/images/characters/Matt_Assets.xml
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/fonda-fight/Voices.ogg
 mods/songs/fonda-fight/voices.ogg
 mods/songs/fonda-fight/Inst.ogg

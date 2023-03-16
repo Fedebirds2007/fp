@@ -13,7 +13,11 @@ mods/VN Webiando/images/characters/bfpul.png
 mods/VN Webiando/images/characters/bfpul.xml
 mods/VN Webiando/images/characters/waaalalla.png
 mods/VN Webiando/images/characters/waaalalla.xml
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/piantes/Voices.ogg
 mods/songs/piantes/voices.ogg
 mods/songs/piantes/Inst.ogg

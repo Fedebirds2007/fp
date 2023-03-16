@@ -14,7 +14,11 @@ mods/B.B EX/images/characters/Jghost.png
 mods/B.B EX/images/characters/Jghost.xml
 mods/B.B EX/images/characters/Cerberus.png
 mods/B.B EX/images/characters/Cerberus.xml
+mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
 mods/B.B EX/images/Week2_bg1.png
 mods/B.B EX/images/Week2_bg2.png
 mods/B.B EX/images/Week2_bg3.png

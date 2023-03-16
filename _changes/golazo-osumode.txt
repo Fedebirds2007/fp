@@ -2,7 +2,11 @@ mods/data/golazo/events.json
 mods/data/golazo/golazo.json
 mods/data/golazo/mod.txt
 mods/VN Webiando/stages/unimarc.json
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/golazo/Voices.ogg
 mods/songs/golazo/voices.ogg
 mods/songs/golazo/Inst.ogg

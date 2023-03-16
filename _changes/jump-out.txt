@@ -19,7 +19,11 @@ mods/B.B EX/stages/happy.json
 mods/B.B EX/stages/happy.lua
 mods/B.B EX/images/characters/GF_ANDRONCOOLGUYONSPEAKEROHMYGODHEISSOCOOL.png
 mods/B.B EX/images/characters/GF_ANDRONCOOLGUYONSPEAKEROHMYGODHEISSOCOOL.xml
+mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
 mods/B.B EX/images/BG_happy.png
 mods/songs/jump-out/Voices.ogg
 mods/songs/jump-out/voices.ogg

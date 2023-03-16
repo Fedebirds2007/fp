@@ -11,7 +11,11 @@ mods/B.B EX/images/characters/amorex.png
 mods/B.B EX/images/characters/amorex.xml
 mods/B.B EX/images/characters/mydad.png
 mods/B.B EX/images/characters/mydad.xml
+mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
 mods/B.B EX/images/BG_sans-ex.png
 mods/songs/oblique-fracture-ex/Voices.ogg
 mods/songs/oblique-fracture-ex/voices.ogg

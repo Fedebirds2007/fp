@@ -26,7 +26,11 @@ mods/data/ronald-mcdonald-slide/ronald-mcdonald-slide-hard.json
 mods/data/ronald-mcdonald-slide/ronald-mcdonald-slide.json
 mods/B.B EX/stages/stupid-dumb.json
 mods/B.B EX/stages/stupid-dumb.lua
+mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
 mods/B.B EX/images/BG_ronsip.png
 mods/songs/ronald-mcdonald-slide/Voices.ogg
 mods/songs/ronald-mcdonald-slide/voices.ogg

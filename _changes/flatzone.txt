@@ -15,7 +15,11 @@ mods/ArcadeShowdown/images/characters/G&W.png
 mods/ArcadeShowdown/images/characters/G&W.xml
 mods/ArcadeShowdown/images/characters/KAPIGIRLFRIEND.png
 mods/ArcadeShowdown/images/characters/KAPIGIRLFRIEND.xml
-mods/ArcadeShowdown/scripts/poison.lua
+mods/ArcadeShowdown/custom_events/noteskinchangeBF.lua
+mods/ArcadeShowdown/scripts/accuracy.lua
+mods/ArcadeShowdown/scripts/ThetaUI.lua
+mods/ArcadeShowdown/scripts/timeBar.lua
+mods/ArcadeShowdown/scripts/titlestuff.lua
 mods/ArcadeShowdown/images/halloween_bggame.png
 mods/songs/flatzone/Voices.ogg
 mods/songs/flatzone/voices.ogg

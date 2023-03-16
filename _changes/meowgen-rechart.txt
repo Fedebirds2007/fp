@@ -1,0 +1,28 @@
+mods/data/meowgen-rechart/events.json
+mods/data/meowgen-rechart/meowgen-rechart-hard.json
+mods/data/meowgen-rechart/mod.txt
+mods/data/meowgen-rechart/script.lua
+mods/ArcadeShowdown/characters/bf.json
+mods/ArcadeShowdown/characters/newkapi.json
+mods/ArcadeShowdown/characters/gf-car.json
+mods/ArcadeShowdown/stages/arcadev2.json
+mods/ArcadeShowdown/stages/arcadev2.lua
+mods/ArcadeShowdown/images/characters/newkapi.png
+mods/ArcadeShowdown/images/characters/newkapi.xml
+mods/ArcadeShowdown/custom_events/lyrics.lua
+mods/ArcadeShowdown/custom_events/Set Cam Zoom.lua
+mods/ArcadeShowdown/custom_events/Cinematic_Bars.lua
+mods/ArcadeShowdown/custom_events/Camera Switch.lua
+mods/ArcadeShowdown/scripts/accuracy.lua
+mods/ArcadeShowdown/scripts/ThetaUI.lua
+mods/ArcadeShowdown/scripts/timeBar.lua
+mods/ArcadeShowdown/scripts/titlestuff.lua
+mods/ArcadeShowdown/images/arcadev2bg.png
+mods/ArcadeShowdown/images/arcadev2ground.png
+mods/ArcadeShowdown/images/Kapi_gfCar.png
+mods/ArcadeShowdown/images/Kapi_gfCar.xml
+mods/ArcadeShowdown/images/nothing.png
+mods/songs/meowgen-rechart/Voices.ogg
+mods/songs/meowgen-rechart/voices.ogg
+mods/songs/meowgen-rechart/Inst.ogg
+mods/songs/meowgen-rechart/inst.ogg

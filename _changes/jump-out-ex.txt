@@ -24,7 +24,11 @@ mods/data/jump-out-ex/jump-out-ex.json
 mods/data/jump-out-ex/mod.txt
 mods/B.B EX/stages/bobsway.json
 mods/B.B EX/stages/bobsway.lua
+mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
 mods/B.B EX/images/stageback5.png
 mods/B.B EX/images/stagecurtains.png
 mods/songs/jump-out-ex/Voices.ogg

@@ -3,7 +3,11 @@ mods/data/asereje/asereje-pulenta.json
 mods/data/asereje/asereje.json
 mods/data/asereje/events.json
 mods/data/asereje/mod.txt
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/asereje/Voices.ogg
 mods/songs/asereje/voices.ogg
 mods/songs/asereje/Inst.ogg

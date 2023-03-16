@@ -14,7 +14,11 @@ mods/VN Webiando/images/characters/Maritza.xml
 mods/VN Webiando/images/characters/GF_assets.png
 mods/VN Webiando/images/characters/GF_assets.xml
 mods/VN Webiando/stages/unimarc2.json
+mods/VN Webiando/scripts/accuracy.lua
 mods/VN Webiando/scripts/camaraFluida.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
 mods/songs/consentida/Voices.ogg
 mods/songs/consentida/voices.ogg
 mods/songs/consentida/Inst.ogg
