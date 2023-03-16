@@ -15,8 +15,8 @@
 	"no_antialiasing": false,
 	"image": "characters/bluEX_ENDING",
 	"position": [
-		70,
-		80
+		50,
+		160
 	],
 	"healthicon": "bluskys-ex",
 	"flip_x": false,
