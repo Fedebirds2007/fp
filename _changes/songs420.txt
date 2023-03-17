@@ -1,4 +1,3 @@
-mods/weeks/a.json
 mods/weeks/b.json
 mods/weeks/c.json
 mods/weeks/f.json
@@ -10,7 +9,6 @@ mods/weeks/k.json
 mods/weeks/m.json
 mods/weeks/n.json
 mods/weeks/o.json
-mods/weeks/p.json
 mods/weeks/r.json
 mods/weeks/s.json
 mods/weeks/v.json
