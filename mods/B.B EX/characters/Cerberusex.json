@@ -57,10 +57,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/ex/CerberusEX",
+	"image": "characters/CerberusEX",
 	"position": [
-		-120,
-		120
+		-650,
+		150
 	],
 	"healthicon": "face",
 	"flip_x": false,
@@ -74,5 +74,5 @@
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 0.9
 }

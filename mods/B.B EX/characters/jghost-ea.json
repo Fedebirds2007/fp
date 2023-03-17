@@ -13,9 +13,9 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "endanimation/ea-4",
+	"image": "jghost",
 	"position": [
-		-320,
+		-400,
 		-110
 	],
 	"healthicon": "JandCex",
@@ -30,5 +30,5 @@
 		-20
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 0.9
 }

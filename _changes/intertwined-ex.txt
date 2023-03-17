@@ -35,6 +35,8 @@ mods/B.B EX/images/ea-1.xml
 mods/B.B EX/characters/bluskys-ea.json
 mods/B.B EX/characters/mini-ea.json
 mods/B.B EX/characters/jghost-ea.json
+mods/B.B EX/images/jghost.png
+mods/B.B EX/images/jghost.xml
 mods/B.B EX/sounds/voiceline/Youdidfine.ogg
 mods/B.B EX/characters/ash-ea.json
 mods/B.B EX/sounds/voiceline/ash_cerb.ogg

@@ -6,7 +6,7 @@ function onEvent(name,value1,value2)
             end
             if value1 == 'bosip' then
                 triggerEvent('Change Character', 'dad', 'bosip-ea');
-                playSound('voiceline/bosip_good_job', 0.6)
+                playSound('voiceline/bosip_good_job', 0.8)
             end
             if value1 == 'amor' then
                 triggerEvent('Change Character', 'dad', 'amor-ea');
@@ -20,12 +20,12 @@ function onEvent(name,value1,value2)
             if value1 == 'jghost' then
                 triggerEvent('Change Character', 'dad', 'jghost-ea');
                 setProperty('gf.visible', false)
-                playSound('voiceline/Youdidfine', 0.6)
+                playSound('voiceline/Youdidfine', 0.8)
             end
             if value1 == 'ash' then
                 triggerEvent('Change Character', 'dad', 'ash-ea');
                 setProperty('gf.visible', false)
-                playSound('voiceline/ash_cerb', 0.6)
+                playSound('voiceline/ash_cerb', 0.8)
             end
         end
     end
