@@ -20,7 +20,22 @@ mods/B.B EX/scripts/screenBeat.lua
 mods/B.B EX/scripts/ThetaUI.lua
 mods/B.B EX/scripts/timeBar.lua
 mods/B.B EX/scripts/titlestuff.lua
-mods/B.B EX/images/stageback3.png
+mods/B.B EX/images/Week2_bg1.png
+mods/B.B EX/images/Week2_bg2.png
+mods/B.B EX/images/Week2_bg3.png
+mods/B.B EX/images/Week2_bg4.png
+mods/B.B EX/images/Week2_bg5.png
+mods/B.B EX/images/Week2_bg6.png
+mods/B.B EX/images/itb_crowd_back.png
+mods/B.B EX/images/itb_crowd_back.xml
+mods/B.B EX/images/itb_crowd_middle.png
+mods/B.B EX/images/itb_crowd_middle.xml
+mods/B.B EX/images/itb_crowd_front.png
+mods/B.B EX/images/itb_crowd_front.xml
+mods/B.B EX/images/week2-2.png
+mods/B.B EX/images/week2-1.png
+mods/B.B EX/images/GF_assets.png
+mods/B.B EX/images/GF_assets.xml
 mods/songs/intertwined-ex/Voices.ogg
 mods/songs/intertwined-ex/voices.ogg
 mods/songs/intertwined-ex/Inst.ogg

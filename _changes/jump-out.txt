@@ -1,5 +1,7 @@
 mods/data/jump-out/events.json
 mods/B.B EX/characters/anders.json
+mods/B.B EX/images/characters/anders.png
+mods/B.B EX/images/characters/anders.xml
 mods/B.B EX/characters/bf.json
 mods/B.B EX/images/characters/BOYFRIEND.png
 mods/B.B EX/images/characters/BOYFRIEND.xml

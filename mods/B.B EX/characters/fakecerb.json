@@ -57,10 +57,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/extra/ASH",
+	"image": "characters/ASH",
 	"position": [
 		0,
-		0
+		150
 	],
 	"healthicon": "cerb",
 	"flip_x": false,

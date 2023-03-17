@@ -1,18 +1,18 @@
-mods/data/intertwined/intertwined-easy.json
 mods/data/intertwined/intertwined-hard.json
-mods/data/intertwined/intertwined.json
 mods/data/intertwined/mod.txt
 mods/B.B EX/characters/bf-interwined.json
-mods/B.B EX/characters/ash_and_cerb.json
-mods/B.B EX/characters/nothing.json
-mods/B.B EX/stages/ashncerb.json
-mods/B.B EX/stages/ashncerb.lua
+mods/B.B EX/characters/ash.json
+mods/B.B EX/characters/cerb.json
+mods/B.B EX/stages/ash.json
+mods/B.B EX/stages/ash.lua
 mods/B.B EX/images/characters/BOYFRIEND.png
 mods/B.B EX/images/characters/BOYFRIEND.xml
-mods/B.B EX/images/characters/Ash_And_Cerb.png
-mods/B.B EX/images/characters/Ash_And_Cerb.xml
-mods/B.B EX/images/characters/nothing.png
-mods/B.B EX/images/characters/nothing.xml
+mods/B.B EX/images/characters/ASH.png
+mods/B.B EX/images/characters/ASH.xml
+mods/B.B EX/images/characters/Cerb.png
+mods/B.B EX/images/characters/Cerb.xml
+mods/B.B EX/characters/fakecerb.json
+mods/B.B EX/characters/ash-both.json
 mods/B.B EX/custom_notetypes/duet.lua
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
@@ -20,7 +20,22 @@ mods/B.B EX/scripts/screenBeat.lua
 mods/B.B EX/scripts/ThetaUI.lua
 mods/B.B EX/scripts/timeBar.lua
 mods/B.B EX/scripts/titlestuff.lua
-mods/B.B EX/images/BG_ashncerb.png
+mods/B.B EX/images/Week2_bg1.png
+mods/B.B EX/images/Week2_bg2.png
+mods/B.B EX/images/Week2_bg3.png
+mods/B.B EX/images/Week2_bg4.png
+mods/B.B EX/images/Week2_bg5.png
+mods/B.B EX/images/Week2_bg6.png
+mods/B.B EX/images/itb_crowd_back.png
+mods/B.B EX/images/itb_crowd_back.xml
+mods/B.B EX/images/itb_crowd_middle.png
+mods/B.B EX/images/itb_crowd_middle.xml
+mods/B.B EX/images/itb_crowd_front.png
+mods/B.B EX/images/itb_crowd_front.xml
+mods/B.B EX/images/week2-2.png
+mods/B.B EX/images/week2-1.png
+mods/B.B EX/images/GF_assets.png
+mods/B.B EX/images/GF_assets.xml
 mods/songs/intertwined/Voices.ogg
 mods/songs/intertwined/voices.ogg
 mods/songs/intertwined/Inst.ogg
