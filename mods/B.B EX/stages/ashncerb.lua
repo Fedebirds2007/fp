@@ -42,7 +42,7 @@ function onCreate()
       addLuaSprite('peomiddle', false)
       scaleObject('peomiddle', 0.7, 0.7);
 
-     makeAnimatedLuaSprite('peofront', 'itb_crowd_front', -630, 630)
+     makeAnimatedLuaSprite('peofront', 'itb_crowd_front', -630, 680)
        addAnimationByPrefix('peofront', 'idle', 'itb_crowd_front instance 1', 24, true)
       setScrollFactor('peofront', 1, 1)
       addLuaSprite('peofront', false)

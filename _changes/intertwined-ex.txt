@@ -1,10 +1,8 @@
-mods/data/intertwined-ex/intertwined-ex-easy.json
-mods/data/intertwined-ex/intertwined-ex-hard.json
-mods/data/intertwined-ex/intertwined-ex.json
+mods/data/intertwined-ex/intertwined-ex-ex.json
 mods/data/intertwined-ex/mod.txt
-mods/B.B EX/characters/bf-ex.json
-mods/B.B EX/characters/cerb-ex.json
-mods/B.B EX/characters/ash-ex.json
+mods/B.B EX/characters/bfex.json
+mods/B.B EX/characters/cerbex.json
+mods/B.B EX/characters/ashex.json
 mods/B.B EX/stages/ash.json
 mods/B.B EX/stages/ash.lua
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
@@ -13,29 +11,33 @@ mods/B.B EX/images/characters/CerbEX.png
 mods/B.B EX/images/characters/CerbEX.xml
 mods/B.B EX/images/characters/ASHEX.png
 mods/B.B EX/images/characters/ASHEX.xml
-mods/B.B EX/custom_notetypes/duet.lua
+mods/B.B EX/characters/fakecerbex.json
+mods/B.B EX/characters/cerbex-both.json
+mods/B.B EX/custom_events/endanimation.lua
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/scripts/screenBeat.lua
 mods/B.B EX/scripts/ThetaUI.lua
 mods/B.B EX/scripts/timeBar.lua
 mods/B.B EX/scripts/titlestuff.lua
-mods/B.B EX/images/Week2_bg1.png
-mods/B.B EX/images/Week2_bg2.png
-mods/B.B EX/images/Week2_bg3.png
-mods/B.B EX/images/Week2_bg4.png
-mods/B.B EX/images/Week2_bg5.png
-mods/B.B EX/images/Week2_bg6.png
-mods/B.B EX/images/itb_crowd_back.png
-mods/B.B EX/images/itb_crowd_back.xml
-mods/B.B EX/images/itb_crowd_middle.png
-mods/B.B EX/images/itb_crowd_middle.xml
-mods/B.B EX/images/itb_crowd_front.png
-mods/B.B EX/images/itb_crowd_front.xml
-mods/B.B EX/images/week2-2.png
-mods/B.B EX/images/week2-1.png
-mods/B.B EX/images/GF_assets.png
-mods/B.B EX/images/GF_assets.xml
+mods/B.B EX/images/EX-ash1.png
+mods/B.B EX/images/EX-ash2.png
+mods/B.B EX/images/EX-ash3.png
+mods/B.B EX/images/EX-ash4.png
+mods/B.B EX/images/gf.png
+mods/B.B EX/images/gf.xml
+mods/B.B EX/characters/bob-ea.json
+mods/B.B EX/characters/bosip-ea.json
+mods/B.B EX/sounds/voiceline/bosip_good_job.ogg
+mods/B.B EX/characters/amor-ea.json
+mods/B.B EX/images/ea-1.png
+mods/B.B EX/images/ea-1.xml
+mods/B.B EX/characters/bluskys-ea.json
+mods/B.B EX/characters/mini-ea.json
+mods/B.B EX/characters/jghost-ea.json
+mods/B.B EX/sounds/voiceline/Youdidfine.ogg
+mods/B.B EX/characters/ash-ea.json
+mods/B.B EX/sounds/voiceline/ash_cerb.ogg
 mods/songs/intertwined-ex/Voices.ogg
 mods/songs/intertwined-ex/voices.ogg
 mods/songs/intertwined-ex/Inst.ogg

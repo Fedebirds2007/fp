@@ -59,8 +59,8 @@
 	"no_antialiasing": false,
 	"image": "characters/Cerb",
 	"position": [
-		-100,
-		500
+		-300,
+		900
 	],
 	"healthicon": "cerb",
 	"flip_x": false,

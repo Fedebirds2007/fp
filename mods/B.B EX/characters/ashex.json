@@ -57,9 +57,9 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/ex/ASHEX",
+	"image": "characters/ASHEX",
 	"position": [
-		-70,
+		-670,
 		40
 	],
 	"healthicon": "ashex",

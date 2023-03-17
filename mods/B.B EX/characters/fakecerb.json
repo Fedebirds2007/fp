@@ -60,7 +60,7 @@
 	"image": "characters/ASH",
 	"position": [
 		0,
-		150
+		60
 	],
 	"healthicon": "cerb",
 	"flip_x": false,

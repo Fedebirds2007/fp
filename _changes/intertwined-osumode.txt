@@ -1,8 +1,7 @@
 mods/data/intertwined/intertwined-hard.json
 mods/data/intertwined/mod.txt
-mods/B.B EX/stages/ash.json
-mods/B.B EX/stages/ash.lua
-mods/B.B EX/custom_notetypes/duet.lua
+mods/B.B EX/stages/ashncerb.json
+mods/B.B EX/stages/ashncerb.lua
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/scripts/screenBeat.lua

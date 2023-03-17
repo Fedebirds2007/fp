@@ -1,16 +1,17 @@
-mods/data/intertwined-ex/intertwined-ex-easy.json
-mods/data/intertwined-ex/intertwined-ex-hard.json
-mods/data/intertwined-ex/intertwined-ex.json
+mods/data/intertwined-ex/intertwined-ex-ex.json
 mods/data/intertwined-ex/mod.txt
 mods/B.B EX/stages/ash.json
 mods/B.B EX/stages/ash.lua
-mods/B.B EX/custom_notetypes/duet.lua
+mods/B.B EX/custom_events/endanimation.lua
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/scripts/screenBeat.lua
 mods/B.B EX/scripts/ThetaUI.lua
 mods/B.B EX/scripts/timeBar.lua
 mods/B.B EX/scripts/titlestuff.lua
+mods/B.B EX/sounds/voiceline/bosip_good_job.ogg
+mods/B.B EX/sounds/voiceline/Youdidfine.ogg
+mods/B.B EX/sounds/voiceline/ash_cerb.ogg
 mods/songs/intertwined-ex/Voices.ogg
 mods/songs/intertwined-ex/voices.ogg
 mods/songs/intertwined-ex/Inst.ogg
