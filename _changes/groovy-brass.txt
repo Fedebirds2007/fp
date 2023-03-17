@@ -10,6 +10,8 @@ mods/B.B EX/stages/Bluskys.json
 mods/B.B EX/stages/Bluskys.lua
 mods/B.B EX/images/characters/BOYFRIEND.png
 mods/B.B EX/images/characters/BOYFRIEND.xml
+mods/B.B EX/images/characters/Bluskys.png
+mods/B.B EX/images/characters/Bluskys.xml
 mods/B.B EX/images/characters/GF_assets.png
 mods/B.B EX/images/characters/GF_assets.xml
 mods/B.B EX/scripts/accuracy.lua

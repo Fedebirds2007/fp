@@ -68,10 +68,10 @@
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/extra/Bluskys",
+	"image": "characters/Bluskys",
 	"position": [
 		70,
-		50
+		250
 	],
 	"healthicon": "bluskys",
 	"flip_x": false,
