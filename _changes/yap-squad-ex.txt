@@ -33,6 +33,8 @@ mods/B.B EX/images/jghost.png
 mods/B.B EX/images/jghost.xml
 mods/B.B EX/sounds/voiceline/Youdidfine.ogg
 mods/B.B EX/characters/ash-ea.json
+mods/B.B EX/images/ash-ea.png
+mods/B.B EX/images/ash-ea.xml
 mods/B.B EX/sounds/voiceline/ash_cerb.ogg
 mods/songs/yap-squad-ex/Voices.ogg
 mods/songs/yap-squad-ex/voices.ogg
