@@ -1,0 +1,16 @@
+Many thanks to "TheGabenZone" who gave me permission to implement some songs from his repo.
+
+The songs that he made were the ones from the mods:
+
+[Hotline 024]
+- "Hyperfunk"
+- "Fandomania"
+- "Killer Queen"
+
+[DokiTakeover]
+- "Baka"
+
+[Impostor]
+- "Victory"
+- "Heartbeat"
+

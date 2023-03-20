@@ -3,8 +3,8 @@ mods/data/groovy-brass/groovy-brass-easy.json
 mods/data/groovy-brass/groovy-brass-hard.json
 mods/data/groovy-brass/groovy-brass.json
 mods/data/groovy-brass/mod.txt
-mods/B.B EX/stages/Bluskys.json
-mods/B.B EX/stages/Bluskys.lua
+mods/B.B EX/stages/blu.json
+mods/B.B EX/stages/blu.lua
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/scripts/screenBeat.lua

@@ -6,8 +6,8 @@ mods/data/groovy-brass/mod.txt
 mods/B.B EX/characters/bf.json
 mods/B.B EX/characters/bluskys.json
 mods/B.B EX/characters/gf.json
-mods/B.B EX/stages/Bluskys.json
-mods/B.B EX/stages/Bluskys.lua
+mods/B.B EX/stages/blu.json
+mods/B.B EX/stages/blu.lua
 mods/B.B EX/images/characters/BOYFRIEND.png
 mods/B.B EX/images/characters/BOYFRIEND.xml
 mods/B.B EX/images/characters/Bluskys.png
