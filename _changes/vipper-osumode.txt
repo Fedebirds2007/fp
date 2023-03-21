@@ -1,0 +1,15 @@
+mods/data/vipper/mod.txt
+mods/data/vipper/vipper-easy.json
+mods/data/vipper/vipper-hard.json
+mods/VN Webiando/stages/bgdia.json
+mods/VN Webiando/stages/bgdia.lua
+mods/VN Webiando/scripts/accuracy.lua
+mods/VN Webiando/scripts/Cinematic_Bars.lua
+mods/VN Webiando/scripts/screenBeat.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
+mods/songs/vipper/Voices.ogg
+mods/songs/vipper/voices.ogg
+mods/songs/vipper/Inst.ogg
+mods/songs/vipper/inst.ogg

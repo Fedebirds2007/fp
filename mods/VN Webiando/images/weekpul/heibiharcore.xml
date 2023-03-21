@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="heibiharcore.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="walala0000" x="0" y="0" width="303" height="829" frameX="0" frameY="-10" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0001" x="303" y="0" width="303" height="829" frameX="0" frameY="-10" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0002" x="606" y="0" width="303" height="830" frameX="0" frameY="-9" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0003" x="909" y="0" width="303" height="830" frameX="0" frameY="-9" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0004" x="1212" y="0" width="301" height="832" frameX="-1" frameY="-7" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0005" x="1513" y="0" width="301" height="832" frameX="-1" frameY="-7" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0006" x="1814" y="0" width="297" height="835" frameX="-3" frameY="-4" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0007" x="2111" y="0" width="297" height="835" frameX="-3" frameY="-4" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0008" x="2408" y="0" width="291" height="839" frameX="-6" frameY="0" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0009" x="2699" y="0" width="291" height="839" frameX="-6" frameY="0" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0010" x="2990" y="0" width="291" height="839" frameX="-6" frameY="0" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0011" x="3281" y="0" width="291" height="839" frameX="-6" frameY="0" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0012" x="3572" y="0" width="291" height="839" frameX="-6" frameY="0" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0013" x="0" y="839" width="291" height="839" frameX="-6" frameY="0" frameWidth="303" frameHeight="839"/>
+	<SubTexture name="walala0014" x="291" y="839" width="291" height="839" frameX="-6" frameY="0" frameWidth="303" frameHeight="839"/>
+</TextureAtlas>

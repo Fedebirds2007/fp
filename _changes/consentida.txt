@@ -1,0 +1,42 @@
+mods/data/consentida/consentida-easy.json
+mods/data/consentida/consentida-hard.json
+mods/data/consentida/consentida.json
+mods/data/consentida/events.json
+mods/data/consentida/mod.txt
+mods/VN Webiando/characters/bf.json
+mods/VN Webiando/characters/maritza.json
+mods/VN Webiando/characters/gf.json
+mods/VN Webiando/stages/unimarc.json
+mods/VN Webiando/stages/unimarc.lua
+mods/VN Webiando/images/characters/BOYFRIEND.png
+mods/VN Webiando/images/characters/BOYFRIEND.xml
+mods/VN Webiando/images/characters/Maritza.png
+mods/VN Webiando/images/characters/Maritza.xml
+mods/VN Webiando/images/characters/GF_assets.png
+mods/VN Webiando/images/characters/GF_assets.xml
+mods/VN Webiando/stages/unimarc2.json
+mods/VN Webiando/stages/unimarc2.lua
+mods/VN Webiando/scripts/accuracy.lua
+mods/VN Webiando/scripts/Cinematic_Bars.lua
+mods/VN Webiando/scripts/screenBeat.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
+mods/VN Webiando/images/week1/Back.png
+mods/VN Webiando/images/week1/MaavoIvette.png
+mods/VN Webiando/images/week1/MaavoIvette.xml
+mods/VN Webiando/images/week1/holasoygerman.png
+mods/VN Webiando/images/week1/holasoygerman.xml
+mods/VN Webiando/images/week1/Shy__Pico_HUASOS_assets.png
+mods/VN Webiando/images/week1/Shy__Pico_HUASOS_assets.xml
+mods/VN Webiando/images/week1/mgrchilenita.png
+mods/VN Webiando/images/week1/mgrchilenita.xml
+mods/VN Webiando/images/week1/sulayrecameo.png
+mods/VN Webiando/images/week1/sulayrecameo.xml
+mods/VN Webiando/images/week1/carro_qliao.png
+mods/VN Webiando/images/week1/genteFront.png
+mods/VN Webiando/images/week1/genteFront.xml
+mods/songs/consentida/Voices.ogg
+mods/songs/consentida/voices.ogg
+mods/songs/consentida/Inst.ogg
+mods/songs/consentida/inst.ogg

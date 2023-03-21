@@ -1,0 +1,17 @@
+{
+  "directory": "week3",
+  "defaultZoom": 0.55,
+  "isPixelStage": false,
+
+  "boyfriend": [1000, 275],
+  "girlfriend": [500, 250],
+  "opponent": [200, 304],
+  "hide_girlfriend": false,
+  "bfpulento": [880, -130],
+  "gfpulento": [505, 150],
+
+  "camera_boyfriend": [-60, -120],
+  "camera_opponent": [60, -20],
+  "camera_girlfriend": [0, 50],
+  "camera_speed": 1
+}

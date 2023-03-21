@@ -1,0 +1,15 @@
+mods/data/no-more-cueca/mod.txt
+mods/data/no-more-cueca/no-more-cueca-easy.json
+mods/data/no-more-cueca/no-more-cueca-hard.json
+mods/VN Webiando/stages/bgdia.json
+mods/VN Webiando/stages/bgdia.lua
+mods/VN Webiando/scripts/accuracy.lua
+mods/VN Webiando/scripts/Cinematic_Bars.lua
+mods/VN Webiando/scripts/screenBeat.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
+mods/songs/no-more-cueca/Voices.ogg
+mods/songs/no-more-cueca/voices.ogg
+mods/songs/no-more-cueca/Inst.ogg
+mods/songs/no-more-cueca/inst.ogg

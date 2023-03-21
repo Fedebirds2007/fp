@@ -1,0 +1,34 @@
+mods/data/screwy/mod.txt
+mods/data/screwy/screwy-easy.json
+mods/data/screwy/screwy-hard.json
+mods/VN Webiando/characters/bf.json
+mods/VN Webiando/characters/SCREWYCOLO.json
+mods/VN Webiando/characters/gffonda.json
+mods/VN Webiando/stages/bgdia.json
+mods/VN Webiando/stages/bgdia.lua
+mods/VN Webiando/images/characters/BOYFRIEND.png
+mods/VN Webiando/images/characters/BOYFRIEND.xml
+mods/VN Webiando/images/characters/Screwycolo.png
+mods/VN Webiando/images/characters/Screwycolo.xml
+mods/VN Webiando/images/characters/GF_assets.png
+mods/VN Webiando/images/characters/GF_assets.xml
+mods/VN Webiando/characters/bfPulentoHard.json
+mods/VN Webiando/images/characters/bfpul.png
+mods/VN Webiando/images/characters/bfpul.xml
+mods/VN Webiando/scripts/accuracy.lua
+mods/VN Webiando/scripts/Cinematic_Bars.lua
+mods/VN Webiando/scripts/screenBeat.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
+mods/VN Webiando/images/week2/fondodia.png
+mods/VN Webiando/images/week2/arbolfondo.png
+mods/VN Webiando/images/week2/bg1.png
+mods/VN Webiando/images/week2/Personajes_Fondo.png
+mods/VN Webiando/images/week2/Personajes_Fondo.xml
+mods/VN Webiando/images/week2/wachbopper.png
+mods/VN Webiando/images/week2/wachbopper.xml
+mods/songs/screwy/Voices.ogg
+mods/songs/screwy/voices.ogg
+mods/songs/screwy/Inst.ogg
+mods/songs/screwy/inst.ogg

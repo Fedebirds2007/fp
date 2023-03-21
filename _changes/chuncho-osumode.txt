@@ -1,0 +1,17 @@
+mods/data/chuncho/chuncho-easy.json
+mods/data/chuncho/chuncho-hard.json
+mods/data/chuncho/mod.txt
+mods/VN Webiando/stages/bgnoche.json
+mods/VN Webiando/stages/bgnoche.lua
+mods/VN Webiando/custom_events/lyrics.lua
+mods/VN Webiando/custom_events/Set Camera Zoom.lua
+mods/VN Webiando/scripts/accuracy.lua
+mods/VN Webiando/scripts/Cinematic_Bars.lua
+mods/VN Webiando/scripts/screenBeat.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
+mods/songs/chuncho/Voices.ogg
+mods/songs/chuncho/voices.ogg
+mods/songs/chuncho/Inst.ogg
+mods/songs/chuncho/inst.ogg

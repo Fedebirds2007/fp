@@ -1,0 +1,17 @@
+mods/data/condoriku/condoriku-easy.json
+mods/data/condoriku/condoriku-hard.json
+mods/data/condoriku/events.json
+mods/data/condoriku/mod.txt
+mods/VN Webiando/stages/bgcondorito.json
+mods/VN Webiando/stages/bgcondorito.lua
+mods/VN Webiando/custom_events/lyrics.lua
+mods/VN Webiando/scripts/accuracy.lua
+mods/VN Webiando/scripts/Cinematic_Bars.lua
+mods/VN Webiando/scripts/screenBeat.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
+mods/songs/condoriku/Voices.ogg
+mods/songs/condoriku/voices.ogg
+mods/songs/condoriku/Inst.ogg
+mods/songs/condoriku/inst.ogg

@@ -1,0 +1,39 @@
+mods/data/bodoque/bodoque-easy.json
+mods/data/bodoque/bodoque-hard.json
+mods/data/bodoque/events.json
+mods/VN Webiando/characters/Bodoque-2.json
+mods/VN Webiando/images/characters/Bodoque.png
+mods/VN Webiando/images/characters/Bodoque.xml
+mods/data/bodoque/mod.txt
+mods/VN Webiando/characters/bf.json
+mods/VN Webiando/characters/Bodoque.json
+mods/VN Webiando/characters/gffonda.json
+mods/VN Webiando/stages/bgnoche.json
+mods/VN Webiando/stages/bgnoche.lua
+mods/VN Webiando/images/characters/BOYFRIEND.png
+mods/VN Webiando/images/characters/BOYFRIEND.xml
+mods/VN Webiando/images/characters/GF_assets.png
+mods/VN Webiando/images/characters/GF_assets.xml
+mods/VN Webiando/characters/bfPulentoHard.json
+mods/VN Webiando/characters/gf.json
+mods/VN Webiando/images/characters/bfpul.png
+mods/VN Webiando/images/characters/bfpul.xml
+mods/VN Webiando/custom_events/lyrics.lua
+mods/VN Webiando/custom_events/Set Camera Zoom.lua
+mods/VN Webiando/scripts/accuracy.lua
+mods/VN Webiando/scripts/Cinematic_Bars.lua
+mods/VN Webiando/scripts/screenBeat.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
+mods/VN Webiando/images/week3/arbolfondo.png
+mods/VN Webiando/images/week3/bg1.png
+mods/VN Webiando/images/week3/papus2.png
+mods/VN Webiando/images/week3/papus2.xml
+mods/VN Webiando/images/week3/papus1.png
+mods/VN Webiando/images/week3/papus1.xml
+mods/VN Webiando/images/week3/relleno.png
+mods/songs/bodoque/Voices.ogg
+mods/songs/bodoque/voices.ogg
+mods/songs/bodoque/Inst.ogg
+mods/songs/bodoque/inst.ogg

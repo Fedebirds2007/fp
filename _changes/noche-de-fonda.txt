@@ -1,0 +1,38 @@
+mods/data/noche-de-fonda/mod.txt
+mods/data/noche-de-fonda/noche-de-fonda-easy.json
+mods/data/noche-de-fonda/noche-de-fonda-hard.json
+mods/VN Webiando/characters/bf.json
+mods/VN Webiando/characters/maritza-noche.json
+mods/VN Webiando/characters/gffonda.json
+mods/VN Webiando/stages/bgnoche-maritza.json
+mods/VN Webiando/stages/bgnoche-maritza.lua
+mods/VN Webiando/images/characters/BOYFRIEND.png
+mods/VN Webiando/images/characters/BOYFRIEND.xml
+mods/VN Webiando/images/characters/maritza-noche.png
+mods/VN Webiando/images/characters/maritza-noche.xml
+mods/VN Webiando/images/characters/GF_assets.png
+mods/VN Webiando/images/characters/GF_assets.xml
+mods/VN Webiando/characters/maritza-noche-cam.json
+mods/VN Webiando/characters/bf-cueca.json
+mods/VN Webiando/characters/bfPulentoHard.json
+mods/VN Webiando/characters/gf.json
+mods/VN Webiando/images/characters/bfpul.png
+mods/VN Webiando/images/characters/bfpul.xml
+mods/VN Webiando/custom_events/Set Camera Zoom.lua
+mods/VN Webiando/scripts/accuracy.lua
+mods/VN Webiando/scripts/Cinematic_Bars.lua
+mods/VN Webiando/scripts/screenBeat.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
+mods/VN Webiando/images/week3/arbolfondo.png
+mods/VN Webiando/images/week3/bg1.png
+mods/VN Webiando/images/week3/papus3.png
+mods/VN Webiando/images/week3/papus3.xml
+mods/VN Webiando/images/week3/papus1.png
+mods/VN Webiando/images/week3/papus1.xml
+mods/VN Webiando/images/week3/relleno.png
+mods/songs/noche-de-fonda/Voices.ogg
+mods/songs/noche-de-fonda/voices.ogg
+mods/songs/noche-de-fonda/Inst.ogg
+mods/songs/noche-de-fonda/inst.ogg

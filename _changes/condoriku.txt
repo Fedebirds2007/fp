@@ -1,0 +1,37 @@
+mods/data/condoriku/condoriku-easy.json
+mods/data/condoriku/condoriku-hard.json
+mods/data/condoriku/events.json
+mods/data/condoriku/mod.txt
+mods/VN Webiando/characters/condorito.json
+mods/VN Webiando/characters/mikucondoriku.json
+mods/VN Webiando/characters/nadie.json
+mods/VN Webiando/stages/bgcondorito.json
+mods/VN Webiando/stages/bgcondorito.lua
+mods/VN Webiando/images/characters/Condorito.png
+mods/VN Webiando/images/characters/Condorito.xml
+mods/VN Webiando/images/characters/mikuChilean.png
+mods/VN Webiando/images/characters/mikuChilean.xml
+mods/VN Webiando/images/characters/nadie.png
+mods/VN Webiando/images/characters/nadie.xml
+mods/VN Webiando/characters/miku.json
+mods/VN Webiando/characters/condoritopulento.json
+mods/VN Webiando/custom_events/lyrics.lua
+mods/VN Webiando/scripts/accuracy.lua
+mods/VN Webiando/scripts/Cinematic_Bars.lua
+mods/VN Webiando/scripts/screenBeat.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
+mods/VN Webiando/images/week2/fondodia.png
+mods/VN Webiando/images/week2/arbolfondo.png
+mods/VN Webiando/images/week2/bg1.png
+mods/VN Webiando/images/week2/Personajes_Fondo.png
+mods/VN Webiando/images/week2/Personajes_Fondo.xml
+mods/VN Webiando/images/week2/wachbopper.png
+mods/VN Webiando/images/week2/wachbopper.xml
+mods/VN Webiando/images/week2/cone.png
+mods/VN Webiando/images/week2/cone.xml
+mods/songs/condoriku/Voices.ogg
+mods/songs/condoriku/voices.ogg
+mods/songs/condoriku/Inst.ogg
+mods/songs/condoriku/inst.ogg

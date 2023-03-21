@@ -1,0 +1,18 @@
+mods/data/bodoque/bodoque-easy.json
+mods/data/bodoque/bodoque-hard.json
+mods/data/bodoque/events.json
+mods/data/bodoque/mod.txt
+mods/VN Webiando/stages/bgnoche.json
+mods/VN Webiando/stages/bgnoche.lua
+mods/VN Webiando/custom_events/lyrics.lua
+mods/VN Webiando/custom_events/Set Camera Zoom.lua
+mods/VN Webiando/scripts/accuracy.lua
+mods/VN Webiando/scripts/Cinematic_Bars.lua
+mods/VN Webiando/scripts/screenBeat.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
+mods/songs/bodoque/Voices.ogg
+mods/songs/bodoque/voices.ogg
+mods/songs/bodoque/Inst.ogg
+mods/songs/bodoque/inst.ogg

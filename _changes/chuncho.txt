@@ -1,0 +1,37 @@
+mods/data/chuncho/chuncho-easy.json
+mods/data/chuncho/chuncho-hard.json
+mods/data/chuncho/mod.txt
+mods/VN Webiando/characters/bf.json
+mods/VN Webiando/characters/cshaggy.json
+mods/VN Webiando/characters/gf.json
+mods/VN Webiando/stages/bgnoche.json
+mods/VN Webiando/stages/bgnoche.lua
+mods/VN Webiando/images/characters/BOYFRIEND.png
+mods/VN Webiando/images/characters/BOYFRIEND.xml
+mods/VN Webiando/images/characters/shaggychileno.png
+mods/VN Webiando/images/characters/shaggychileno.xml
+mods/VN Webiando/images/characters/GF_assets.png
+mods/VN Webiando/images/characters/GF_assets.xml
+mods/VN Webiando/characters/bf-cam.json
+mods/VN Webiando/characters/bfPulentoHard.json
+mods/VN Webiando/images/characters/bfpul.png
+mods/VN Webiando/images/characters/bfpul.xml
+mods/VN Webiando/custom_events/lyrics.lua
+mods/VN Webiando/custom_events/Set Camera Zoom.lua
+mods/VN Webiando/scripts/accuracy.lua
+mods/VN Webiando/scripts/Cinematic_Bars.lua
+mods/VN Webiando/scripts/screenBeat.lua
+mods/VN Webiando/scripts/ThetaUI.lua
+mods/VN Webiando/scripts/timeBar.lua
+mods/VN Webiando/scripts/titlestuff.lua
+mods/VN Webiando/images/week3/arbolfondo.png
+mods/VN Webiando/images/week3/bg1.png
+mods/VN Webiando/images/week3/papus2.png
+mods/VN Webiando/images/week3/papus2.xml
+mods/VN Webiando/images/week3/papus1.png
+mods/VN Webiando/images/week3/papus1.xml
+mods/VN Webiando/images/week3/relleno.png
+mods/songs/chuncho/Voices.ogg
+mods/songs/chuncho/voices.ogg
+mods/songs/chuncho/Inst.ogg
+mods/songs/chuncho/inst.ogg
