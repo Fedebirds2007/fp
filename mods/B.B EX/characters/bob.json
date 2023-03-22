@@ -57,7 +57,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/extra/bob_assets",
+	"image": "characters/bob_assets",
 	"position": [
 		40,
 		-10

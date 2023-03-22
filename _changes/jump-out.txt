@@ -1,33 +1,35 @@
-mods/data/jump-out/events.json
+mods/data/jump-out/jump-out-hard.json
+mods/data/jump-out/mod.txt
+mods/B.B EX/characters/bf.json
+mods/B.B EX/characters/bob-assets.json
+mods/B.B EX/characters/gf-ron.json
+mods/B.B EX/stages/die.json
+mods/B.B EX/stages/die.lua
+mods/B.B EX/images/characters/BOYFRIEND.png
+mods/B.B EX/images/characters/BOYFRIEND.xml
+mods/B.B EX/images/characters/STUPID_GLOOP_MAN.png
+mods/B.B EX/images/characters/STUPID_GLOOP_MAN.xml
+mods/B.B EX/images/characters/GF_ANDRONCOOLGUYONSPEAKEROHMYGODHEISSOCOOL.png
+mods/B.B EX/images/characters/GF_ANDRONCOOLGUYONSPEAKEROHMYGODHEISSOCOOL.xml
 mods/B.B EX/characters/anders.json
 mods/B.B EX/images/characters/anders.png
 mods/B.B EX/images/characters/anders.xml
-mods/B.B EX/characters/bf.json
-mods/B.B EX/images/characters/BOYFRIEND.png
-mods/B.B EX/images/characters/BOYFRIEND.xml
-mods/B.B EX/characters/verbalase.json
+mods/B.B EX/characters/verb.json
 mods/B.B EX/images/characters/verbalase.png
 mods/B.B EX/images/characters/verbalase.xml
-mods/B.B EX/characters/gloop.json
-mods/B.B EX/images/characters/STUPID_GLOOP_MAN.png
-mods/B.B EX/images/characters/STUPID_GLOOP_MAN.xml
-mods/B.B EX/characters/hell-gloop.json
-mods/data/jump-out/jump-out-easy.json
-mods/data/jump-out/jump-out-hard.json
-mods/data/jump-out/jump-out.json
-mods/data/jump-out/mod.txt
-mods/B.B EX/characters/gf-ronsip.json
-mods/B.B EX/stages/happy.json
-mods/B.B EX/stages/happy.lua
-mods/B.B EX/images/characters/GF_ANDRONCOOLGUYONSPEAKEROHMYGODHEISSOCOOL.png
-mods/B.B EX/images/characters/GF_ANDRONCOOLGUYONSPEAKEROHMYGODHEISSOCOOL.xml
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/scripts/screenBeat.lua
 mods/B.B EX/scripts/ThetaUI.lua
 mods/B.B EX/scripts/timeBar.lua
 mods/B.B EX/scripts/titlestuff.lua
-mods/B.B EX/images/BG_happy.png
+mods/B.B EX/images/BG/week3/happy_sky.png
+mods/B.B EX/images/BG/week3/happy_back.png
+mods/B.B EX/images/BG/week3/happy_front.png
+mods/B.B EX/images/BG/week3/bobthings/scary_sky.png
+mods/B.B EX/images/BG/week3/bobthings/GlitchedGround.png
+mods/B.B EX/images/BG/week3/bobthings/pixelthings.png
+mods/B.B EX/images/BG/video/diamond.png
 mods/songs/jump-out/Voices.ogg
 mods/songs/jump-out/voices.ogg
 mods/songs/jump-out/Inst.ogg

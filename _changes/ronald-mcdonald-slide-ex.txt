@@ -1,36 +1,44 @@
-mods/data/ronald-mcdonald-slide-ex/events.json
-mods/B.B EX/characters/heman.json
-mods/B.B EX/characters/ron-ex.json
-mods/B.B EX/images/characters/stupid_dumb_ex.png
-mods/B.B EX/images/characters/stupid_dumb_ex.xml
-mods/B.B EX/characters/sans.json
-mods/B.B EX/characters/thiccbf.json
-mods/B.B EX/images/characters/omni_bf.png
-mods/B.B EX/images/characters/omni_bf.xml
-mods/B.B EX/characters/bf-ex.json
+mods/data/ronald-mcdonald-slide-ex/mod.txt
+mods/data/ronald-mcdonald-slide-ex/ronald-mcdonald-slide-ex-ex.json
+mods/B.B EX/characters/bfex.json
+mods/B.B EX/characters/ronex.json
+mods/B.B EX/characters/gfex.json
+mods/B.B EX/stages/sunsuck.json
+mods/B.B EX/stages/sunsuck.lua
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.xml
-mods/B.B EX/characters/rondumpy.json
+mods/B.B EX/images/characters/stupid_dumb_ex.png
+mods/B.B EX/images/characters/stupid_dumb_ex.xml
+mods/B.B EX/images/characters/GF_ass_sets_outfit.png
+mods/B.B EX/images/characters/GF_ass_sets_outfit.xml
+mods/B.B EX/characters/heman.json
+mods/B.B EX/images/characters/HE_MAN.png
+mods/B.B EX/images/characters/HE_MAN.xml
+mods/B.B EX/characters/sans.json
+mods/B.B EX/images/characters/sans.png
+mods/B.B EX/images/characters/sans.xml
+mods/B.B EX/characters/omni-bf.json
+mods/B.B EX/images/characters/omni_bf.png
+mods/B.B EX/images/characters/omni_bf.xml
+mods/B.B EX/characters/omni-ron.json
 mods/B.B EX/images/characters/omni_ron.png
 mods/B.B EX/images/characters/omni_ron.xml
 mods/B.B EX/characters/npesta.json
-mods/data/ronald-mcdonald-slide-ex/mod.txt
-mods/data/ronald-mcdonald-slide-ex/ronald-mcdonald-slide-ex-easy.json
-mods/data/ronald-mcdonald-slide-ex/ronald-mcdonald-slide-ex-hard.json
-mods/data/ronald-mcdonald-slide-ex/ronald-mcdonald-slide-ex.json
-mods/B.B EX/characters/gf-ex.json
-mods/B.B EX/stages/coolway.json
-mods/B.B EX/stages/coolway.lua
-mods/B.B EX/images/characters/GF_ass_sets_outfit.png
-mods/B.B EX/images/characters/GF_ass_sets_outfit.xml
+mods/B.B EX/images/characters/npesta.png
+mods/B.B EX/images/characters/npesta.xml
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/scripts/screenBeat.lua
 mods/B.B EX/scripts/ThetaUI.lua
 mods/B.B EX/scripts/timeBar.lua
 mods/B.B EX/scripts/titlestuff.lua
-mods/B.B EX/images/stageback6.png
-mods/B.B EX/images/stagecurtains.png
+mods/B.B EX/images/BG/week3/ex/bosip/sky.png
+mods/B.B EX/images/BG/week3/ex/bosip/mainbgron.png
+mods/B.B EX/images/BG/week3/ex/bosip/pavement_yeah.png
+mods/B.B EX/images/BG/video/aaa.png
+mods/B.B EX/images/BG/video/ronsip.png
+mods/B.B EX/images/BG/video/end.png
+mods/B.B EX/images/BG/week3/bobthings/pixelthings.png
 mods/songs/ronald-mcdonald-slide-ex/Voices.ogg
 mods/songs/ronald-mcdonald-slide-ex/voices.ogg
 mods/songs/ronald-mcdonald-slide-ex/Inst.ogg

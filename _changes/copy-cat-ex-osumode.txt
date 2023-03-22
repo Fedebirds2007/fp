@@ -1,9 +1,7 @@
-mods/data/copy-cat-ex/copy-cat-ex-easy.json
-mods/data/copy-cat-ex/copy-cat-ex-hard.json
-mods/data/copy-cat-ex/copy-cat-ex.json
+mods/data/copy-cat-ex/copy-cat-ex-ex.json
 mods/data/copy-cat-ex/mod.txt
-mods/B.B EX/stages/smp.json
-mods/B.B EX/stages/smp.lua
+mods/B.B EX/stages/dream.json
+mods/B.B EX/stages/dream.lua
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/scripts/screenBeat.lua

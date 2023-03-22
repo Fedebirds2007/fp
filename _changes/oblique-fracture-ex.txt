@@ -1,23 +1,4 @@
-mods/data/oblique-fracture-ex/mod.txt
-mods/data/oblique-fracture-ex/oblique-fracture-ex-easy.json
-mods/data/oblique-fracture-ex/oblique-fracture-ex-hard.json
-mods/data/oblique-fracture-ex/oblique-fracture-ex.json
-mods/B.B EX/characters/sansex.json
-mods/B.B EX/characters/amorex.json
-mods/B.B EX/characters/mydad.json
-mods/B.B EX/stages/sans-ex.json
-mods/B.B EX/stages/sans-ex.lua
-mods/B.B EX/images/characters/amorex.png
-mods/B.B EX/images/characters/amorex.xml
-mods/B.B EX/images/characters/mydad.png
-mods/B.B EX/images/characters/mydad.xml
-mods/B.B EX/scripts/accuracy.lua
-mods/B.B EX/scripts/camera follow.lua
-mods/B.B EX/scripts/screenBeat.lua
-mods/B.B EX/scripts/ThetaUI.lua
-mods/B.B EX/scripts/timeBar.lua
-mods/B.B EX/scripts/titlestuff.lua
-mods/B.B EX/images/BG_sans-ex.png
+mods/data/oblique-fracture-ex/oblique-fracture-ex-ex.json
 mods/songs/oblique-fracture-ex/Voices.ogg
 mods/songs/oblique-fracture-ex/voices.ogg
 mods/songs/oblique-fracture-ex/Inst.ogg

@@ -1,39 +1,39 @@
-mods/data/jump-out-ex/events.json
+mods/data/jump-out-ex/jump-out-ex-ex.json
+mods/data/jump-out-ex/mod.txt
+mods/B.B EX/characters/bfex.json
+mods/B.B EX/characters/nodreamex.json
+mods/B.B EX/characters/gfex.json
+mods/B.B EX/stages/dieex.json
+mods/B.B EX/stages/dieex.lua
+mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
+mods/B.B EX/images/characters/BoyFriend_Assets_EX.xml
+mods/B.B EX/images/characters/bo.png
+mods/B.B EX/images/characters/bo.xml
+mods/B.B EX/images/characters/GF_ass_sets_outfit.png
+mods/B.B EX/images/characters/GF_ass_sets_outfit.xml
 mods/B.B EX/characters/littleman.json
 mods/B.B EX/images/characters/Small_Guy.png
 mods/B.B EX/images/characters/Small_Guy.xml
-mods/B.B EX/characters/bf-ex.json
-mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
-mods/B.B EX/images/characters/BoyFriend_Assets_EX.xml
-mods/B.B EX/characters/bob_tricky.json
+mods/B.B EX/characters/ex-bob.json
 mods/B.B EX/images/characters/Bob_expurgation.png
 mods/B.B EX/images/characters/Bob_expurgation.xml
-mods/B.B EX/characters/bo-ex.json
-mods/B.B EX/images/characters/bo.png
-mods/B.B EX/images/characters/bo.xml
-mods/B.B EX/characters/elpepe.json
-mods/B.B EX/images/characters/ElPepe.png
-mods/B.B EX/images/characters/ElPepe.xml
-mods/B.B EX/characters/gf-ex.json
-mods/B.B EX/images/characters/GF_ass_sets_outfit.png
-mods/B.B EX/images/characters/GF_ass_sets_outfit.xml
-mods/B.B EX/characters/mydad.json
-mods/B.B EX/images/characters/mydad.png
-mods/B.B EX/images/characters/mydad.xml
-mods/data/jump-out-ex/jump-out-ex-easy.json
-mods/data/jump-out-ex/jump-out-ex-hard.json
-mods/data/jump-out-ex/jump-out-ex.json
-mods/data/jump-out-ex/mod.txt
-mods/B.B EX/stages/bobsway.json
-mods/B.B EX/stages/bobsway.lua
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/scripts/screenBeat.lua
 mods/B.B EX/scripts/ThetaUI.lua
 mods/B.B EX/scripts/timeBar.lua
 mods/B.B EX/scripts/titlestuff.lua
-mods/B.B EX/images/stageback5.png
-mods/B.B EX/images/stagecurtains.png
+mods/B.B EX/images/BG/week3/ex/bob/sky.png
+mods/B.B EX/images/BG/week3/ex/bob/mainbg.png
+mods/B.B EX/images/BG/week3/ex/bob/pavement_poop.png
+mods/B.B EX/images/BG/week3/ex/bob/hell.png
+mods/B.B EX/images/BG/week3/ex/bob/crab.png
+mods/B.B EX/images/BG/week3/ex/bob/ElPepe.png
+mods/B.B EX/images/BG/week3/ex/bob/ElPepe.xml
+mods/B.B EX/images/BG/video/pizza.png
+mods/B.B EX/images/BG/video/fuck.png
+mods/B.B EX/images/BG/video/what.png
+mods/B.B EX/images/BG/week3/bobthings/pixelthings.png
 mods/songs/jump-out-ex/Voices.ogg
 mods/songs/jump-out-ex/voices.ogg
 mods/songs/jump-out-ex/Inst.ogg

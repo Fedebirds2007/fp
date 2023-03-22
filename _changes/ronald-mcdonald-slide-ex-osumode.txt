@@ -1,10 +1,7 @@
-mods/data/ronald-mcdonald-slide-ex/events.json
 mods/data/ronald-mcdonald-slide-ex/mod.txt
-mods/data/ronald-mcdonald-slide-ex/ronald-mcdonald-slide-ex-easy.json
-mods/data/ronald-mcdonald-slide-ex/ronald-mcdonald-slide-ex-hard.json
-mods/data/ronald-mcdonald-slide-ex/ronald-mcdonald-slide-ex.json
-mods/B.B EX/stages/coolway.json
-mods/B.B EX/stages/coolway.lua
+mods/data/ronald-mcdonald-slide-ex/ronald-mcdonald-slide-ex-ex.json
+mods/B.B EX/stages/sunsuck.json
+mods/B.B EX/stages/sunsuck.lua
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/scripts/screenBeat.lua
