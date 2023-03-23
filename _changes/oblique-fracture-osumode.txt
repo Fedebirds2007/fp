@@ -1,5 +1,0 @@
-mods/data/oblique-fracture/oblique-fracture-hard.json
-mods/songs/oblique-fracture/Voices.ogg
-mods/songs/oblique-fracture/voices.ogg
-mods/songs/oblique-fracture/Inst.ogg
-mods/songs/oblique-fracture/inst.ogg
