@@ -25,7 +25,7 @@ function onCreate()
 	addLuaSprite('pixelthing', false)
 	scaleObject('pixelthing', 2, 2);
 	
-	makeAnimatedLuaSprite('pc', 'BG/week1/amor/pc', 255, 240)
+	makeAnimatedLuaSprite('pc', 'pc', 255, 240)
     addAnimationByPrefix('pc', 'idle', 'PC idle', 24, true)
     addAnimationByPrefix('pc', 'left', 'PC Note LEFT', 24, true)
     addAnimationByPrefix('pc', 'down', 'PC Note DOWN', 24, true)
