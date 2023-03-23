@@ -19,15 +19,6 @@ function onUpdatePost()
         curOverFilledSymbol = overfilledsymbols.checkmark
     end
     accuracy = round(getProperty('ratingPercent') * 100, 2)
-    if songended == false and songName ~= 'overfilled' then
-        setPropertyFromClass('lime.app.Application', 'current.window.title', 'Kapi - Arcade Showdown vs iiHS')
-    elseif songended == false and songName == 'overfilled' then
-        setPropertyFromClass('lime.app.Application', 'current.window.title', 'Kapi - Arcade Showdown vs iiHS')
-    end
-end
-function onDestroy()
-    songended = true
-    setPropertyFromClass('lime.app.Application', 'current.window.title', 'Kapi - Arcade Showdown vs iiHS')
 end
 
 function onGameOver()

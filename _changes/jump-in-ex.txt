@@ -1,26 +1,46 @@
-mods/data/jump-in-ex/jump-in-ex-easy.json
-mods/data/jump-in-ex/jump-in-ex-hard.json
-mods/data/jump-in-ex/jump-in-ex.json
+mods/data/jump-in-ex/jump-in-ex-ex.json
 mods/data/jump-in-ex/mod.txt
-mods/B.B EX/characters/bf-ex.json
+mods/B.B EX/characters/bfex.json
 mods/B.B EX/characters/bobex.json
-mods/B.B EX/characters/gf-ex.json
-mods/B.B EX/stages/bobex.json
-mods/B.B EX/stages/bobex.lua
+mods/B.B EX/characters/gfex.json
+mods/B.B EX/stages/dayex.json
+mods/B.B EX/stages/dayex.lua
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.xml
+mods/B.B EX/images/characters/bobEX.png
+mods/B.B EX/images/characters/bobEX.xml
 mods/B.B EX/images/characters/GF_ass_sets_outfit.png
 mods/B.B EX/images/characters/GF_ass_sets_outfit.xml
+mods/B.B EX/custom_events/endanimation.lua
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/scripts/screenBeat.lua
 mods/B.B EX/scripts/ThetaUI.lua
 mods/B.B EX/scripts/timeBar.lua
 mods/B.B EX/scripts/titlestuff.lua
-mods/B.B EX/images/BG1.png
-mods/B.B EX/images/BG2.png
+mods/B.B EX/images/BG/week1/BG1.png
+mods/B.B EX/images/BG/week1/BG2.png
 mods/B.B EX/images/ex_crowd.png
-mods/B.B EX/images/BG3.png
+mods/B.B EX/images/ex_crowd.xml
+mods/B.B EX/images/BG/week1/BG3.png
+mods/B.B EX/characters/bob-ea.json
+mods/B.B EX/images/ea-7.png
+mods/B.B EX/images/ea-7.xml
+mods/B.B EX/characters/bosip-ea.json
+mods/B.B EX/sounds/voiceline/bosip_good_job.ogg
+mods/B.B EX/characters/amor-ea.json
+mods/B.B EX/images/ea-1.png
+mods/B.B EX/images/ea-1.xml
+mods/B.B EX/characters/bluskys-ea.json
+mods/B.B EX/characters/mini-ea.json
+mods/B.B EX/characters/jghost-ea.json
+mods/B.B EX/images/jghost.png
+mods/B.B EX/images/jghost.xml
+mods/B.B EX/sounds/voiceline/Youdidfine.ogg
+mods/B.B EX/characters/ash-ea.json
+mods/B.B EX/images/ash.png
+mods/B.B EX/images/ash.xml
+mods/B.B EX/sounds/voiceline/ash_cerb.ogg
 mods/songs/jump-in-ex/Voices.ogg
 mods/songs/jump-in-ex/voices.ogg
 mods/songs/jump-in-ex/Inst.ogg

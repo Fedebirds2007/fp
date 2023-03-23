@@ -1,0 +1,37 @@
+mods/data/oblique-fracture-ex/mod.txt
+mods/data/oblique-fracture-ex/oblique-fracture-ex-ex.json
+mods/B.B EX/characters/sansex.json
+mods/B.B EX/characters/amorex.json
+mods/B.B EX/characters/gf.json
+mods/B.B EX/stages/sansex.json
+mods/B.B EX/stages/sansex.lua
+mods/B.B EX/images/characters/sansEX.png
+mods/B.B EX/images/characters/sansEX.xml
+mods/B.B EX/images/characters/amorex.png
+mods/B.B EX/images/characters/amorex.xml
+mods/B.B EX/images/characters/GF_assets.png
+mods/B.B EX/images/characters/GF_assets.xml
+mods/B.B EX/custom_events/ARE YOU READY.lua
+mods/B.B EX/scripts/accuracy.lua
+mods/B.B EX/scripts/camera follow.lua
+mods/B.B EX/scripts/screenBeat.lua
+mods/B.B EX/scripts/ThetaUI.lua
+mods/B.B EX/scripts/timeBar.lua
+mods/B.B EX/scripts/titlestuff.lua
+mods/B.B EX/images/BG/extrasongs/sans/1.png
+mods/B.B EX/images/BG/extrasongs/sans/2.png
+mods/B.B EX/images/BG/extrasongs/sans/3.png
+mods/B.B EX/images/BG/extrasongs/sans/Amors room.png
+mods/B.B EX/images/BG/week1/amor/pixelthing.png
+mods/B.B EX/images/BG/week1/amor/pixelthing.xml
+mods/B.B EX/images/BG/week1/amor/pc.png
+mods/B.B EX/images/BG/week1/amor/pc.xml
+mods/B.B EX/images/BG/week1/Amor/ARE.png
+mods/B.B EX/images/BG/week1/Amor/YOU.png
+mods/B.B EX/images/BG/week1/Amor/READY.png
+mods/B.B EX/images/BG/extrasongs/sans/expaps.png
+mods/B.B EX/images/BG/extrasongs/sans/expaps.xml
+mods/songs/oblique-fracture-ex/Voices.ogg
+mods/songs/oblique-fracture-ex/voices.ogg
+mods/songs/oblique-fracture-ex/Inst.ogg
+mods/songs/oblique-fracture-ex/inst.ogg

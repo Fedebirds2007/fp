@@ -1,7 +1,6 @@
 mods/data/meowgen-rechart/events.json
 mods/data/meowgen-rechart/meowgen-rechart-hard.json
 mods/data/meowgen-rechart/mod.txt
-mods/data/meowgen-rechart/script.lua
 mods/ArcadeShowdown/stages/arcadev2.json
 mods/ArcadeShowdown/stages/arcadev2.lua
 mods/ArcadeShowdown/custom_events/lyrics.lua

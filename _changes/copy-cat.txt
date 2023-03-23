@@ -5,8 +5,8 @@ mods/data/copy-cat/mod.txt
 mods/B.B EX/characters/worriedbob.json
 mods/B.B EX/characters/bobmod.json
 mods/B.B EX/characters/worriedbosip.json
-mods/B.B EX/stages/day.json
-mods/B.B EX/stages/day.lua
+mods/B.B EX/stages/daybob.json
+mods/B.B EX/stages/daybob.lua
 mods/B.B EX/images/characters/Worriedbob.png
 mods/B.B EX/images/characters/Worriedbob.xml
 mods/B.B EX/images/characters/bob_asset.png
@@ -19,7 +19,13 @@ mods/B.B EX/scripts/screenBeat.lua
 mods/B.B EX/scripts/ThetaUI.lua
 mods/B.B EX/scripts/timeBar.lua
 mods/B.B EX/scripts/titlestuff.lua
-mods/B.B EX/images/BG_day.png
+mods/B.B EX/images/BG/week1/BG1.png
+mods/B.B EX/images/BG/week1/BG2.png
+mods/B.B EX/images/BG/week1/bluskystv.png
+mods/B.B EX/images/BG/week1/bluskystv.xml
+mods/B.B EX/images/BG/week1/mini.png
+mods/B.B EX/images/BG/week1/mini.xml
+mods/B.B EX/images/BG/week1/BG3.png
 mods/songs/copy-cat/Voices.ogg
 mods/songs/copy-cat/voices.ogg
 mods/songs/copy-cat/Inst.ogg

@@ -1,4 +1,3 @@
-mods/data/jump-in/jump-in-easy.json
 mods/data/jump-in/jump-in-hard.json
 mods/data/jump-in/jump-in.json
 mods/data/jump-in/mod.txt

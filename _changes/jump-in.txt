@@ -1,25 +1,30 @@
-mods/data/jump-in/jump-in-easy.json
 mods/data/jump-in/jump-in-hard.json
 mods/data/jump-in/jump-in.json
 mods/data/jump-in/mod.txt
 mods/B.B EX/characters/bf.json
-mods/B.B EX/characters/realbob.json
-mods/B.B EX/characters/bosip-gf.json
+mods/B.B EX/characters/bob.json
+mods/B.B EX/characters/gf-bosip.json
 mods/B.B EX/stages/day.json
 mods/B.B EX/stages/day.lua
 mods/B.B EX/images/characters/BOYFRIEND.png
 mods/B.B EX/images/characters/BOYFRIEND.xml
 mods/B.B EX/images/characters/bob_assets.png
 mods/B.B EX/images/characters/bob_assets.xml
-mods/B.B EX/images/characters/bosip_gf.png
-mods/B.B EX/images/characters/bosip_gf.xml
+mods/B.B EX/images/characters/Bosip_gf.png
+mods/B.B EX/images/characters/Bosip_gf.xml
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/scripts/screenBeat.lua
 mods/B.B EX/scripts/ThetaUI.lua
 mods/B.B EX/scripts/timeBar.lua
 mods/B.B EX/scripts/titlestuff.lua
-mods/B.B EX/images/BG_day.png
+mods/B.B EX/images/BG/week1/BG1.png
+mods/B.B EX/images/BG/week1/BG2.png
+mods/B.B EX/images/BG/week1/bluskystv.png
+mods/B.B EX/images/BG/week1/bluskystv.xml
+mods/B.B EX/images/BG/week1/mini.png
+mods/B.B EX/images/BG/week1/mini.xml
+mods/B.B EX/images/BG/week1/BG3.png
 mods/songs/jump-in/Voices.ogg
 mods/songs/jump-in/voices.ogg
 mods/songs/jump-in/Inst.ogg

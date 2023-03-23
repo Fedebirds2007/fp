@@ -1,7 +1,6 @@
 mods/data/meowgen-rechart/events.json
 mods/data/meowgen-rechart/meowgen-rechart-hard.json
 mods/data/meowgen-rechart/mod.txt
-mods/data/meowgen-rechart/script.lua
 mods/ArcadeShowdown/characters/bf.json
 mods/ArcadeShowdown/characters/newkapi.json
 mods/ArcadeShowdown/characters/KapiBoom.json
