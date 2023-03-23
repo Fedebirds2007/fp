@@ -19,7 +19,7 @@ function onCreate()
 	setScrollFactor('front', 1, 1)
 	scaleObject('front', 0.6, 0.6);
 	
-	makeAnimatedLuaSprite('pixelthing', 'BG/week1/amor/pixelthing', -520, -300)
+	makeAnimatedLuaSprite('pixelthing', 'pixelthing', -520, -300)
     addAnimationByPrefix('pixelthing', 'idle', 'pixelthing', 24, true)
 	setScrollFactor('pixelthing', 1, 1)
 	addLuaSprite('pixelthing', false)
@@ -35,19 +35,19 @@ function onCreate()
 	addLuaSprite('pc', false)
 	scaleObject('pc', 0.8, 0.8);
 	
-	makeLuaSprite('ARE', 'BG/week1/Amor/ARE', -250, -100)
+	makeLuaSprite('ARE', 'ARE', -250, -100)
 	addLuaSprite('ARE', true)
 	setScrollFactor('ARE', 0, 0)
 	scaleObject('ARE', 1.4, 1.4);
 	setProperty('ARE.visible', false)
 	
-	makeLuaSprite('YOU', 'BG/week1/Amor/YOU', -250, -100)
+	makeLuaSprite('YOU', 'YOU', -250, -100)
 	addLuaSprite('YOU', true)
 	setScrollFactor('YOU', 0, 0)
 	scaleObject('YOU', 1.4, 1.4);
 	setProperty('YOU.visible', false)
 	
-	makeLuaSprite('READY', 'BG/week1/Amor/READY', -250, -100)
+	makeLuaSprite('READY', 'Amor_READY', -250, -100)
 	addLuaSprite('READY', true)
 	setScrollFactor('READY', 0, 0)
 	scaleObject('READY', 1.4, 1.4);
