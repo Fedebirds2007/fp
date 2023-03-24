@@ -3,8 +3,8 @@ mods/data/yap-squad-ex/yap-squad-ex-ex.json
 mods/B.B EX/characters/bf-ex.json
 mods/B.B EX/characters/jghost-ex.json
 mods/B.B EX/characters/Cerberusex.json
-mods/B.B EX/stages/jghost.json
-mods/B.B EX/stages/jghost.lua
+mods/B.B EX/stages/itb-ex-jghost.json
+mods/B.B EX/stages/itb-ex-jghost.lua
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.png
 mods/B.B EX/images/characters/BoyFriend_Assets_EX.xml
 mods/B.B EX/images/characters/JghostEX.png
@@ -19,7 +19,13 @@ mods/B.B EX/scripts/screenBeat.lua
 mods/B.B EX/scripts/ThetaUI.lua
 mods/B.B EX/scripts/timeBar.lua
 mods/B.B EX/scripts/titlestuff.lua
-mods/B.B EX/images/stageback2.png
+mods/B.B EX/images/JGHOST 1.png
+mods/B.B EX/images/JGHOST 1_2.png
+mods/B.B EX/images/JGHOST 2.png
+mods/B.B EX/images/JGHOST 3.png
+mods/B.B EX/images/JGHOST 4.png
+mods/B.B EX/images/BG/gf.png
+mods/B.B EX/images/BG/gf.xml
 mods/B.B EX/characters/bob-ea.json
 mods/B.B EX/images/ea-7.png
 mods/B.B EX/images/ea-7.xml

@@ -1,7 +1,7 @@
 mods/data/yap-squad-ex/mod.txt
 mods/data/yap-squad-ex/yap-squad-ex-ex.json
-mods/B.B EX/stages/jghost.json
-mods/B.B EX/stages/jghost.lua
+mods/B.B EX/stages/itb-ex-jghost.json
+mods/B.B EX/stages/itb-ex-jghost.lua
 mods/B.B EX/custom_events/woof!.lua
 mods/B.B EX/custom_events/endanimation.lua
 mods/B.B EX/scripts/accuracy.lua

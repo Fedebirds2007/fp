@@ -22,13 +22,13 @@ mods/B.B EX/images/BG/extrasongs/sans/1.png
 mods/B.B EX/images/BG/extrasongs/sans/2.png
 mods/B.B EX/images/BG/extrasongs/sans/3.png
 mods/B.B EX/images/BG/extrasongs/sans/Amors room.png
-mods/B.B EX/images/BG/week1/amor/pixelthing.png
-mods/B.B EX/images/BG/week1/amor/pixelthing.xml
-mods/B.B EX/images/BG/week1/amor/pc.png
-mods/B.B EX/images/BG/week1/amor/pc.xml
-mods/B.B EX/images/BG/week1/Amor/ARE.png
-mods/B.B EX/images/BG/week1/Amor/YOU.png
-mods/B.B EX/images/BG/week1/Amor/READY.png
+mods/B.B EX/images/pixelthing.png
+mods/B.B EX/images/pixelthing.xml
+mods/B.B EX/images/pc.png
+mods/B.B EX/images/pc.xml
+mods/B.B EX/images/ARE.png
+mods/B.B EX/images/YOU.png
+mods/B.B EX/images/Amor_READY.png
 mods/B.B EX/images/BG/extrasongs/sans/Frisk.png
 mods/B.B EX/images/BG/extrasongs/sans/Frisk.xml
 mods/B.B EX/images/BG/extrasongs/sans/Papyrus.png
