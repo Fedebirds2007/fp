@@ -11,8 +11,8 @@ mods/B.B EX/images/characters/Worriedbob.png
 mods/B.B EX/images/characters/Worriedbob.xml
 mods/B.B EX/images/characters/bob_asset.png
 mods/B.B EX/images/characters/bob_asset.xml
-mods/B.B EX/images/characters/Worriedbosip.png
-mods/B.B EX/images/characters/Worriedbosip.xml
+mods/B.B EX/images/characters/worriedbosip.png
+mods/B.B EX/images/characters/worriedbosip.xml
 mods/B.B EX/scripts/accuracy.lua
 mods/B.B EX/scripts/camera follow.lua
 mods/B.B EX/scripts/screenBeat.lua
