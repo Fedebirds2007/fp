@@ -7,6 +7,7 @@ mods/Insane/stages/Alastor.json
 mods/Insane/stages/Alastor.lua
 mods/Insane/custom_events/Flash.lua
 mods/Insane/scripts/accuracy.lua
+mods/Insane/scripts/Cinematic_Bars.lua
 mods/Insane/scripts/ThetaUI.lua
 mods/Insane/scripts/timeBar.lua
 mods/Insane/scripts/titlestuff.lua
