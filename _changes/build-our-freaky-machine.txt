@@ -1,0 +1,8 @@
+mods/data/build-our-freaky-machine/build-our-freaky-machine-hard.json
+mods/data/build-our-freaky-machine/effects.lua
+mods/data/build-our-freaky-machine/mod.txt
+mods/data/build-our-freaky-machine/script.lua
+mods/songs/build-our-freaky-machine/Voices.ogg
+mods/songs/build-our-freaky-machine/voices.ogg
+mods/songs/build-our-freaky-machine/Inst.ogg
+mods/songs/build-our-freaky-machine/inst.ogg

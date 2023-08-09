@@ -1,0 +1,831 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "stage3p",
+		"player1": "bf6",
+		"player2": "ship",
+		"player3": null,
+		"events": [
+			[
+				60000,
+				[
+					[
+						"rain",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71996.875,
+				[
+					[
+						"black",
+						"black",
+						"6.4"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"6"
+					]
+				]
+			],
+			[
+				77600,
+				[
+					[
+						"thunder",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78395,
+				[
+					[
+						"black-remove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				82000,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				82850,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				83000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90971.25,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				91000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"BF"
+					]
+				]
+			],
+			[
+				93200,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94100,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				94200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100550,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				100600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				102800,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103700,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				103800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				109000,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109900,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				110000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				116500,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117400,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				117500,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				119700,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120600,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"Dad"
+					]
+				]
+			],
+			[
+				120700,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				123200,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"1"
+					]
+				]
+			],
+			[
+				138800,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				139700,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				139800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				143600,
+				[
+					[
+						"play",
+						"",
+						""
+					]
+					
+				]
+			],
+			[
+				143600,
+				[
+					[
+						"CamZoom",
+						"1",
+						"0"
+
+					]
+				]
+			],
+			[
+				147200,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				159000,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				159912.5,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				160050,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"1"
+					]
+				]
+			],
+			[
+				163600,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"CamZoom",
+						"3",
+						"0"
+					]
+				]
+			],
+			[
+				163200,
+				[
+					[
+						"CamZoom",
+						"2",
+						"0"
+					]
+				]
+			],
+			[
+				164000,
+				[
+					[
+						"play-remove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				164450,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				164600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				167000,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				167850,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				170000,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				170800,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				171000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				173400,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174250,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				174400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				175000,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				175856.25,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				176000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				176600,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				177450,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				177600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				178200,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				179050,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				179200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				179800,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				180650,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				180800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				182200,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				183050,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				183200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				185300,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				186150,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				186300,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				186900,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				187750,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				187900,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				190100,
+				[
+					[
+						"cannon dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				190950,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				191100,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			],
+			[
+				198000,
+				[
+					[
+						"foxyj1",
+						"",
+						""
+					]
+				]
+			],
+			[
+				198800,
+				[
+					[
+						"foxyj1-remove",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nothing",
+		"bpm": 240,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "lost-at-sea"
+	}
+}

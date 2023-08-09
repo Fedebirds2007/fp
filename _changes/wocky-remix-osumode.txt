@@ -1,0 +1,18 @@
+mods/data/wocky-remix/events.json
+mods/data/wocky-remix/mod.txt
+mods/data/wocky-remix/wocky-remix-hard.json
+mods/IHS vs Kapi/stages/arcade.json
+mods/IHS vs Kapi/stages/arcade.lua
+mods/IHS vs Kapi/custom_events/Flash Camera.lua
+mods/IHS vs Kapi/custom_events/Cinematic_Bars.lua
+mods/IHS vs Kapi/custom_events/HudGone.lua
+mods/IHS vs Kapi/custom_events/Camera Switch.lua
+mods/IHS vs Kapi/scripts/accuracy.lua
+mods/IHS vs Kapi/scripts/screenBeat.lua
+mods/IHS vs Kapi/scripts/ThetaUI.lua
+mods/IHS vs Kapi/scripts/timeBar.lua
+mods/IHS vs Kapi/scripts/titlestuff.lua
+mods/songs/wocky-remix/Voices.ogg
+mods/songs/wocky-remix/voices.ogg
+mods/songs/wocky-remix/Inst.ogg
+mods/songs/wocky-remix/inst.ogg

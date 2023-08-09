@@ -1,0 +1,11 @@
+mods/data/whoopee/BlackScreenEffect.lua
+mods/data/whoopee/cutscene.lua
+mods/data/whoopee/events.json
+mods/data/whoopee/mod.txt
+mods/data/whoopee/whoopee-hard.json
+mods/data/whoopee/whoopee-hell.json
+mods/data/whoopee/whoopee-no-mechanics.json
+mods/songs/whoopee/Voices.ogg
+mods/songs/whoopee/voices.ogg
+mods/songs/whoopee/Inst.ogg
+mods/songs/whoopee/inst.ogg

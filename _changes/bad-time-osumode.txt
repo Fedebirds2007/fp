@@ -1,0 +1,8 @@
+mods/data/bad-time/bad-time-hard.json
+mods/data/bad-time/bad-time-hell.json
+mods/data/bad-time/bad-time-no-mechanics.json
+mods/data/bad-time/mod.txt
+mods/songs/bad-time/Voices.ogg
+mods/songs/bad-time/voices.ogg
+mods/songs/bad-time/Inst.ogg
+mods/songs/bad-time/inst.ogg

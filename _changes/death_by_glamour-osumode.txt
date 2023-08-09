@@ -1,0 +1,6 @@
+mods/data/death_by_glamour/death_by_glamour-easy.json
+mods/data/death_by_glamour/death_by_glamour-hard.json
+mods/data/death_by_glamour/death_by_glamour.json
+mods/data/death_by_glamour/mod.txt
+mods/songs/death_by_glamour/Inst.ogg
+mods/songs/death_by_glamour/inst.ogg

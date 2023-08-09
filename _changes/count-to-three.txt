@@ -1,0 +1,8 @@
+mods/data/count-to-three/count-to-three-easy.json
+mods/data/count-to-three/count-to-three-hard.json
+mods/data/count-to-three/count-to-three.json
+mods/data/count-to-three/mod.txt
+mods/songs/count-to-three/Voices.ogg
+mods/songs/count-to-three/voices.ogg
+mods/songs/count-to-three/Inst.ogg
+mods/songs/count-to-three/inst.ogg

@@ -1,0 +1,8 @@
+mods/data/addict/addict-easy.json
+mods/data/addict/addict-hard.json
+mods/data/addict/addict.json
+mods/data/addict/mod.txt
+mods/songs/addict/Voices.ogg
+mods/songs/addict/voices.ogg
+mods/songs/addict/Inst.ogg
+mods/songs/addict/inst.ogg

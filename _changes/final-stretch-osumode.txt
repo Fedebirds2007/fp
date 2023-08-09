@@ -1,0 +1,8 @@
+mods/data/final-stretch/events.json
+mods/data/final-stretch/final-stretch-hard.json
+mods/data/final-stretch/final-stretch-no-mechanics.json
+mods/data/final-stretch/mod.txt
+mods/songs/final-stretch/Voices.ogg
+mods/songs/final-stretch/voices.ogg
+mods/songs/final-stretch/Inst.ogg
+mods/songs/final-stretch/inst.ogg

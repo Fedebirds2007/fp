@@ -1,0 +1,10 @@
+mods/data/sansational/attackScript.lua
+mods/data/sansational/events.json
+mods/data/sansational/mod.txt
+mods/data/sansational/sansational-hard.json
+mods/data/sansational/sansational-hell.json
+mods/data/sansational/sansational-no-mechanics.json
+mods/songs/sansational/Voices.ogg
+mods/songs/sansational/voices.ogg
+mods/songs/sansational/Inst.ogg
+mods/songs/sansational/inst.ogg

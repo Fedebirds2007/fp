@@ -1,0 +1,9 @@
+mods/data/bad-to-the-bone/bad-to-the-bone-hard.json
+mods/data/bad-to-the-bone/bad-to-the-bone-hell.json
+mods/data/bad-to-the-bone/bad-to-the-bone-no-mechanics.json
+mods/data/bad-to-the-bone/mod.txt
+mods/data/bad-to-the-bone/script.lua
+mods/songs/bad-to-the-bone/Voices.ogg
+mods/songs/bad-to-the-bone/voices.ogg
+mods/songs/bad-to-the-bone/Inst.ogg
+mods/songs/bad-to-the-bone/inst.ogg

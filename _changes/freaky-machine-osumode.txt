@@ -1,0 +1,7 @@
+mods/data/freaky-machine/freaky-machine-hard.json
+mods/data/freaky-machine/mod.txt
+mods/data/freaky-machine/script.lua
+mods/songs/freaky-machine/Voices.ogg
+mods/songs/freaky-machine/voices.ogg
+mods/songs/freaky-machine/Inst.ogg
+mods/songs/freaky-machine/inst.ogg
