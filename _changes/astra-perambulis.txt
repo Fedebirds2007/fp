@@ -2,6 +2,7 @@ mods/data/astra-perambulis/ASCEND.lua
 mods/data/astra-perambulis/astra-perambulis-original.json
 mods/data/astra-perambulis/astra-perambulis-STARWALKER.json
 mods/data/astra-perambulis/bf_death.lua
+mods/data/astra-perambulis/CHANGE WINDOW NAME.lua
 mods/data/astra-perambulis/mod.txt
 mods/data/astra-perambulis/post-dialogue.lua
 mods/Deltarune/characters/bef.json
@@ -26,6 +27,7 @@ mods/Deltarune/scripts/accuracy.lua
 mods/Deltarune/scripts/bf_death.lua
 mods/Deltarune/scripts/iconChange.lua
 mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/SHOWCASE MODE (not for you stinky botplay showcase channels. PLAY IT PROPER!).lua
 mods/Deltarune/scripts/ThetaUI.lua
 mods/Deltarune/scripts/timeBar.lua
 mods/Deltarune/images/stars.png
@@ -69,6 +71,7 @@ mods/Deltarune/images/ass.png
 mods/Deltarune/images/dark.png
 mods/Deltarune/images/carousel_everyman.png
 mods/Deltarune/images/carousel.png
+mods/Deltarune/images/characters/gkris.png
 mods/songs/astra-perambulis/Voices.ogg
 mods/songs/astra-perambulis/voices.ogg
 mods/songs/astra-perambulis/Inst.ogg

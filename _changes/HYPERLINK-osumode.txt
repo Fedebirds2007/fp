@@ -1,0 +1,18 @@
+mods/data/HYPERLINK/beat go brr.lua
+mods/data/HYPERLINK/CamMovement.lua
+mods/data/HYPERLINK/CHANGE WINDOW NAME.lua
+mods/data/HYPERLINK/dialogue script neo.lua
+mods/data/HYPERLINK/dialogue script.lua
+mods/data/HYPERLINK/events.json
+mods/data/HYPERLINK/Fake Susie.lua
+mods/data/HYPERLINK/GameOverLines.lua
+mods/data/HYPERLINK/heal.lua
+mods/data/HYPERLINK/healthdrain.lua
+mods/data/HYPERLINK/perlinCam (1).lua
+mods/data/HYPERLINK/post-dialogue.lua
+mods/data/HYPERLINK/PressF1ForHelp.lua
+mods/data/HYPERLINK/ratingNames.lua
+mods/songs/HYPERLINK/Voices.ogg
+mods/songs/HYPERLINK/voices.ogg
+mods/songs/HYPERLINK/Inst.ogg
+mods/songs/HYPERLINK/inst.ogg

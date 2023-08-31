@@ -1,18 +1,58 @@
 {
 	"song": {
-		"speed": 2.7,
+		"speed": 2.9,
 		"stage": "DesertDazzle",
 		"player1": "bf-pixel",
 		"player2": "gf-is-gone",
 		"player3": null,
 		"events": [
 			[
-				136000,
+				508.474576271186,
 				[
 					[
-						"Cam OFF",
-						"000000",
-						"4"
+						"Cinematic_Bars",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				1525.42372881356,
+				[
+					[
+						"Camera Set Target",
+						"B",
+						""
+					]
+				]
+			],
+			[
+				2033.89830508475,
+				[
+					[
+						"middlescroll",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				128898.305084746,
+				[
+					[
+						"Cinematic_Bars",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				132203.389830508,
+				[
+					[
+						"Camera Switch",
+						"5",
+						"off"
 					]
 				]
 			]
@@ -21,9 +61,9 @@
 		"splashSkin": null,
 		"validScore": false,
 		"gfVersion": "gf-pixel",
-		"bpm": 150,
+		"bpm": 118,
 		"arrowSkin": null,
 		"needsVoices": true,
-		"song": "Ruby Delusions"
+		"song": "Mirage Saloon"
 	}
 }

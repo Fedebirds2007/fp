@@ -1,5 +1,3 @@
 mods/data/gose/events.json
 mods/data/gose/gose-hard.json
 mods/data/gose/mod.txt
-mods/songs/gose/Inst.ogg
-mods/songs/gose/inst.ogg

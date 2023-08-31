@@ -1,8 +1,2 @@
-mods/data/devils-gambit/devils-gambit-hard.json
-mods/data/devils-gambit/devils-gambit-hell.json
 mods/data/devils-gambit/devils-gambit-no-mechanics.json
 mods/data/devils-gambit/mod.txt
-mods/songs/devils-gambit/Voices.ogg
-mods/songs/devils-gambit/voices.ogg
-mods/songs/devils-gambit/Inst.ogg
-mods/songs/devils-gambit/inst.ogg

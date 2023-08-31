@@ -3,7 +3,3 @@ mods/data/technicolor-tussle/mod.txt
 mods/data/technicolor-tussle/technicolor-tussle-hard.json
 mods/data/technicolor-tussle/technicolor-tussle-hell.json
 mods/data/technicolor-tussle/technicolor-tussle-no-mechanics.json
-mods/songs/technicolor-tussle/Voices.ogg
-mods/songs/technicolor-tussle/voices.ogg
-mods/songs/technicolor-tussle/Inst.ogg
-mods/songs/technicolor-tussle/inst.ogg

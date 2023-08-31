@@ -1,0 +1,18 @@
+mods/data/proceed/CHANGE WINDOW NAME.lua
+mods/data/proceed/healthdrain.lua
+mods/data/proceed/mod.txt
+mods/data/proceed/notes gone oop.lua
+mods/data/proceed/proceed-hard.json
+mods/Deltarune/stages/frozenchicken.json
+mods/Deltarune/stages/frozenchicken.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/SHOWCASE MODE (not for you stinky botplay showcase channels. PLAY IT PROPER!).lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/songs/proceed/Voices.ogg
+mods/songs/proceed/voices.ogg
+mods/songs/proceed/Inst.ogg
+mods/songs/proceed/inst.ogg

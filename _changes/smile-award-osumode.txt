@@ -1,5 +1,7 @@
 mods/data/smile-award/CamMovement.lua
+mods/data/smile-award/CHANGE WINDOW NAME.lua
 mods/data/smile-award/dialogue script.lua
+mods/data/smile-award/Fake Susie.lua
 mods/data/smile-award/GameOverLines.lua
 mods/data/smile-award/heal.lua
 mods/data/smile-award/healthdrain.lua
@@ -18,6 +20,7 @@ mods/Deltarune/scripts/accuracy.lua
 mods/Deltarune/scripts/bf_death.lua
 mods/Deltarune/scripts/iconChange.lua
 mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/SHOWCASE MODE (not for you stinky botplay showcase channels. PLAY IT PROPER!).lua
 mods/Deltarune/scripts/ThetaUI.lua
 mods/Deltarune/scripts/timeBar.lua
 mods/Deltarune/sounds/RibbonSound.ogg

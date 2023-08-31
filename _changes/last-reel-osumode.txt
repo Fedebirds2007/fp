@@ -1,13 +1,7 @@
 mods/data/last-reel/cutscene.lua
 mods/data/last-reel/events.json
-mods/data/last-reel/last-reel-hard.json
-mods/data/last-reel/last-reel-hell.json
 mods/data/last-reel/last-reel-no-mechanics.json
 mods/data/last-reel/mod.txt
 mods/data/last-reel/OpponentsJumpscares.lua
 mods/data/last-reel/script.lua
 mods/data/last-reel/ThreeTwoOneGo.lua
-mods/songs/last-reel/Voices.ogg
-mods/songs/last-reel/voices.ogg
-mods/songs/last-reel/Inst.ogg
-mods/songs/last-reel/inst.ogg

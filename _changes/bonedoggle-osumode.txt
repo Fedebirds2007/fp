@@ -1,7 +1,3 @@
 mods/data/bonedoggle/bonedoggle-hard.json
 mods/data/bonedoggle/events.json
 mods/data/bonedoggle/mod.txt
-mods/songs/bonedoggle/Voices.ogg
-mods/songs/bonedoggle/voices.ogg
-mods/songs/bonedoggle/Inst.ogg
-mods/songs/bonedoggle/inst.ogg

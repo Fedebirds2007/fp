@@ -1,4 +1,6 @@
 mods/data/thrashed/beat go brr.lua
+mods/data/thrashed/CHANGE WINDOW NAME.lua
+mods/data/thrashed/Fake Lancer.lua
 mods/data/thrashed/mod.txt
 mods/data/thrashed/thrashed-hard.json
 mods/data/thrashed/thrashed.json
@@ -19,6 +21,7 @@ mods/Deltarune/scripts/accuracy.lua
 mods/Deltarune/scripts/bf_death.lua
 mods/Deltarune/scripts/iconChange.lua
 mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/SHOWCASE MODE (not for you stinky botplay showcase channels. PLAY IT PROPER!).lua
 mods/Deltarune/scripts/ThetaUI.lua
 mods/Deltarune/scripts/timeBar.lua
 mods/Deltarune/images/lancertree.png
@@ -58,5 +61,6 @@ mods/Deltarune/images/ass.png
 mods/Deltarune/images/dark.png
 mods/Deltarune/images/carousel_everyman.png
 mods/Deltarune/images/carousel.png
+mods/Deltarune/images/characters/gkris.png
 mods/songs/thrashed/Inst.ogg
 mods/songs/thrashed/inst.ogg

@@ -1,4 +1,5 @@
 mods/data/goner/bf_death.lua
+mods/data/goner/CHANGE WINDOW NAME.lua
 mods/data/goner/dialogue script.lua
 mods/data/goner/goner-easy.json
 mods/data/goner/goner-hard.json
@@ -18,5 +19,10 @@ mods/Deltarune/scripts/accuracy.lua
 mods/Deltarune/scripts/bf_death.lua
 mods/Deltarune/scripts/iconChange.lua
 mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/SHOWCASE MODE (not for you stinky botplay showcase channels. PLAY IT PROPER!).lua
 mods/Deltarune/scripts/ThetaUI.lua
 mods/Deltarune/scripts/timeBar.lua
+mods/songs/goner/Voices.ogg
+mods/songs/goner/voices.ogg
+mods/songs/goner/Inst.ogg
+mods/songs/goner/inst.ogg

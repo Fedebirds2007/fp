@@ -2,5 +2,3 @@ mods/data/explorers/explorers-easy.json
 mods/data/explorers/explorers-hard.json
 mods/data/explorers/explorers.json
 mods/data/explorers/mod.txt
-mods/songs/explorers/Inst.ogg
-mods/songs/explorers/inst.ogg

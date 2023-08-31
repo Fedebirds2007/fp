@@ -2,7 +2,3 @@ mods/data/satanic-funkin/mod.txt
 mods/data/satanic-funkin/satanic-funkin-hard.json
 mods/data/satanic-funkin/satanic-funkin-hell.json
 mods/data/satanic-funkin/satanic-funkin-no-mechanics.json
-mods/songs/satanic-funkin/Voices.ogg
-mods/songs/satanic-funkin/voices.ogg
-mods/songs/satanic-funkin/Inst.ogg
-mods/songs/satanic-funkin/inst.ogg

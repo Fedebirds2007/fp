@@ -1,5 +1,6 @@
 mods/data/hyperlink-reloaded/BLACK SCREEN.lua
 mods/data/hyperlink-reloaded/CamMovement.lua
+mods/data/hyperlink-reloaded/CHANGE WINDOW NAME.lua
 mods/data/hyperlink-reloaded/GameOverLines.lua
 mods/data/hyperlink-reloaded/healthdrain.lua
 mods/data/hyperlink-reloaded/hyperlink-reloaded-very-hard.json
@@ -16,6 +17,7 @@ mods/Deltarune/scripts/accuracy.lua
 mods/Deltarune/scripts/bf_death.lua
 mods/Deltarune/scripts/iconChange.lua
 mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/SHOWCASE MODE (not for you stinky botplay showcase channels. PLAY IT PROPER!).lua
 mods/Deltarune/scripts/ThetaUI.lua
 mods/Deltarune/scripts/timeBar.lua
 mods/Deltarune/sounds/hurt.ogg

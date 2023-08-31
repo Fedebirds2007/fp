@@ -1,5 +1,7 @@
 mods/data/boingo-doo/beat go brr.lua
 mods/data/boingo-doo/boingo-doo-hard.json
+mods/data/boingo-doo/CHANGE WINDOW NAME.lua
+mods/data/boingo-doo/Fake Susie.lua
 mods/data/boingo-doo/heal.lua
 mods/data/boingo-doo/healthdrain.lua
 mods/data/boingo-doo/mod.txt
@@ -23,6 +25,7 @@ mods/Deltarune/scripts/accuracy.lua
 mods/Deltarune/scripts/bf_death.lua
 mods/Deltarune/scripts/iconChange.lua
 mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/SHOWCASE MODE (not for you stinky botplay showcase channels. PLAY IT PROPER!).lua
 mods/Deltarune/scripts/ThetaUI.lua
 mods/Deltarune/scripts/timeBar.lua
 mods/Deltarune/images/characters/susie.png
@@ -63,6 +66,7 @@ mods/Deltarune/images/ass.png
 mods/Deltarune/images/dark.png
 mods/Deltarune/images/carousel_everyman.png
 mods/Deltarune/images/carousel.png
+mods/Deltarune/images/characters/gkris.png
 mods/songs/boingo-doo/Voices.ogg
 mods/songs/boingo-doo/voices.ogg
 mods/songs/boingo-doo/Inst.ogg

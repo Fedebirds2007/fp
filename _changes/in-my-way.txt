@@ -1,4 +1,5 @@
 mods/data/in-my-way/BLACK SCREEN.lua
+mods/data/in-my-way/CHANGE WINDOW NAME.lua
 mods/data/in-my-way/dialogue script.lua
 mods/data/in-my-way/healthdrain.lua
 mods/data/in-my-way/in-my-way-easy.json
@@ -23,6 +24,7 @@ mods/Deltarune/scripts/accuracy.lua
 mods/Deltarune/scripts/bf_death.lua
 mods/Deltarune/scripts/iconChange.lua
 mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/SHOWCASE MODE (not for you stinky botplay showcase channels. PLAY IT PROPER!).lua
 mods/Deltarune/scripts/ThetaUI.lua
 mods/Deltarune/scripts/timeBar.lua
 mods/Deltarune/images/PrisonBg.png
@@ -59,6 +61,7 @@ mods/Deltarune/images/ass.png
 mods/Deltarune/images/dark.png
 mods/Deltarune/images/carousel_everyman.png
 mods/Deltarune/images/carousel.png
+mods/Deltarune/images/characters/gkris.png
 mods/songs/in-my-way/Voices.ogg
 mods/songs/in-my-way/voices.ogg
 mods/songs/in-my-way/Inst.ogg

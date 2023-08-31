@@ -1,0 +1,23 @@
+mods/data/the-end/CHANGE WINDOW NAME.lua
+mods/data/the-end/font.lua
+mods/data/the-end/healthdrain.lua
+mods/data/the-end/mod.txt
+mods/data/the-end/the-end-hard.json
+mods/Deltarune/stages/shelter.json
+mods/Deltarune/stages/shelter.lua
+mods/Deltarune/custom_notetypes/Lancer Sing.lua
+mods/Deltarune/custom_events/flash.lua
+mods/Deltarune/custom_events/Image Appearance.lua
+mods/Deltarune/custom_events/Set Song Length.lua
+mods/Deltarune/custom_events/lyrics.lua
+mods/Deltarune/custom_events/FastCameraOffset.lua
+mods/Deltarune/custom_events/Cam Zoom Tween.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/SHOWCASE MODE (not for you stinky botplay showcase channels. PLAY IT PROPER!).lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/songs/the-end/Inst.ogg
+mods/songs/the-end/inst.ogg

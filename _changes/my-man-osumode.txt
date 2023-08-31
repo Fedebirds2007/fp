@@ -1,3 +1,4 @@
+mods/data/my-man/CHANGE WINDOW NAME.lua
 mods/data/my-man/mod.txt
 mods/data/my-man/my-man-hard.json
 mods/data/my-man/stawrka.lua
@@ -10,6 +11,7 @@ mods/Deltarune/scripts/accuracy.lua
 mods/Deltarune/scripts/bf_death.lua
 mods/Deltarune/scripts/iconChange.lua
 mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/SHOWCASE MODE (not for you stinky botplay showcase channels. PLAY IT PROPER!).lua
 mods/Deltarune/scripts/ThetaUI.lua
 mods/Deltarune/scripts/timeBar.lua
 mods/songs/my-man/Voices.ogg

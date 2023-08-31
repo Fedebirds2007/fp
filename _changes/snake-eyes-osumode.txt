@@ -3,7 +3,3 @@ mods/data/snake-eyes/mod.txt
 mods/data/snake-eyes/snake-eyes-hard.json
 mods/data/snake-eyes/snake-eyes-hell.json
 mods/data/snake-eyes/snake-eyes-no-mechanics.json
-mods/songs/snake-eyes/Voices.ogg
-mods/songs/snake-eyes/voices.ogg
-mods/songs/snake-eyes/Inst.ogg
-mods/songs/snake-eyes/inst.ogg

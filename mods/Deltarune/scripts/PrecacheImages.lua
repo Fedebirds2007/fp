@@ -31,4 +31,5 @@ function onCreate()
 	precacheImage('dark');
 	precacheImage('carousel_everyman');
 	precacheImage('carousel');
+	precacheImage('characters/gkris');
 end

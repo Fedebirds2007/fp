@@ -2,7 +2,3 @@ mods/data/ritual/mod.txt
 mods/data/ritual/ritual-hard.json
 mods/data/ritual/ritual-hell.json
 mods/data/ritual/ritual-no-mechanics.json
-mods/songs/ritual/Voices.ogg
-mods/songs/ritual/voices.ogg
-mods/songs/ritual/Inst.ogg
-mods/songs/ritual/inst.ogg

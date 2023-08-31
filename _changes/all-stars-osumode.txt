@@ -3,6 +3,7 @@ mods/data/all-stars/all-stars-easy.json
 mods/data/all-stars/all-stars-hard.json
 mods/data/all-stars/all-stars.json
 mods/data/all-stars/bf_death.lua
+mods/data/all-stars/CHANGE WINDOW NAME.lua
 mods/data/all-stars/mod.txt
 mods/data/all-stars/PressF1ForHelp.lua
 mods/data/all-stars/queen2.lua
@@ -17,6 +18,7 @@ mods/Deltarune/scripts/accuracy.lua
 mods/Deltarune/scripts/bf_death.lua
 mods/Deltarune/scripts/iconChange.lua
 mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/SHOWCASE MODE (not for you stinky botplay showcase channels. PLAY IT PROPER!).lua
 mods/Deltarune/scripts/ThetaUI.lua
 mods/Deltarune/scripts/timeBar.lua
 mods/Deltarune/sounds/RibbonSound.ogg

@@ -1,10 +1,4 @@
 mods/data/burning-in-hell/attackScript.lua
-mods/data/burning-in-hell/burning-in-hell-hard.json
-mods/data/burning-in-hell/burning-in-hell-hell.json
 mods/data/burning-in-hell/burning-in-hell-no-mechanics.json
 mods/data/burning-in-hell/mod.txt
 mods/data/burning-in-hell/script.lua
-mods/songs/burning-in-hell/Voices.ogg
-mods/songs/burning-in-hell/voices.ogg
-mods/songs/burning-in-hell/Inst.ogg
-mods/songs/burning-in-hell/inst.ogg

@@ -3,6 +3,10 @@ mods/data/ruby-delusions/mod.txt
 mods/data/ruby-delusions/ruby-delusions-hard.json
 mods/IHS vs KapiCinema/stages/DesertDazzle.json
 mods/IHS vs KapiCinema/stages/DesertDazzle.lua
+mods/IHS vs KapiCinema/custom_events/middlescroll.lua
+mods/IHS vs KapiCinema/custom_events/Camera Set Target.lua
+mods/IHS vs KapiCinema/custom_events/Cinematic_Bars.lua
+mods/IHS vs KapiCinema/custom_events/Camera Switch.lua
 mods/IHS vs KapiCinema/scripts/accuracy.lua
 mods/IHS vs KapiCinema/scripts/Cinematic_Bars.lua
 mods/IHS vs KapiCinema/scripts/screenBeat.lua

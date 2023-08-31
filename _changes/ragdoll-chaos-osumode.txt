@@ -1,5 +1,6 @@
 mods/data/ragdoll-chaos/BLACK SCREEN.lua
 mods/data/ragdoll-chaos/Carousel.lua
+mods/data/ragdoll-chaos/CHANGE WINDOW NAME.lua
 mods/data/ragdoll-chaos/demosoncamera.lua
 mods/data/ragdoll-chaos/dialogue script CHAOS.lua
 mods/data/ragdoll-chaos/dialogue script.lua
@@ -23,6 +24,7 @@ mods/Deltarune/scripts/accuracy.lua
 mods/Deltarune/scripts/bf_death.lua
 mods/Deltarune/scripts/iconChange.lua
 mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/SHOWCASE MODE (not for you stinky botplay showcase channels. PLAY IT PROPER!).lua
 mods/Deltarune/scripts/ThetaUI.lua
 mods/Deltarune/scripts/timeBar.lua
 mods/songs/ragdoll-chaos/Voices.ogg
